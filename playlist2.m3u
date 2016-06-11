@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,---NOVITA
 http://dummylink.com
-#EXTINF:-1,Gomorra (in fondo)
-http://dummylink.com
 #EXTINF:-1,Squadra antimafia(in fondo)
 http://dummylink.com
 #EXTINF:-1,Harry Potter (in fondo)
@@ -18,23 +16,23 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/14351.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2399.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1162.ts
 #EXTINF:-1,Rai 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2400.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1163.ts
 #EXTINF:-1,Rai 3 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2401.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1164.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3813.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1178.ts
 #EXTINF:-1,Canale 5 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3811.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1115.ts
 #EXTINF:-1,Italia 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3812.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1128.ts
 #EXTINF:-1,La 7 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3814.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1130.ts
 #EXTINF:-1 ,Rai 4
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1200_av-p.m3u8
 #EXTINF:-1,Iris
@@ -90,9 +88,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5050.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1180.ts
 #EXTINF:-1,RSI LA 2 HD
-http://gameserver4.streamiptv.online:80/live/amninomaress/owkuVJucJA/5051.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1181.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -521,524 +519,310 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,-------- SKY CINEMA --------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1032.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3806.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/7436.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4148.ts
-#EXTINF:-1,Sky Cinema  24 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18690.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3820.ts
-#EXTINF:-1,Sky Cinema Hits HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18691.ts
-#EXTINF:-1,SKY Cinema Family HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3237.ts
-#EXTINF:-1,Sky Cinema Family HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18693.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3807.ts
-#EXTINF:-1,Sky Cinema Max HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18692.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3821.ts
-#EXTINF:-1,Sky Cinema Passion HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18694.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3816.ts
-#EXTINF:-1,Sky Cinema Cult HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18695.ts
-#EXTINF:-1,Sky CInema Classic HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3663.ts
-#EXTINF:-1,Sky Cinema Classic HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18697.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3236.ts
-#EXTINF:-1,Sky Cinema Comedy  HD +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18696.ts
-#EXTINF:-1,---- SKY CINEMA ADSL LENTA ---
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17974.ts
-#EXTINF:-1,Sky Cinema 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13721.ts
-#EXTINF:-1,Sky Cinema  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13723.ts
-#EXTINF:-1,Sky Cinema  +24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13722.ts
-#EXTINF:-1,Sky Cinema  Hits
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/14014.ts
-#EXTINF:-1,Sky Cinema Family
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13717.ts
-#EXTINF:-1,Sky Cinema Family  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13716.ts
-#EXTINF:-1,Sky Cinema Max
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13715.ts
-#EXTINF:-1,Sky Cinema Max  1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13714.ts
-#EXTINF:-1,Sky Cinema Passion
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13712.ts
-#EXTINF:-1,Sky Cinema Cult
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13718.ts
-#EXTINF:-1,Sky Cinema Classic
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13720.ts
-#EXTINF:-1,Sky Cinema Comedy
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13719.ts
-#EXTINF:-1,---- PREMIUM CINEMA
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17975.ts
+#EXTINF:-1,----------PREMIUM CINEMA----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4613.ts
 #EXTINF:-1,Premium Cinema 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2450.ts
-#EXTINF:-1,Premium Cinema 1 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18720.ts
-#EXTINF:-1,Premium Cinema  24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2518.ts
-#EXTINF:-1,Premium Cinema 1 24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18719.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1152.ts
+#EXTINF:-1,Premium Cinema +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1149.ts
 #EXTINF:-1,Premium Cinema 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2517.ts
-#EXTINF:-1,Premium Cinema 2 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18722.ts
-#EXTINF:-1,Premium Cinema 2  24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2519.ts
-#EXTINF:-1,Premium Cinema 2  24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18721.ts
-#EXTINF:-1,Paramount Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13608.ts
-#EXTINF:-1,Premium Cinema Action  24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2451.ts
-#EXTINF:-1,Premium Crime HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2522.ts
-#EXTINF:-1,Premium Crime HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18725.ts
-#EXTINF:-1,Premium Crime  24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2455.ts
-#EXTINF:-1,Premium Crime 24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18724.ts
-#EXTINF:-1,Premium Action HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2521.ts
-#EXTINF:-1,Premium Action +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18717.ts
-#EXTINF:-1,Premium Stories
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2461.ts
-#EXTINF:-1,Premium Stories  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18733.ts
-#EXTINF:-1,Premium Stories + 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13141.ts
-#EXTINF:-1,Premium Stories  24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18734.ts
-#EXTINF:-1,Premium Joy
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2460.ts
-#EXTINF:-1,Premium Joy  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18729.ts
-#EXTINF:-1,Premium Joy + 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13140.ts
-#EXTINF:-1,Premium Joy 24  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18730.ts
-#EXTINF:-1,Premium Studio Universal
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2462.ts
-#EXTINF:-1,Premium Cinema Energy
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2454.ts
-#EXTINF:-1,Premium Energy  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18728.ts
-#EXTINF:-1,Premium Cinema Emotion
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2453.ts
-#EXTINF:-1,Premium Emotion  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18727.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1155.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1154.ts
 #EXTINF:-1,Premium Cinema Comedy
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2452.ts
-#EXTINF:-1,Premium Comedy  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18723.ts
-#EXTINF:-1,-------SKY INTRATTENIMENTO -------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1039.ts
-#EXTINF:-1,Sky 3D
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12007.ts
-#EXTINF:-1,Sky Uno HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3808.ts
-#EXTINF:-1,Sky Uno HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18705.ts
-#EXTINF:-1,Sky Atlantic HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3805.ts
-#EXTINF:-1,Sky Atlantic HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18711.ts
-#EXTINF:-1,Sky Atlantic HD  +2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18716.ts
-#EXTINF:-1,Sposa HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16158.ts
-#EXTINF:-1,Fox HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3801.ts
-#EXTINF:-1,Fox HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18707.ts
-#EXTINF:-1,Fox Life HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3802.ts
-#EXTINF:-1,Fox Life HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18708.ts
-#EXTINF:-1,Fox Crime HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2424.ts
-#EXTINF:-1,Fox Crime HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18709.ts
-#EXTINF:-1,Fox Comedy HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2423.ts
-#EXTINF:-1,Fox Animation HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2509.ts
-#EXTINF:-1,AXN HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2411.ts
-#EXTINF:-1,Axn HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18710.ts
-#EXTINF:-1,AXN Sci Fi
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2527.ts
-#EXTINF:-1,Crime Investigation HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3649.ts
-#EXTINF:-1,Comedy Central
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17130.ts
-#EXTINF:-1,Real Time +1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12834.ts
-#EXTINF:-1,Dmax
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2417.ts
-#EXTINF:-1,Real Time
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2468.ts
-#EXTINF:-1,Dee Jay Tv  1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12838.ts
-#EXTINF:-1,Man-ga
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12210.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1150.ts
+#EXTINF:-1,Premium Cinema Energy
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1151.ts
+#EXTINF:-1,Premium Cinema Emotion
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1156.ts
+#EXTINF:-1,Paramount Channel HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2909.ts
+#EXTINF:-1,Studio Universal
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1185.ts
+#EXTINF:-1,Rai Movie HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1168.ts
 #EXTINF:-1,Iris
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2514.ts
-#EXTINF:-1,Giallo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3223.ts
-#EXTINF:-1,Cielo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2414.ts
-#EXTINF:-1,Lei
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2526.ts
-#EXTINF:-1,TV 2000
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2515.ts
-#EXTINF:-1,Rai Premium
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2466.ts
-#EXTINF:-1,Rai Movie
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2464.ts
-#EXTINF:-1,Rai 4
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2407.ts
-#EXTINF:-1,Rai 5
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2408.ts
-#EXTINF:-1,Mediaset Extra
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2434.ts
-#EXTINF:-1,La 7d
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2431.ts
-#EXTINF:-1,La 5
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2516.ts
-#EXTINF:-1,Top Crime
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2489.ts
-#EXTINF:-1,Italia 2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2429.ts
-#EXTINF:-1,SRF Info
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2511.ts
-#EXTINF:-1,Tv Globo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2499.ts
-#EXTINF:-1,Teleticino HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2500.ts
-#EXTINF:-1,M6 HD FR
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2510.ts
-#EXTINF:-1,RTS 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2505.ts
-#EXTINF:-1,RTS 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2506.ts
-#EXTINF:-1,-------- SKY CULTURA --------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1036.ts
-#EXTINF:-1,National Geographic HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2437.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2439.ts
-#EXTINF:-1,Animal Planet
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2410.ts
-#EXTINF:-1,Nat Geo People HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2438.ts
-#EXTINF:-1,Discovery HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3824.ts
-#EXTINF:-1,Discovery Science HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3825.ts
-#EXTINF:-1,Discovery T e L HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3817.ts
-#EXTINF:-1,Dmax +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12902.ts
-#EXTINF:-1,Classica HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17131.ts
-#EXTINF:-1,Caccia e Pesca
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3823.ts
-#EXTINF:-1,Pesca e Caccia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12197.ts
-#EXTINF:-1,Italia Fishing
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16160.ts
-#EXTINF:-1,Focus
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2422.ts
-#EXTINF:-1,History HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4159.ts
-#EXTINF:-1,Explora HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4158.ts
-#EXTINF:-1,Sky Arte HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2524.ts
-#EXTINF:-1,Gambero Rosso HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3658.ts
-#EXTINF:-1,Alice
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2409.ts
-#EXTINF:-1,Fine Living
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2421.ts
-#EXTINF:-1,Marco Polo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2433.ts
-#EXTINF:-1,Leonardo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2432.ts
-#EXTINF:-1,E! Enternament
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2418.ts
-#EXTINF:-1,Rai Storia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/14099.ts
-#EXTINF:-1,Rai Scuola
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2496.ts
-#EXTINF:-1,Rai Senato
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2497.ts
-#EXTINF:-1,--------- SKY BAMBINI ---------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/6638.ts
-#EXTINF:-1,Dea Kids
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13701.ts
-#EXTINF:-1,Boing
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/14082.ts
-#EXTINF:-1,Sky Disney Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16161.ts
-#EXTINF:-1,Premium Disney Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2457.ts
-#EXTINF:-1,Premium Disney Junior
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3645.ts
-#EXTINF:-1,Premium Disney Junior  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18726.ts
-#EXTINF:-1,Premium Disney +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2458.ts
-#EXTINF:-1,Disney XD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2416.ts
-#EXTINF:-1,Cartoonito
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2413.ts
-#EXTINF:-1,K2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2430.ts
-#EXTINF:-1,Frisbee
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2427.ts
-#EXTINF:-1,Rai Gulp
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2463.ts
-#EXTINF:-1,Super!
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2487.ts
-#EXTINF:-1,Rai Yoyo
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2498.ts
-#EXTINF:-1,Nikeleodeon
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8663.ts
-#EXTINF:-1,Premium Carton Network
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2449.ts
-#EXTINF:-1,Premium Cartoon Network  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18718.ts
-#EXTINF:-1,-------- NOTIZIE -------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/6640.ts
-#EXTINF:-1,Sky TG 24 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2485.ts
-#EXTINF:-1,Rai News 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2465.ts
-#EXTINF:-1,TgCom 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2488.ts
-#EXTINF:-1,TG Norba 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/7493.ts
-#EXTINF:-1,Gazzetta tv
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/7494.ts
-#EXTINF:-1,Videolina
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9286.ts
-#EXTINF:-1,TV luna
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9289.ts
-#EXTINF:-1,Telemia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9284.ts
-#EXTINF:-1,Antenna Sicilia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9281.ts
-#EXTINF:-1,R3
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9283.ts
-#EXTINF:-1,Italia 7 gold
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9280.ts
-#EXTINF:-1,Clb classic Italia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9282.ts
-#EXTINF:-1,Canale 8
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9288.ts
-#EXTINF:-1,Canale 21
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9287.ts
-#EXTINF:-1,Sardegna 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/9285.ts
-#EXTINF:-1,-------- SKY SPORT --------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1033.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2483.ts
-#EXTINF:-1,Sky Sport 24 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18698.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8640.ts
-#EXTINF:-1,Sky Sport Plus HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18702.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2480.ts
-#EXTINF:-1,Sky Sport 1 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18699.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2481.ts
-#EXTINF:-1,Sky Sport 2 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18700.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2482.ts
-#EXTINF:-1,Sky Sport 3 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18701.ts
-#EXTINF:-1,Fox Sports HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3109.ts
-#EXTINF:-1,Fox Sport HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18706.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2478.ts
-#EXTINF:-1,Sky Sport F1 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18703.ts
-#EXTINF:-1,Sky Moto GP HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2479.ts
-#EXTINF:-1,Sky Sport MotoGP HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18704.ts
-#EXTINF:-1,Class Horse Tv
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16159.ts
-#EXTINF:-1,Eurosport 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4156.ts
-#EXTINF:-1,Eurosport 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4157.ts
-#EXTINF:-1,Sport Italia
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/7156.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13609.ts
-#EXTINF:-1,Rai Sport 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2467.ts
-#EXTINF:-1,Rai Sport 2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8664.ts
-#EXTINF:-1,Supertennis HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2513.ts
-#EXTINF:-1,Motor TV
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3226.ts
-#EXTINF:-1,Nuvolari
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3666.ts
-#EXTINF:-1,Poker Italia 24
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13702.ts
-#EXTINF:-1,Auto Moto Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13861.ts
-#EXTINF:-1,Bike Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13859.ts
-#EXTINF:-1,-------- SKY CALCIO --------
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/1359.ts
-#EXTINF:-1,Sky Supercalcio FHD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13607.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2484.ts
-#EXTINF:-1,Sky Supercalcio HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18712.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2470.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2471.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2472.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4160.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4511.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4512.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/6107.ts
-#EXTINF:-1,Sky Calcio 8
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8497.ts
-#EXTINF:-1,Sky Calcio 9
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8498.ts
-#EXTINF:-1,Sky Calcio 10
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8496.ts
-#EXTINF:-1,Sky Calcio 11 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12013.ts
-#EXTINF:-1,Sky Calcio 12 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12014.ts
-#EXTINF:-1,Juventus TV
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8620.ts
-#EXTINF:-1,MIlan Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8618.ts
-#EXTINF:-1,Inter Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/4215.ts
-#EXTINF:-1,Roma TV
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/8622.ts
-#EXTINF:-1,Lazio Channel
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12211.ts
-#EXTINF:-1,----PREMIUM SPORT
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1127.ts
+#EXTINF:-1,Premium Action HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1139.ts
+#EXTINF:-1,Premium Action +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1138.ts
+#EXTINF:-1,Premium Crime HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1158.ts
+#EXTINF:-1,Premium Crime +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1157.ts
+#EXTINF:-1,Premium Cinema Joi
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1153.ts
+#EXTINF:-1,Premium Cinema Joi +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1192.ts
+#EXTINF:-1,--- PREMIUM SPORT
 http://dummylink.com
-#EXTINF:-1,Premium Sport 1 FHD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16137.ts
-#EXTINF:-1,Premium Sport 2 FHD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16138.ts
-#EXTINF:-1,Premium Sport 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/3664.ts
-#EXTINF:-1,Premium Sport 1 HD  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18731.ts
+#EXTINF:-1,Premium Sport HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1160.ts
 #EXTINF:-1,Premium Sport 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/12840.ts
-#EXTINF:-1,Premium Sport 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16139.ts
-#EXTINF:-1,Premium Sport 1  +1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18732.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1148.ts
 #EXTINF:-1,Premium Sport 2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/16140.ts
-#EXTINF:-1,Premium Calcio
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2490.ts
-#EXTINF:-1,Premium Calcio HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2448.ts
-#EXTINF:-1,Premium Calcio 1
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/5297.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1140.ts
 #EXTINF:-1,Premium Calcio 1 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13123.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1141.ts
 #EXTINF:-1,Premium Calcio 2
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/5298.ts
-#EXTINF:-1,Premium Calcio 2 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2442.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1142.ts
 #EXTINF:-1,Premium Calcio 3
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2443.ts
-#EXTINF:-1,Premium Calcio 3 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13118.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1143.ts
 #EXTINF:-1,Premium Calcio 4
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2444.ts
-#EXTINF:-1,Premium Calcio 4 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13119.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1144.ts
 #EXTINF:-1,Premium Calcio 5
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2445.ts
-#EXTINF:-1,Premium Calcio 5 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13120.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1145.ts
 #EXTINF:-1,Premium Calcio 6
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2446.ts
-#EXTINF:-1,Premium Calcio 6 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13121.ts
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1146.ts
 #EXTINF:-1,Premium Calcio 7
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/2447.ts
-#EXTINF:-1,Premium Calcio 7 HD
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13122.ts
-#EXTINF:-1,----- NUOVI PRIMAFILA -----
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/13606.ts
-#EXTINF:-1,PF1 -L ABBIAMO FATTA GROSSA-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18194.mkv
-#EXTINF:-1,PF2 -CREED-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18198.mkv
-#EXTINF:-1,PF3 -STEVE JOBS-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18199.mkv
-#EXTINF:-1,PF4 -REVENAT REDVIVO-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18200.mkv
-#EXTINF:-1,PF5 -THE PROGRAM-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18201.mkv
-#EXTINF:-1,PF6 -THE LOBSTER-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18202.mkv
-#EXTINF:-1,PF7 -STAR WARS: IL RISVEGLIO DELLA FORZA-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18203.mkv
-#EXTINF:-1,PF8 -SE MI LASCI NON VALE-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18204.mkv
-#EXTINF:-1,PF9 -THE GREEN INFERNO-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18205.mkv
-#EXTINF:-1,PF10 -SICARIO-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18195.mkv
-#EXTINF:-1,PF11 -EXTRACTION-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18196.mkv
-#EXTINF:-1,PF12 -THE VISIT-
-http://lucky.lts1.net:23000/movie/Andrea25/Andrea25/18197.mkv
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1147.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1172.ts
+#EXTINF:-1,Rai Sport 2
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1173.ts
+#EXTINF:-1,Eurosport 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1124.ts
+#EXTINF:-1,Eurosport 2 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1123.ts
+#EXTINF:-1,SuperTennis HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1186.ts
+#EXTINF:-1,BIKE CHANNEL HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2044.ts
+#EXTINF:-1,Sportitalia
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1184.ts
+#EXTINF:-1,Automoto TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1113.ts
+#EXTINF:-1,Class Horse TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1119.ts
+#EXTINF:-1,----------Sky Cinema----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5112.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/30.ts
+#EXTINF:-1,SKY CINEMA +24 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1505.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/28.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/32.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/31.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/33.ts
+#EXTINF:-1,Cinema Max HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/51.ts
+#EXTINF:-1,Cinema Cult HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/46.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/29.ts
+#EXTINF:-1,Sky 3D
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1868.ts
+#EXTINF:-1,----------Sky Intrattenimento----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4635.ts
+#EXTINF:-1,Sky Uno HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/47.ts
+#EXTINF:-1,Sky Atlantic HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/34.ts
+#EXTINF:-1,AXN HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/41.ts
+#EXTINF:-1,Fox HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/43.ts
+#EXTINF:-1,Fox Life HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1486.ts
+#EXTINF:-1,Fox Crime HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/50.ts
+#EXTINF:-1,Fox Comedy HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/37.ts
+#EXTINF:-1,Fox Animation HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1487.ts
+#EXTINF:-1,Premium Stories
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1161.ts
+#EXTINF:-1,Premium Stories +24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1121.ts
+#EXTINF:-1,Animal Planet
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/7.ts
+#EXTINF:-1,Discovery Channel HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/45.ts
+#EXTINF:-1,Discovery Sci HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/5.ts
+#EXTINF:-1,Discovery Travel and Living HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1467.ts
+#EXTINF:-1,Crime Investigation HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/6.ts
+#EXTINF:-1,Explora HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/4.ts
+#EXTINF:-1,Focus
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1125.ts
+#EXTINF:-1,FINE LIVING
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2267.ts
+#EXTINF:-1,DMAX
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1122.ts
+#EXTINF:-1,National Geographic HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/42.ts
+#EXTINF:-1,Nat Geo Wild HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/44.ts
+#EXTINF:-1,Nat Geo People
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/39.ts
+#EXTINF:-1,History HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/40.ts
+#EXTINF:-1,Nautical HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2685.ts
+#EXTINF:-1,Marco Polo
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/38.ts
+#EXTINF:-1,Rai Scuola
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1171.ts
+#EXTINF:-1,Rai Storia
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1174.ts
+#EXTINF:-1,Italian Fishing TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1129.ts
+#EXTINF:-1,Pesca e Caccia
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2.ts
+#EXTINF:-1,Caccia e Pesca
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1484.ts
+#EXTINF:-1,----------Sky Sport----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/5113.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/24.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/20.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/21.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/22.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1490.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/23.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/27.ts
+#EXTINF:-1,Fox Sport HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/35.ts
+#EXTINF:-1,Sky SuperCalcio HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/49.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/25.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/26.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/14.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/13.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/12.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/11.ts
+#EXTINF:-1,SKY Calcio 7 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/10.ts
+#EXTINF:-1,SKY Calcio 8 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/9.ts
+#EXTINF:-1,SKY Calcio 9 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1760.ts
+#EXTINF:-1,Inter Channel
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/18.ts
+#EXTINF:-1,Juventus Channel
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/17.ts
+#EXTINF:-1,Milan channel
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/16.ts
+#EXTINF:-1,Roma Channel
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/15.ts
+#EXTINF:-1,----------Sky Bambini----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4618.ts
+#EXTINF:-1,Disney XD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/36.ts
+#EXTINF:-1,Disney Junior
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1502.ts
+#EXTINF:-1,Disney Channel HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1500.ts
+#EXTINF:-1,CartoonNetwork
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1117.ts
+#EXTINF:-1,Baby TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2638.ts
+#EXTINF:-1,Cartonito
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1116.ts
+#EXTINF:-1,Boing
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1114.ts
+#EXTINF:-1,Rai Gulp
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1167.ts
+#EXTINF:-1,Super!
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1470.ts
+#EXTINF:-1,K2
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1466.ts
+#EXTINF:-1,Frisbee
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1465.ts
+#EXTINF:-1,Rai Yoyo
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1175.ts
+#EXTINF:-1,----------Sky Musica----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4617.ts
+#EXTINF:-1,Radio Montecarlo Tv
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2164.ts
+#EXTINF:-1,MTV Live HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1135.ts
+#EXTINF:-1,MTV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1136.ts
+#EXTINF:-1,MTV Music
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1461.ts
+#EXTINF:-1,MTV Hits
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1460.ts
+#EXTINF:-1,MTV Dance
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1459.ts
+#EXTINF:-1,MTV Rocks
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1462.ts
+#EXTINF:-1,MTV Base
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1457.ts
+#EXTINF:-1,MTV Classic
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1458.ts
+#EXTINF:-1,VH1
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1463.ts
+#EXTINF:-1,Retro Music TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2894.ts
+#EXTINF:-1,Viva
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1464.ts
+#EXTINF:-1,Deejay TV
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1120.ts
+#EXTINF:-1,VEVO 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2686.ts
+#EXTINF:-1,VEVO 2 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2687.ts
+#EXTINF:-1,VEVO 3 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2688.ts
+#EXTINF:-1,----------Sky Notizie-----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4616.ts
+#EXTINF:-1,Sky TG 24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/48.ts
+#EXTINF:-1,Rai News 24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1169.ts
+#EXTINF:-1,TGCom 24
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1187.ts
+#EXTINF:-1,Telepace HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/2910.ts
+#EXTINF:-1,-----------sky Primafila----------
+http://gameserver4.streamiptv.online:80/live/cardillo/cardillo/4615.ts
+#EXTINF:-1,Sky Primafila 1 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1734.ts
+#EXTINF:-1,Sky Primafila 2 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1735.ts
+#EXTINF:-1,Sky Primafila 3 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1736.ts
+#EXTINF:-1,Sky Primafila 4 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1737.ts
+#EXTINF:-1,Sky Primafila 5 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1738.ts
+#EXTINF:-1,Sky Primafila 6 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1739.ts
+#EXTINF:-1,Sky Primafila 7 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1740.ts
+#EXTINF:-1,Sky Primafila 8 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1741.ts
+#EXTINF:-1,Sky Primafila 11 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1471.ts
+#EXTINF:-1,Sky Primafila 12 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1472.ts
+#EXTINF:-1,Sky Primafila 13 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1473.ts
+#EXTINF:-1,Sky Primafila 14 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1474.ts
+#EXTINF:-1,Sky Primafila 15 HD
+http://serv01.iptvplanet.eu:11118/live/massimo/massimo/1475.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC
@@ -5471,49 +5255,3 @@ http://fullblack.fullapple.me:8000/movie/pablito/pablito/963.mkv
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/964.mkv
 #EXTINF:-1,Squadra Antimafia S07 EP10
 http://fullblack.fullapple.me:8000/movie/pablito/pablito/965.mkv
-#EXTINF:-1,---GOMORRA
-http://dummylink.com
-#EXTINF:-1,Gomorra 1x01
-http://gtatemvod.com:43100/movie/viper/viper/982.mkv
-#EXTINF:-1,Gomorra 1x02
-http://gtatemvod.com:43100/movie/viper/viper/983.mkv
-#EXTINF:-1,Gomorra 1x03
-http://gtatemvod.com:43100/movie/viper/viper/984.mkv
-#EXTINF:-1,Gomorra 1x04
-http://gtatemvod.com:43100/movie/viper/viper/985.mkv
-#EXTINF:-1,Gomorra 1x05
-http://gtatemvod.com:43100/movie/viper/viper/986.mkv
-#EXTINF:-1,Gomorra 1x06
-http://gtatemvod.com:43100/movie/viper/viper/987.mkv
-#EXTINF:-1,Gomorra 1x07
-http://gtatemvod.com:43100/movie/viper/viper/988.mkv
-#EXTINF:-1,Gomorra 1x08
-http://gtatemvod.com:43100/movie/viper/viper/989.mkv
-#EXTINF:-1,Gomorra 1x09
-http://gtatemvod.com:43100/movie/viper/viper/990.mkv
-#EXTINF:-1,Gomorra 1x10
-http://gtatemvod.com:43100/movie/viper/viper/991.mkv
-#EXTINF:-1,Gomorra 1x11
-http://gtatemvod.com:43100/movie/viper/viper/992.mkv
-#EXTINF:-1,Gomorra 1x12
-http://gtatemvod.com:43100/movie/viper/viper/993.mkv
-#EXTINF:-1,Gomorra 2x01
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17133.ts
-#EXTINF:-1,Gomorra 2x02
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/17135.ts
-#EXTINF:-1,Gomorra 2x03
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18207.ts
-#EXTINF:-1,Gomorra 2x04
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18208.ts
-#EXTINF:-1,Gomorra 2x05
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18209.ts
-#EXTINF:-1,Gomorra 2x06
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18210.ts
-#EXTINF:-1,Gomorra 2x07
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18736.ts
-#EXTINF:-1,Gomorra 2x08
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18737.ts
-#EXTINF:-1,Gomorra 2x09
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18738.ts
-#EXTINF:-1,Gomorra 2x10
-http://lucky.lts1.net:23000/live/Andrea25/Andrea25/18739.ts
