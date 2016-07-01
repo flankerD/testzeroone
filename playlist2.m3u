@@ -1,116 +1,654 @@
 #EXTM3U
-#EXTINF:-1,---NOVITA
+#EXTINF:-1,-----NOVITA -----
 http://dummylink.com
-#EXTINF:-1, Gomorra Serie TV (in fondo)
+#EXTINF:-1,Il Trono Di Spade 6 (in fondo)
 http://dummylink.com
-#EXTINF:-1,---------ON DEMAND-----------
-http://-.dyndns.org:34555/live/pierangelo/pierangelo/1646.ts
-#EXTINF:-1,Captain.America.Civil.War
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2098.mp4
-#EXTINF:-1,Zona.D.Ombra
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2062.avi
-#EXTINF:-1,Un.Estate.In.Provenza
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2061.avi
-#EXTINF:-1,Troppo.Napoletano
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2060.avi
-#EXTINF:-1,Star.Wars.Episodio.VII.Il
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1331.mkv
-#EXTINF:-1,Race.il.Colore.Della.Vittoria CD 1
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2052.avi
-#EXTINF:-1,Race.il.Colore.Della.Vittoria CD 2
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2053.avi
-#EXTINF:-1,Nonno.Scatenato
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2059.avi
-#EXTINF:-1,Il.libro.della.giungla.
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2058.avi
-#EXTINF:-1,Hardcore.Henry
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2057.avi
-#EXTINF:-1,Deadpool HD
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2056.avi
-#EXTINF:-1,Criminal
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2055.avi
-#EXTINF:-1,Codice.9.9.9
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/2054.avi
-#EXTINF:-1,Risorto
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1815.mkv
-#EXTINF:-1,Brooklyn
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1807.mkv
-#EXTINF:-1,Zootropolis
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1820.mkv
-#EXTINF:-1,Banat.2016
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1861.mkv
-#EXTINF:-1,Billy.Il.Koala
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1806.mkv
-#EXTINF:-1,La.Quinta.Onda
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1813.mkv
-#EXTINF:-1,Il.Figlio.Di.Saul
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1862.mkv
-#EXTINF:-1,Kung.Fu.Panda.3
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1812.mkv
-#EXTINF:-1,Vita.Cuore.Battito
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1819.mkv
-#EXTINF:-1,Il.Viaggio.Di.Norm
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1811.mkv
-#EXTINF:-1,Mi.Rifaccio.Il.Trullo
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1814.mkv
-#EXTINF:-1,Forever.Young.2016
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1809.mkv
-#EXTINF:-1,Attacco.Al.Potere.2
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1804.mkv
-#EXTINF:-1,Un.Paese.Quasi.Perfetto
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1818.mkv
-#EXTINF:-1,Cinquanta.Sbavature.Di.Nero
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1563.mkv
-#EXTINF:-1,The.Divergent.Series.Allegiant
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1817.mkv
-#EXTINF:-1,Sherlock.L.Abominevole.Sposa
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1556.mkv
-#EXTINF:-1,Il.Cacciatore.E.La.Regina.Di.Ghiaccio
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1873.mkv
-#EXTINF:-1,Batman.V.Superman.Dawn.Of.Justice
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1805.mkv
-#EXTINF:-1,Il.Mio.Grosso.Grasso.Matrimonio.Greco.2
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1810.mkv
-#EXTINF:-1,13.Hours.The.Secret.Soldiers.of.Benghazi
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1860.mkv
-#EXTINF:-1,Star.Wars.Episodio.VII
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1816.mkv
+#EXTINF:-1,-----CINEMA ESCLUSIVA -----
+http://dummylink.com
+#EXTINF:-1,Now you see me 2
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1690.mkv
+#EXTINF:-1,The Conjuring Il Caso Enfield
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1686.mkv
+#EXTINF:-1,Mother s Day
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1689.mkv
+#EXTINF:-1,Tutti vogliono qualcosa
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1675.mkv
+#EXTINF:-1,Alice attraverso lo specchio
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1527.avi
+#EXTINF:-1,The Nice Guys
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1622.mkv
+#EXTINF:-1,La Cospirazione 
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1631.mkv
+#EXTINF:-1,Angry Bird il Film
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1630.mkv
+#EXTINF:-1,The Boss
+http://1speed.dyndns.tv:8000/movie/svezia/svezia/1676.mkv
+#EXTINF:-1,----- ON DEMAND OGGI -----
+http://cobra-iptv.noip.me:8000/live/agiemme/agiemme/4080.ts
+#EXTINF:-1,Hunger Games Il canto della rivolta P2
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11717.mkv
+#EXTINF:-1,Southpaw- L ultima sfida
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11743.mkv
+#EXTINF:-1,Tracers
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11721.mkv
+#EXTINF:-1,Lo straordinario viaggio di T.S Spivert
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11744.mkv
+#EXTINF:-1,Il fidanzato di mia sorella
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11745.mkv
+#EXTINF:-1,Un occasione da dio
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9525.mkv
+#EXTINF:-1,007 Spectre
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9519.mkv
+#EXTINF:-1,Tutto puo  accadere a Broadway
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11722.mkv
+#EXTINF:-1,Padri e Figlie
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11723.mkv
+#EXTINF:-1,Babadook
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/10538.mkv
+#EXTINF:-1,Self/Less
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/10532.mkv
+#EXTINF:-1,Il fidanzato di papa 
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/10533.mkv
+#EXTINF:-1,The visit
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/10534.mkv
+#EXTINF:-1,Straight outta compton
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/10535.mkv
+#EXTINF:-1,La regola del gioco
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9523.mkv
+#EXTINF:-1,Hitman:agent 47
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/10536.mkv
+#EXTINF:-1,Ruth e Alex.l amore cerca casa
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9520.mkv
+#EXTINF:-1,Sopravvisuto.the martian
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/10537.mkv
+#EXTINF:-1,Piccoli Brividi (2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8445.mkv
+#EXTINF:-1,Troppo Napoletano(2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11726.mkv
+#EXTINF:-1,13 hours the secret soldiers of benghazi(2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9531.mkv
+#EXTINF:-1,Un paese quasi perfetto(2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11748.mkv
+#EXTINF:-1,Il Viaggio di Norm(2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9534.mkv
+#EXTINF:-1,Il cacciatore e la regina di ghiaccio(2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9533.mkv
+#EXTINF:-1,Il mio grosso grasso matrimonio greco 2(2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11746.mkv
+#EXTINF:-1,La Quinta Onda (2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8438.mkv
+#EXTINF:-1,Joy (2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8442.mkv
+#EXTINF:-1,Il mio miglior nemico (2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8783.mkv
+#EXTINF:-1,L ultima Parola La vera storia di Dalton Trumbo (2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9228.mkv
+#EXTINF:-1,Blue Mountain State The Rise of Thailand (2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9231.mkv
+#EXTINF:-1,The Pills sempre meglio che lavorare (2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8440.mkv
+#EXTINF:-1,Doraemon Nobita e gli eroi dello spazio (2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8441.mkv
+#EXTINF:-1,Il luogo delle ombre (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8426.mkv
+#EXTINF:-1,Amy (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8422.mkv
+#EXTINF:-1,Black Mass (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9524.mkv
+#EXTINF:-1,Via dalla Pazza Follia (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8420.mkv
+#EXTINF:-1,Il figlio di saul(2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/10541.mkv
+#EXTINF:-1,Billy il Koala(2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11747.mkv
+#EXTINF:-1,Heart of the Sea Le origini di moby(2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11740.mkv
+#EXTINF:-1,Natale col boss(2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11741.mkv
+#EXTINF:-1,Alvin Superstar Nessuno ci puo  fermare(2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11788.mkv
+#EXTINF:-1,Il Professor Cenerentolo(2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11720.mkv
+#EXTINF:-1,Il viaggio di Arlo(2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11791.mkv
+#EXTINF:-1,Joker Wild Card(2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11724.mkv
+#EXTINF:-1,Maze Runner La fuga(2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11725.mkv
+#EXTINF:-1,A Blast (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9232.mkv
+#EXTINF:-1,The Hateful Eight (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8436.mkv
+#EXTINF:-1,Steve Jobs (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8446.mkv
+#EXTINF:-1,Point Break (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8437.mkv
+#EXTINF:-1,The Walk (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8429.mkv
+#EXTINF:-1,Everest (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8427.mkv
+#EXTINF:-1,Sopravvissuto The Martian (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8425.mkv
+#EXTINF:-1,Contagious (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8424.mkv
+#EXTINF:-1,True Story (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8423.mkv
+#EXTINF:-1,Teneramente Folle (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8433.mkv
+#EXTINF:-1,Magic Mike XXL (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8431.mkv
+#EXTINF:-1,Grandma (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9567.mkv
+#EXTINF:-1,The Vatican Tapes (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8834.mkv
+#EXTINF:-1,Tremors 5 Bloodlines (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8626.mkv
+#EXTINF:-1,Tooken (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8835.mkv
+#EXTINF:-1,The Program (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8831.mkv
+#EXTINF:-1,The Last Witch Hunter (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8829.mkv
+#EXTINF:-1,Teen Beach 2 (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8827.mkv
+#EXTINF:-1,Left Behind La Profezia (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8421.mkv
+#EXTINF:-1,Selfless (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8624.mkv
+#EXTINF:-1,Moving Target (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8628.mkv
+#EXTINF:-1,Una Notte Da Matricole (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8625.mkv
+#EXTINF:-1,Marguerite (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8618.mkv
+#EXTINF:-1,Manuale Scout Per L Apocalisse Zombie (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8619.mkv
+#EXTINF:-1,Franny (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8614.mkv
+#EXTINF:-1,Chiamatemi Francesco (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8613.mkv
+#EXTINF:-1,SuperFast E SuperFurious Solo Party Originali (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8734.mkv
+#EXTINF:-1,Ritorno alla vita (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8623.mkv
+#EXTINF:-1,Lo Stagista Inaspettato (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8616.mkv
+#EXTINF:-1,Ai Confini della Giustizia (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8615.mkv
+#EXTINF:-1,Affare Fatto Unfinished Business (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8600.mkv
+#EXTINF:-1,Accidental Love (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8599.mkv
+#EXTINF:-1,Un Occasione Da Dio (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8713.mkv
+#EXTINF:-1,Un Disastro Di Ragazza (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8715.mkv
+#EXTINF:-1,Taxi Teheran (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8732.mkv
+#EXTINF:-1,Suburra (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8735.mkv
+#EXTINF:-1,Southpaw L Ultima Sfida 2015
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8737.mkv
+#EXTINF:-1,Soldato Semplice (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8740.mkv
+#EXTINF:-1,Si Accettano Miracoli (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8741.mkv
+#EXTINF:-1,Sei Mai Stata Sulla Luna (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8742.mkv
+#EXTINF:-1,Nomi E Cognomi (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8755.mkv
+#EXTINF:-1,No Escape Colpo Di Stato (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8756.mkv
+#EXTINF:-1,Mission Impossible 5 Rogue Nation (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8759.mkv
+#EXTINF:-1,La Prima Volta Di Mia Figlia (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8770.mkv
+#EXTINF:-1,L.Esigenza Di Unirmi Ogni Volta Con Te (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8774.mkv
+#EXTINF:-1,Italiano medio (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8777.mkv
+#EXTINF:-1,Il principe abusivo (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8782.mkv
+#EXTINF:-1,Humandroid (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8784.mkv
+#EXTINF:-1,Hot movie (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8785.mkv
+#EXTINF:-1,Ho ucciso napoleone (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8786.mkv
+#EXTINF:-1,Hitman agent 47 (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8787.mkv
+#EXTINF:-1,Fantastici 4 (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8794.mkv
+#EXTINF:-1,Fast and furious 7 (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8792.mkv
+#EXTINF:-1,Curve (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8798.mkv
+#EXTINF:-1,Crimson Peak (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8799.mkv
+#EXTINF:-1,Cinquanta sfumature di grigio (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8804.mkv
+#EXTINF:-1,Avengers Age Of Ultron (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8807.mkv
+#EXTINF:-1,Ant Man (2015)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8810.mkv
+#EXTINF:-1,Uniti Per Sempre (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8627.mkv
+#EXTINF:-1,Samba (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8432.mkv
+#EXTINF:-1,The Humbling (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8828.mkv
+#EXTINF:-1,Storia d Inverno (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8826.mkv
+#EXTINF:-1,Redeemer (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8621.mkv
+#EXTINF:-1,Lo Hobbit La Battaglia Delle Cinque Armate (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8765.mkv
+#EXTINF:-1,Ameluk (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8604.mkv
+#EXTINF:-1,Tutto Puo Accadere A Broadway (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8718.mkv
+#EXTINF:-1,Professore per amore(2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11790.mkv
+#EXTINF:-1,Qualcosa di buono(2014
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11787.mkv
+#EXTINF:-1,Se Chiudo Gli Occhi Non Sono Piu Qui (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8743.mkv
+#EXTINF:-1,Scrivimi Ancora (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8745.mkv
+#EXTINF:-1,Italo (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8776.mkv
+#EXTINF:-1,Edge Of Tomorrow (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8602.mkv
+#EXTINF:-1,A Piedi Nudi (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8606.mkv
+#EXTINF:-1,A Most Wanted Man La Spia (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8605.mkv
+#EXTINF:-1,A Fighting Man (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8601.mkv
+#EXTINF:-1,Una Donna Per Amica (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8712.mkv
+#EXTINF:-1,Un Natale Stupefacente (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8714.mkv
+#EXTINF:-1,L assassinio di Jesse James (2007)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9571.mkv
+#EXTINF:-1,G.I. Joe La Vendetta
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/10795.mkv
+#EXTINF:-1,Un Amore Senza Fine (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8716.mkv
+#EXTINF:-1,Tutta Colpa Di Freud (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8719.mkv
+#EXTINF:-1,The Calling (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8730.mkv
+#EXTINF:-1,Sotto Una Buona Stella (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8738.mkv
+#EXTINF:-1,Scusate Se Esisto (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8744.mkv
+#EXTINF:-1,Sapore Di Te (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8746.mkv
+#EXTINF:-1,Reclaim (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8748.mkv
+#EXTINF:-1,Predestination (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8751.mkv
+#EXTINF:-1,Need for Speed (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8757.mkv
+#EXTINF:-1,Messi Storia Di Un Campione (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8760.mkv
+#EXTINF:-1,Ma Tu Di Che Segno Sei (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8764.mkv
+#EXTINF:-1,La Vita E Facile Ad Occhi Chiusi (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8767.mkv
+#EXTINF:-1,La Regola Del Gioco (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8769.mkv
+#EXTINF:-1,La Mossa Del Pinguino (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8771.mkv
+#EXTINF:-1,Tutto può accadere a Broadway (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9575.mkv
+#EXTINF:-1,99 Homes (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9568.mkv
+#EXTINF:-1,Il ragazzo invisibile (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8781.mkv
+#EXTINF:-1,Forza maggiore (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8791.mkv
+#EXTINF:-1,Confusi e felici (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8800.mkv
+#EXTINF:-1,Colpa delle stelle (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8803.mkv
+#EXTINF:-1,Andiamo a quel paese (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8811.mkv
+#EXTINF:-1,Amici come noi (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8818.mkv
+#EXTINF:-1,American Sniper (2014)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8821.mkv
+#EXTINF:-1,The Physician Medicus (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8830.mkv
+#EXTINF:-1,Battaglia Nei Cieli (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8612.mkv
+#EXTINF:-1,Una Piccola Impresa Meridionale (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8582.mkv
+#EXTINF:-1,Universitari Molto Piu Che Amici (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8580.mkv
+#EXTINF:-1,Una Notte Da Leoni 3 (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8709.mkv
+#EXTINF:-1,Thor The Dark World (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8722.mkv
+#EXTINF:-1,The Host (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8725.mkv
+#EXTINF:-1,The Terror Live (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8832.mkv
+#EXTINF:-1,Sx Tape (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8733.mkv
+#EXTINF:-1,Stai Lontana Da Me (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8736.mkv
+#EXTINF:-1,Sole A Catinelle (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8739.mkv
+#EXTINF:-1,Rush (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8747.mkv
+#EXTINF:-1,Pazze Di Me (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8754.mkv
+#EXTINF:-1,La Moglie Del Sarto (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8772.mkv
+#EXTINF:-1,L Alba Di Un Impero (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8775.mkv
+#EXTINF:-1,Indovina chi viene a natale (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8779.mkv
+#EXTINF:-1,Ghost Movie (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8789.mkv
+#EXTINF:-1,Fuga di cervelli (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8790.mkv
+#EXTINF:-1,Fast and furious 6 (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8793.mkv
+#EXTINF:-1,Due agenti molti speciali (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8796.mkv
+#EXTINF:-1,Come ti spaccio la famiglia (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8801.mkv
+#EXTINF:-1,Colpi di fortuna (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8802.mkv
+#EXTINF:-1,Benvenuto presidente (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8805.mkv
+#EXTINF:-1,Aspirante vedovo (2013)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8808.mkv
+#EXTINF:-1,Interview With a Hitman (2012)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9569.mkv
+#EXTINF:-1,Titanic Nascita Di Una Leggenda (2012)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8721.mkv
+#EXTINF:-1,Ted (2012)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8731.mkv
+#EXTINF:-1,Mai Stati Uniti (2012)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8763.mkv
+#EXTINF:-1,Dream Team (2012)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8797.mkv
+#EXTINF:-1,10 Regole per fare innamorare (2012)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8824.mkv
+#EXTINF:-1,Immaturi il viaggio (2012)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8780.mkv
+#EXTINF:-1,Transformers Dark of the Moon (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9576.mkv
+#EXTINF:-1,Anche se amore non si vede (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8812.mkv
+#EXTINF:-1,10 ragazze (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8825.mkv
+#EXTINF:-1,Una Notte Da Leoni 2 (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8710.mkv
+#EXTINF:-1,Thor (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8723.mkv
+#EXTINF:-1,The Howling Reborn (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8724.mkv
+#EXTINF:-1,The Fast And The Furious 5 (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8727.mkv
+#EXTINF:-1,Baciato dalla fortuna (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8806.mkv
+#EXTINF:-1,Amici di letto (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8817.mkv
+#EXTINF:-1,Amici amanti e... (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8819.mkv
+#EXTINF:-1,Vacanze Di Natale A Cortina (2011)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8579.mkv
+#EXTINF:-1,Appuntamento con l amore (2010)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8611.mkv
+#EXTINF:-1,La Banda Dei Babbi Natale (2010)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8773.mkv
+#EXTINF:-1,Natale In Sudafrica (2010)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8758.mkv
+#EXTINF:-1,Lei E Troppo Per Me (2010)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8766.mkv
+#EXTINF:-1,Amore e altri rimedi (2010)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8813.mkv
+#EXTINF:-1,La vendetta del caduto (2009)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9577.mkv
+#EXTINF:-1,Una Notte da Leoni (2009)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8711.mkv
+#EXTINF:-1,The Fast And The Furious 4 Solo Parti Originali (2009)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8728.mkv
+#EXTINF:-1,La Rivolta Delle Ex (2009)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8768.mkv
+#EXTINF:-1,Appuntamenti Per Farla Innamorare (2009)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8809.mkv
+#EXTINF:-1,Amore 14 (2009)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8816.mkv
+#EXTINF:-1,Amore bugie e calciettio (2008)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8814.mkv
+#EXTINF:-1,Vivere o morire (2007)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9573.mkv
+#EXTINF:-1,Epic Movie (2007)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8795.mkv
+#EXTINF:-1,Tre Metri Sopra Il Pelo (2007)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8720.mkv
+#EXTINF:-1,The Fast And The Furious Tokyo Drift (2006)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8726.mkv
+#EXTINF:-1,American Trip Il Primo Viaggio Non Si Scorda Mai (2004)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8820.mkv
+#EXTINF:-1,American Party (2004)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8822.mkv
+#EXTINF:-1,Two Fast And 2 Furious 2 (2003)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8717.mkv
+#EXTINF:-1,Lost in translation (2003)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8617.mkv
+#EXTINF:-1,Porky College Un Duro Per Amico (2002)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8752.mkv
+#EXTINF:-1,Amore a prima svista (2001)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8815.mkv
+#EXTINF:-1,The Fast And The Furios (2001)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8729.mkv
+#EXTINF:-1,Regole D Onore (2000)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8622.mkv
+#EXTINF:-1,Porky College Sempre Piu Duro (2000)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8753.mkv
+#EXTINF:-1,Il Gladiatore (2000)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8778.mkv
+#EXTINF:-1,100 ragazze (2000)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8823.mkv
+#EXTINF:-1,Giovanna d arco (1999)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8788.mkv
+#EXTINF:-1,Duri a morire (1995)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9574.mkv
+#EXTINF:-1,Pulp Fiction (1994)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8750.mkv
+#EXTINF:-1,Mamma Ho Riperso L Aereo Mi Sono Smarrito A New York (1992)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8761.mkv
+#EXTINF:-1,Mamma Ho Perso L Aereo (1990)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8762.mkv
+#EXTINF:-1,Die Hard - Trappola di cristallo (1988)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9572.mkv
+#EXTINF:-1,Una poltrona per due (1983)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8581.mkv
+#EXTINF:-1,Angeli
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8603.mkv
+#EXTINF:-1,----- ON DEMAND BAMBINI OGGI-----
+http://cobra-iptv.noip.me:8000/live/agiemme/agiemme/3750.ts
+#EXTINF:-1,Il viaggio di Arlo
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/11719.mkv
+#EXTINF:-1,Snoopy e Friends.il film dei peanuts
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9521.mkv
+#EXTINF:-1,Albert e il diamante magico
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8698.mkv
+#EXTINF:-1,Atlantis: L impero Perduto
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8697.mkv
+#EXTINF:-1,Barbie e il regno segreto
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8696.mkv
+#EXTINF:-1,Barbie e il tesoro dei cuccioli
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8695.mkv
+#EXTINF:-1,Barbie e la principessa delle perle
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8694.mkv
+#EXTINF:-1,Barbie Mariposa and the Fairy Princess
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8693.mkv
+#EXTINF:-1,Barbie: Principessa rock
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8692.mkv
+#EXTINF:-1,Bianca e Bernie nella terra dei canguri
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8691.mkv
+#EXTINF:-1,Big hero 6
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8690.mkv
+#EXTINF:-1,Boo York
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8689.mkv
+#EXTINF:-1,Cars motori ruggenti
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8688.mkv
+#EXTINF:-1,Cars 2
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/9565.mkv
+#EXTINF:-1,Cattivissimo Me
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8687.mkv
+#EXTINF:-1,Cattivissimo Me 2
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8686.mkv
+#EXTINF:-1,Cenerentola
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8685.mkv
+#EXTINF:-1,Dino e la macchina del tempo
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8684.mkv
+#EXTINF:-1,Dragon Ball Z: La rerurrezione di F
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8683.mkv
+#EXTINF:-1,Dragon trainer
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8682.mkv
+#EXTINF:-1,Dumbo
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8681.mkv
+#EXTINF:-1,Fantasia: 2000
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8679.mkv
+#EXTINF:-1,Fantasia: walt Disney
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8678.mkv
+#EXTINF:-1,Frozen: fever
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8677.mkv
+#EXTINF:-1,Frozen: Il regno di ghiaccio
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8676.mkv
+#EXTINF:-1,Epic: Il mondo segreto
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8680.mkv
+#EXTINF:-1,Halo: La caduta di Reach
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8675.mkv
+#EXTINF:-1,Hotel transylvania
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8674.mkv
+#EXTINF:-1,Hotel Transylvania 2
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8673.mkv
+#EXTINF:-1,Il castello nel cielo
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8671.mkv
+#EXTINF:-1,Il gatto con gli stivali
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8670.mkv
+#EXTINF:-1,Il gobbo di notre:dame
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8669.mkv
+#EXTINF:-1,Il libro della vita
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8668.mkv
+#EXTINF:-1,InsideOut (2016)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8430.mkv
+#EXTINF:-1,Il mio amico gicante
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8667.mkv
+#EXTINF:-1,Il re leone
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8666.mkv
+#EXTINF:-1,Inside out
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8665.mkv
+#EXTINF:-1,Ken il guerriero: La leggenda di Raoul
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8664.mkv
+#EXTINF:-1,L attacco dei Giganti: P. 1
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8663.mkv
+#EXTINF:-1,La bella addormentata nel bosco
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8662.mkv
+#EXTINF:-1,La bella e la bestia
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8661.mkv
+#EXTINF:-1,La sirenetta
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8660.mkv
+#EXTINF:-1,LA spada nella roccia
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8659.mkv
+#EXTINF:-1,Le avventure di Peter Pan
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8658.mkv
+#EXTINF:-1,Lego Super Heroes: Justice League Vs Bizarro League
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8657.mkv
+#EXTINF:-1,Lilli e il vagabondo
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8656.mkv
+#EXTINF:-1,Lilli e il vagabondo 2
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8655.mkv
+#EXTINF:-1,Lilo e Stitch
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8654.mkv
+#EXTINF:-1,Minions
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8653.mkv
+#EXTINF:-1,Monster High: 13 Wishes
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8652.mkv
+#EXTINF:-1,Monster High: Ciak si Grida
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8651.mkv
+#EXTINF:-1,Monster High: Freaky Fusion
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8650.mkv
+#EXTINF:-1,Monster High: Haunted
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8649.mkv
+#EXTINF:-1,Mune: Il gurdiano della luna
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8648.mkv
+#EXTINF:-1,Naruto: Shippuden il maestro e il discepolo
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8647.mkv
+#EXTINF:-1,Naruto Il maestro e il discepolo
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8620.mkv
+#EXTINF:-1,Oliver e Company
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8646.mkv
+#EXTINF:-1,Paddington
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8645.mkv
+#EXTINF:-1,Pinocchio
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8644.mkv
+#EXTINF:-1,Piovono polpette
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8643.mkv
+#EXTINF:-1,Pixies
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8642.mkv
+#EXTINF:-1,Pocahontas
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8641.mkv
+#EXTINF:-1,Polar express
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8640.mkv
+#EXTINF:-1,Porco rosso
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8639.mkv
+#EXTINF:-1,Postino pat
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8638.mkv
+#EXTINF:-1,Ralph Spaccatutto (2012)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8749.mkv
+#EXTINF:-1,Red e Tody nemiciamici
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8637.mkv
+#EXTINF:-1,Scooby Doo
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8636.mkv
+#EXTINF:-1,Strange Magic
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8635.mkv
+#EXTINF:-1,Super buddies
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8634.mkv
+#EXTINF:-1,Sword Of The Stranger
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8633.mkv
+#EXTINF:-1,Un mostro a Parigi (2012)
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8632.mkv
+#EXTINF:-1,Uno zoo in fuga
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8631.mkv
+#EXTINF:-1,Winx club: Il mistero degli abissi
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8630.mkv
+#EXTINF:-1,Yellowbird
+http://cobra-iptv.noip.me:8000/movie/agiemme/agiemme/8629.mkv
 #EXTINF:-1,---DEFAULT
 http://dummylink.com
 #EXTINF:-1,Rai 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/160.ts
-#EXTINF:-1,Rai 1 -Dsl Lenta-
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2101.ts
-#EXTINF:-1,Rai 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/159.ts
-#EXTINF:-1,Rai 2 -Dsl Lenta-
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2102.ts
-#EXTINF:-1,Rai 3 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/158.ts
-#EXTINF:-1,Rai 3 -Dsl Lenta-
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2103.ts
+http://ipsatpro.com:8000/live/170216/170216/693.ts
+#EXTINF:-1, Rai 2 HD
+http://ipsatpro.com:8000/live/170216/170216/692.ts
+#EXTINF:-1, Rai 3 HD
+http://ipsatpro.com:8000/live/170216/170216/691.ts
 #EXTINF:-1,Canale 5
 http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Italia 1
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Rete 4 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/153.ts
-#EXTINF:-1,Rete 4  -Dsl Lenta-
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2104.ts
-#EXTINF:-1,Canale 5 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/205.ts
-#EXTINF:-1,Canale 5  -Dsl Lenta-
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2105.ts
-#EXTINF:-1,Italia 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/197.ts
-#EXTINF:-1,Italia 1 -Dsl Lenta-
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2106.ts
+http://ipsatpro.com:8000/live/170216/170216/690.ts
+#EXTINF:-1, Canale 5 HD
+http://ipsatpro.com:8000/live/170216/170216/686.ts
+#EXTINF:-1, Italia 1 HD
+http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(03)/index.m3u8
+#EXTINF:-1, La 5
+http://ipsatpro.com:8000/live/170216/170216/556.ts
 #EXTINF:-1,La7
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1704.ts
-#EXTINF:-1,La5
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1797.ts
+http://cdn02.selling-team.net:8000/live/raim3/raim3/4127.ts
 #EXTINF:-1 ,Rai 4
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1792.ts
+http://cdn02.selling-team.net:8000/live/raim3/raim3/12288.ts
 #EXTINF:-1,Iris
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
 #EXTINF:-1,Iris HD
@@ -164,9 +702,9 @@ http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(f
 #EXTINF:-1 ,Rai Sport 2
 http://ultra.super-iptv.space:13884/live/sandro/sandro/149.m3u8
 #EXTINF:-1,RSI LA 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/152.ts
+http://ipsatpro.com:8000/live/170216/170216/688.ts
 #EXTINF:-1,RSI LA 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/151.ts
+http://ipsatpro.com:8000/live/170216/170216/687.ts
 #EXTINF:-1 ,Onda Italiana
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
 #EXTINF:-1 ,Canale Italia 83
@@ -595,292 +1133,540 @@ http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 ,Fano Tv
 http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
-#EXTINF:-1,--------MEDIASET PREMIUM ----------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/308.ts
+#EXTINF:-1,----------Mediaset Premium----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4613.ts
 #EXTINF:-1,Premium Cinema HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/173.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4527.ts
 #EXTINF:-1,Premium Cinema 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/176.ts
-#EXTINF:-1,Premium Cinema  +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/178.ts
-#EXTINF:-1,Premium Cinema 2  +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/177.ts
-#EXTINF:-1,Premium Cinema Energy
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/174.ts
-#EXTINF:-1,Premium Cinema Comedy
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/175.ts
-#EXTINF:-1,Premium Stories +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/188.ts
-#EXTINF:-1,Premium joy + 24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/161.ts
-#EXTINF:-1,Premium DIscovery World
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/170.ts
-#EXTINF:-1,Premium Crime HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/171.ts
-#EXTINF:-1,Premium Crime  +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/172.ts
-#EXTINF:-1,Premium Action HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/189.ts
-#EXTINF:-1,Premium Action  +24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/190.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4528.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4529.ts
+#EXTINF:-1,Premium Cinema +24
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4530.ts
 #EXTINF:-1,Premium Emotion
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/166.ts
-#EXTINF:-1,Premium Disney Channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/168.ts
-#EXTINF:-1,Premium Disney Junior
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/167.ts
-#EXTINF:-1,Premium Joy
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/163.ts
-#EXTINF:-1,--------- PREMIUM CALCIO ---------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/307.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4534.ts
+#EXTINF:-1,Premium Comedy
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4540.ts
+#EXTINF:-1,Premium Energy
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4533.ts
+#EXTINF:-1,Premium Stories
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4532.ts
+#EXTINF:-1,Premium Stories +24
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4544.ts
+#EXTINF:-1,Premium Action HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4537.ts
+#EXTINF:-1,Premium Action +24
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4538.ts
+#EXTINF:-1,Premium Joi
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4536.ts
+#EXTINF:-1,Premium Joi +24
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4555.ts
+#EXTINF:-1,Studio Universal - Premium
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4541.ts
+#EXTINF:-1,Disney Junior - Premium
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4542.ts
+#EXTINF:-1,Premium Crime HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4531.ts
+#EXTINF:-1,Cartoon Network - Premium
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4545.ts
+#EXTINF:-1,----------PREMIUM SPORT----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4613.ts
 #EXTINF:-1,Premium Sport HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/162.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4553.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4546.ts
+#EXTINF:-1,Premium Sport 2
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5131.ts
 #EXTINF:-1,Premium Calcio 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/185.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4026.ts
+#EXTINF:-1,Premium Calcio 1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4548.ts
 #EXTINF:-1,Premium Calcio 2
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/184.ts
-#EXTINF:-1,Premium Calcio 3
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/183.ts
-#EXTINF:-1,Premium Calcio 4
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/182.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4549.ts
 #EXTINF:-1,Premium Calcio 5
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/181.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4550.ts
 #EXTINF:-1,Premium Calcio 6
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/180.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4551.ts
 #EXTINF:-1,Premium Calcio 7
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/179.ts
-#EXTINF:-1,--------- INTRATTENIMENTO ----------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/306.ts
-#EXTINF:-1,Sky TG 24
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/97.ts
-#EXTINF:-1,SKY Fox Animation HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/12.ts
-#EXTINF:-1,FOX COMEDY HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/68.ts
-#EXTINF:-1,Sky Atlantic HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/149.ts
-#EXTINF:-1,FOX LIFE HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/65.ts
-#EXTINF:-1,Fox Crime HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/202.ts
-#EXTINF:-1,Sky Uno HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/126.ts
-#EXTINF:-1,AXN HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1765.ts
-#EXTINF:-1,FOX HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/67.ts
-#EXTINF:-1,-------- CULTURA ---------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/305.ts
-#EXTINF:-1,Discovery Channel HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/118.ts
-#EXTINF:-1,Discovery Science HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/117.ts
-#EXTINF:-1,Discovery Travel e Living HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/116.ts
-#EXTINF:-1,Crime Investigation HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1654.ts
-#EXTINF:-1,NatGeo People HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/105.ts
-#EXTINF:-1,Gambero rosso HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/201.ts
-#EXTINF:-1,NatGeo Wild HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/104.ts
-#EXTINF:-1,Nat Geo  HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/191.ts
-#EXTINF:-1,History HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/47.ts
-#EXTINF:-1,Caccia e Pesca
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/70.ts
-#EXTINF:-1,-------- BAMBINI -------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/303.ts
-#EXTINF:-1,Masha e Orso Channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2112.ts
-#EXTINF:-1,Disney Channel HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/115.ts
-#EXTINF:-1,Peppa Pig Channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/114.ts
-#EXTINF:-1,Cartoon Network
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/120.ts
-#EXTINF:-1,Disney Junior
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/113.ts
-#EXTINF:-1,Disney XD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/112.ts
-#EXTINF:-1,Cartoonito
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/119.ts
-#EXTINF:-1,Boing
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/121.ts
-#EXTINF:-1,FrisBee
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/124.ts
-#EXTINF:-1,K2
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/111.ts
-#EXTINF:-1,-------- SKY CINEMA ---------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/302.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4552.ts
+#EXTINF:-1,Rai Sport 1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4554.ts
+#EXTINF:-1,Rai Sport 2
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4488.ts
+#EXTINF:-1,Rai Premium
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4491.ts
+#EXTINF:-1,----------Sky Cinema----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5112.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/140.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/139.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/137.ts
-#EXTINF:-1,Sky Cinema Max  HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/134.ts
-#EXTINF:-1,Sky Cinema +1
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2089.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5053.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5054.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/141.ts
-#EXTINF:-1,SKY Cinema Family HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/136.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5062.ts
+#EXTINF:-1,Sky Cinema Hits HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5057.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5058.ts
 #EXTINF:-1,Sky Cinema Family +1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/135.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/59.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5059.ts
+#EXTINF:-1,Sky Cinema Classics HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5061.ts
 #EXTINF:-1,Sky Cinema Passion HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/133.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5064.ts
 #EXTINF:-1,Sky Cinema Comedy HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/138.ts
-#EXTINF:-1,-------- PRIMAFILA ------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/475.ts
-#EXTINF:-1,PRIMAFILA 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2072.ts
-#EXTINF:-1,PRIMAFILA 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2073.ts
-#EXTINF:-1,PRIMAFILA 3 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2074.ts
-#EXTINF:-1,PRIMAFILA 4 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2075.ts
-#EXTINF:-1,PRIMAFILA 5 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2076.ts
-#EXTINF:-1,PRIMAFILA 6 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2077.ts
-#EXTINF:-1,PRIMAFILA 7 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2078.ts
-#EXTINF:-1,PRIMAFILA 8 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2079.ts
-#EXTINF:-1,PRIMAFILA 9 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2080.ts
-#EXTINF:-1,PRIMAFILA 10 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2081.ts
-#EXTINF:-1,PRIMAFILA 11 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2082.ts
-#EXTINF:-1,PRIMAFILA 12 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2083.ts
-#EXTINF:-1,PRIMAFILA 13 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2084.ts
-#EXTINF:-1,PRIMAFILA 14 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2085.ts
-#EXTINF:-1,PRIMAFILA 15 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2086.ts
-#EXTINF:-1,PRIMAFILA 16 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2087.ts
-#EXTINF:-1,PRIMAFILA 17 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2153.ts
-#EXTINF:-1,PRIMAFILA 18 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2154.ts
-#EXTINF:-1,PRIMAFILA 19 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2155.ts
-#EXTINF:-1,SKY PRIMAFILA 01 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1713.mkv
-#EXTINF:-1,SKY PRIMAFILA 02 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1714.mkv
-#EXTINF:-1,SKY PRIMAFILA 03 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1715.mkv
-#EXTINF:-1,SKY PRIMAFILA 04 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1716.mkv
-#EXTINF:-1,SKY PRIMAFILA 05 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1717.mkv
-#EXTINF:-1,SKY PRIMAFILA 06 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1718.mkv
-#EXTINF:-1,SKY PRIMAFILA 07 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1719.mkv
-#EXTINF:-1,SKY PRIMAFILA 08 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1720.mkv
-#EXTINF:-1,SKY PRIMAFILA 09 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1721.mkv
-#EXTINF:-1,SKY PRIMAFILA 10 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1722.mkv
-#EXTINF:-1,SKY PRIMAFILA 11 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1725.mkv
-#EXTINF:-1,SKY PRIMAFILA 12 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1726.mkv
-#EXTINF:-1,SKY PRIMAFILA 13 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1727.mkv
-#EXTINF:-1,SKY PRIMAFILA 14 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1723.mkv
-#EXTINF:-1,SKY PRIMAFILA 15 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1728.mkv
-#EXTINF:-1,SKY PRIMAFILA 16 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1729.mkv
-#EXTINF:-1,SKY PRIMAFILA 17 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1730.mkv
-#EXTINF:-1,SKY PRIMAFILA 18 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1731.mkv
-#EXTINF:-1,SKY PRIMAFILA 19 HD Ondemand
-http://italyvipiptv.dyndns.org:34555/movie/pierangelo/pierangelo/1724.mkv
-#EXTINF:-1,SKY PRIMAFILA 20 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1775.ts
-#EXTINF:-1,SKY PRIMAFILA 21 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1774.ts
-#EXTINF:-1,SKY PRIMAFILA 22 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1773.ts
-#EXTINF:-1,SKY PRIMAFILA 23 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1770.ts
-#EXTINF:-1,SKY PRIMAFILA 24 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1769.ts
-#EXTINF:-1,SKY PRIMAFILA 25 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1768.ts
-#EXTINF:-1,SKY PRIMAFILA 26 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1767.ts
-#EXTINF:-1,SKY PRIMAFILA 27 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2037.ts
-#EXTINF:-1,SKY PRIMAFILA 28 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2038.ts
-#EXTINF:-1,--------- SKY SPORT --------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/301.ts
-#EXTINF:-1,Sky Fox Sports HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/132.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5060.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5055.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5056.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5063.ts
+#EXTINF:-1,Rai Movie
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4492.ts
+#EXTINF:-1,Paramount Channel HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5166.ts
+#EXTINF:-1,Dvs Cinema
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5065.ts
+#EXTINF:-1,Emotion Napoli
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5066.ts
+#EXTINF:-1,Gomorra
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5585.ts
+#EXTINF:-1,DVs Il trono di Spade
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5586.ts
+#EXTINF:-1,----------Sky Intrattenimento----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4635.ts
+#EXTINF:-1,Sky Uno HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4376.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4377.ts
+#EXTINF:-1,Fox HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4380.ts
+#EXTINF:-1,Fox +1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4385.ts
+#EXTINF:-1,Fox life HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4378.ts
+#EXTINF:-1,Fox Life +1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4379.ts
+#EXTINF:-1,Fox Crime HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4381.ts
+#EXTINF:-1,Fox Crime +1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4382.ts
+#EXTINF:-1,Fox Animation HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4384.ts
+#EXTINF:-1,Fox Comedy HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4383.ts
+#EXTINF:-1,Sky Atlantic HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4388.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4389.ts
+#EXTINF:-1,AXN HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4387.ts
+#EXTINF:-1,AXN +1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4165.ts
+#EXTINF:-1,AXN Sci-Fi
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4398.ts
+#EXTINF:-1,Comedy Central
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4386.ts
+#EXTINF:-1,Real Time HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4390.ts
+#EXTINF:-1,Cielo HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4397.ts
+#EXTINF:-1,MTV HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4089.ts
+#EXTINF:-1,Focus
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4558.ts
+#EXTINF:-1,GIALLO
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4394.ts
+#EXTINF:-1,ALICE
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4432.ts
+#EXTINF:-1,Fashion TV
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4246.ts
+#EXTINF:-1,TV2000
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4137.ts
+#EXTINF:-1,Sky 3D
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4375.ts
+#EXTINF:-1,Lei
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4392.ts
+#EXTINF:-1,Iris
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4561.ts
+#EXTINF:-1,Mediaset Italia Due
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4560.ts
+#EXTINF:-1,La 5
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4559.ts
+#EXTINF:-1,Mediaset EXTRA
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4556.ts
+#EXTINF:-1,Top Crime
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4535.ts
+#EXTINF:-1,----------Sky Sport----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5113.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4400.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/131.ts
-#EXTINF:-1,SKY Sport 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/130.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5077.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5078.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/128.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4969.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5080.ts
+#EXTINF:-1,Fox Sports HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5090.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/99.ts
-#EXTINF:-1,Sky Moto GP HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/96.ts
-#EXTINF:-1,SKY Sport 24 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/129.ts
-#EXTINF:-1,Roma channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1312.ts
-#EXTINF:-1,Milan channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1311.ts
-#EXTINF:-1,Juventus TV
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1309.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5082.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5081.ts
+#EXTINF:-1,Eurosport HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5091.ts
+#EXTINF:-1,Eurosport 2 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5092.ts
+#EXTINF:-1,Supertennis HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5079.ts
+#EXTINF:-1,Poker Italia
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5085.ts
+#EXTINF:-1,Class HorseTv
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4348.ts
+#EXTINF:-1,Sport Italia
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5083.ts
+#EXTINF:-1,ROMATV
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5084.ts
 #EXTINF:-1,Inter Channel
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/1310.ts
-#EXTINF:-1,--------- SKY CALCIO ----------
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/300.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5089.ts
+#EXTINF:-1,J | Juventus TV
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5088.ts
+#EXTINF:-1,Milan Channel
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5086.ts
+#EXTINF:-1,Lazio Style Ch
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5087.ts
+#EXTINF:-1,Bike Channel HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5093.ts
+#EXTINF:-1,UnireSat by Teleippica
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4125.ts
+#EXTINF:-1,----------Sky Calcio----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5114.ts
+#EXTINF:-1,Sky Calcio Info
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4334.ts
 #EXTINF:-1,Sky Supercalcio HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/98.ts
-#EXTINF:-1,Sky Supercalcio SD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/2026.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4438.ts
 #EXTINF:-1,Sky Calcio 1 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/148.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5096.ts
 #EXTINF:-1,Sky Calcio 2 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/147.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5097.ts
 #EXTINF:-1,Sky Calcio 3 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/146.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5098.ts
 #EXTINF:-1,Sky Calcio 4 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/145.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5099.ts
 #EXTINF:-1,Sky Calcio 5 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/144.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5100.ts
 #EXTINF:-1,Sky Calcio 6 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/143.ts
-#EXTINF:-1,SKY Calcio 7 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/142.ts
-#EXTINF:-1,SKY Calcio 8 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/61.ts
-#EXTINF:-1,SKY Calcio 9 HD
-http://italyvipiptv.dyndns.org:34555/live/pierangelo/pierangelo/60.ts
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5101.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5102.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4446.ts
+#EXTINF:-1,Sky Calcio 9
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4447.ts
+#EXTINF:-1,Sky Calcio 10
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5095.ts
+#EXTINF:-1,Sky Calcio 11
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5043.ts
+#EXTINF:-1,Sky Calcio 12
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4163.ts
+#EXTINF:-1,----------Connessioni Lente----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4620.ts
+#EXTINF:-1,Rai 1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4486.ts
+#EXTINF:-1,Rai 2
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4487.ts
+#EXTINF:-1,Rai 3
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4489.ts
+#EXTINF:-1,Canale 5
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4071.ts
+#EXTINF:-1,Sky Cinema 1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4069.ts
+#EXTINF:-1,Sky Cinema +24
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4070.ts
+#EXTINF:-1,Sky Cinema Hits
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4067.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4068.ts
+#EXTINF:-1,Sky Cinema Max
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4066.ts
+#EXTINF:-1,Sky Cinema Family
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4065.ts
+#EXTINF:-1,Fox
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4063.ts
+#EXTINF:-1,Fox Crime
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4064.ts
+#EXTINF:-1,Fox Life
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4062.ts
+#EXTINF:-1,Sky Atlantic
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4083.ts
+#EXTINF:-1,NationalGeo
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4027.ts
+#EXTINF:-1,Sky Uno
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4076.ts
+#EXTINF:-1,Premium Sport
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4084.ts
+#EXTINF:-1,Sky Sport 1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4073.ts
+#EXTINF:-1,Sky Sport24
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4078.ts
+#EXTINF:-1,Sky Sport Plus
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4072.ts
+#EXTINF:-1,Sky Sport F1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4075.ts
+#EXTINF:-1,Sky Sport MotoGP
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4074.ts
+#EXTINF:-1,Fox Sport
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4061.ts
+#EXTINF:-1,Sky Supercalcio
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4077.ts
+#EXTINF:-1,Sky Calcio 1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4082.ts
+#EXTINF:-1,Sky Calcio 2
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4081.ts
+#EXTINF:-1,Sky Calcio 3
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4080.ts
+#EXTINF:-1,Sky Calcio 4
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4058.ts
+#EXTINF:-1,Sky Calcio 5
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4059.ts
+#EXTINF:-1,Sky Calcio 6
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4079.ts
+#EXTINF:-1,Sky Calcio 7
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4060.ts
+#EXTINF:-1,----------Sky Cultura----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4619.ts
+#EXTINF:-1,eXplora HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4473.ts
+#EXTINF:-1,NationalGeo HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4468.ts
+#EXTINF:-1,NatGeo Wild HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4469.ts
+#EXTINF:-1,NatGeo Wild +1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4086.ts
+#EXTINF:-1,NatGeo People HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4470.ts
+#EXTINF:-1,Discovery HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4476.ts
+#EXTINF:-1,Discovery +1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4085.ts
+#EXTINF:-1,Discovery Sci HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4475.ts
+#EXTINF:-1,Discovery Travel HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4474.ts
+#EXTINF:-1,CI Crime Inv HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4477.ts
+#EXTINF:-1,DMAX HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4396.ts
+#EXTINF:-1,DMAX+1
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4395.ts
+#EXTINF:-1,Gambero Rosso HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4472.ts
+#EXTINF:-1,History HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4471.ts
+#EXTINF:-1,Sky Arte HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4467.ts
+#EXTINF:-1,Caccia
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4479.ts
+#EXTINF:-1,Pesca
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4391.ts
+#EXTINF:-1,Italian Fishing Tv
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/7055.ts
+#EXTINF:-1,DoveTv
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4087.ts
+#EXTINF:-1,Animal Planet
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4480.ts
+#EXTINF:-1,MARCOPOLO
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4337.ts
+#EXTINF:-1,Laeffe
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4346.ts
+#EXTINF:-1,----------Sky Bambini----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4618.ts
+#EXTINF:-1,Cartoon-LIVE Masha E Orso
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4498.ts
+#EXTINF:-1,Disney Ch. HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5103.ts
+#EXTINF:-1,Disney Ch. +2
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4160.ts
+#EXTINF:-1,Disney XD HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4456.ts
+#EXTINF:-1,TeenNick
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4088.ts
+#EXTINF:-1,Disney Junior
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4124.ts
+#EXTINF:-1,Cartoon Network
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4263.ts
+#EXTINF:-1,Boomerang
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4460.ts
+#EXTINF:-1,Nickelodeon
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4461.ts
+#EXTINF:-1,Nick Jr
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4452.ts
+#EXTINF:-1,Baby TV
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4463.ts
+#EXTINF:-1,DeAJunior
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4458.ts
+#EXTINF:-1,DeAKids
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5603.ts
+#EXTINF:-1,MAN-GA
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4453.ts
+#EXTINF:-1,Super!
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4448.ts
+#EXTINF:-1,Rai Yoyo
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4450.ts
+#EXTINF:-1,Rai Gulp
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4451.ts
+#EXTINF:-1,Cartonito
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4459.ts
+#EXTINF:-1,Boing
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4462.ts
+#EXTINF:-1,K2
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4454.ts
+#EXTINF:-1,----------Sky Musica----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4617.ts
+#EXTINF:-1,Vevo TV 1 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5626.ts
+#EXTINF:-1,Vevo TV 2 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5625.ts
+#EXTINF:-1,Vevo TV 3 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5624.ts
+#EXTINF:-1,VEVO 02
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5622.ts
+#EXTINF:-1,VEVO 03
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5621.ts
+#EXTINF:-1,VEVO 04
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5620.ts
+#EXTINF:-1,VEVO 06
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5618.ts
+#EXTINF:-1,VEVO 05
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5619.ts
+#EXTINF:-1,VEVO 07
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5617.ts
+#EXTINF:-1,VEVO 08
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5616.ts
+#EXTINF:-1,VEVO 09
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5615.ts
+#EXTINF:-1,VEVO 10
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5613.ts
+#EXTINF:-1,VEVO 11
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5612.ts
+#EXTINF:-1,VEVO 12
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5611.ts
+#EXTINF:-1,VEVO 13
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5610.ts
+#EXTINF:-1,VEVO 14
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5609.ts
+#EXTINF:-1,VEVO 15
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5608.ts
+#EXTINF:-1,VEVO 16
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5607.ts
+#EXTINF:-1,VEVO 18
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5606.ts
+#EXTINF:-1,DEEJAY TV
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4175.ts
+#EXTINF:-1,Classica HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4347.ts
+#EXTINF:-1,Radio Italia
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4466.ts
+#EXTINF:-1,Radio Taormina
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4109.ts
+#EXTINF:-1,Radio DeeJay
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4110.ts
+#EXTINF:-1,Radio Capital Tv
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4111.ts
+#EXTINF:-1,Radio NumberOne Tv
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4118.ts
+#EXTINF:-1,Radio montecarlo
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4465.ts
+#EXTINF:-1,Onda Italiana
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4114.ts
+#EXTINF:-1,RADIONORBA TV
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4115.ts
+#EXTINF:-1,kissKiss Napoli TV
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4116.ts
+#EXTINF:-1,----------Sky Notizie-----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4616.ts
+#EXTINF:-1,TgCom24
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4483.ts
+#EXTINF:-1,Sky TG24 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4481.ts
+#EXTINF:-1,Rai News 24
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4484.ts
+#EXTINF:-1,Tele Bari
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4335.ts
+#EXTINF:-1,Videolina
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4485.ts
+#EXTINF:-1,-----------sky Primafila----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4615.ts
+#EXTINF:-1,Primafila Vetrina
+http://gameserver4.streamiptv.online/movie/lorenzoar/lorenzoar/4976.mkv
+#EXTINF:-1,Vetrina live Primafila
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/5425.ts
+#EXTINF:-1,Primafila 1 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4500.ts
+#EXTINF:-1,Primafila 2
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4501.ts
+#EXTINF:-1,Primafila 3 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4502.ts
+#EXTINF:-1,Primafila 4
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4503.ts
+#EXTINF:-1,Primafila 5 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4504.ts
+#EXTINF:-1,Primafila 6
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4505.ts
+#EXTINF:-1,Primafila 7 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4506.ts
+#EXTINF:-1,Primafila 8
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4507.ts
+#EXTINF:-1,Primafila 9 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4508.ts
+#EXTINF:-1,Primafila 10
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4509.ts
+#EXTINF:-1,Primafila 11 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4510.ts
+#EXTINF:-1,Primafila 12
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4511.ts
+#EXTINF:-1,Primafila 13 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4512.ts
+#EXTINF:-1,Primafila 14
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4513.ts
+#EXTINF:-1,Primafila 15
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4514.ts
+#EXTINF:-1,Primafila 16
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4515.ts
+#EXTINF:-1,Primafila 17
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4516.ts
+#EXTINF:-1,Primafila 18
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4517.ts
+#EXTINF:-1,Primafila 19
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4518.ts
+#EXTINF:-1,----------Primafila (Vod)----------
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4519.ts
+#EXTINF:-1,Primafila 1 HD (Vod)
+http://gameserver4.streamiptv.online/movie/lorenzoar/lorenzoar/4970.mkv
+#EXTINF:-1,Primafila 3 HD (Vod)
+http://gameserver4.streamiptv.online/movie/lorenzoar/lorenzoar/4971.mkv
+#EXTINF:-1,Primafila 5 HD (Vod)
+http://gameserver4.streamiptv.online/movie/lorenzoar/lorenzoar/4972.mkv
+#EXTINF:-1,Primafila 7 HD (Vod)
+http://gameserver4.streamiptv.online/movie/lorenzoar/lorenzoar/4973.mkv
+#EXTINF:-1,Primafila 9 HD (Vod)
+http://gameserver4.streamiptv.online/movie/lorenzoar/lorenzoar/4977.mkv
+#EXTINF:-1,Primafila 11 HD (Vod)
+http://gameserver4.streamiptv.online/movie/lorenzoar/lorenzoar/4974.mkv
+#EXTINF:-1,Primafila 13 HD (Vod)
+http://gameserver4.streamiptv.online/movie/lorenzoar/lorenzoar/4975.mkv
+#EXTINF:-1,Film In Sala HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4495.ts
+#EXTINF:-1,Film In Sala 2 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4496.ts
+#EXTINF:-1,Film In Sala 3 HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4497.ts
+#EXTINF:-1,Prima Visione HD
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4493.ts
+#EXTINF:-1,Sala Retro
+http://gameserver4.streamiptv.online/live/lorenzoar/lorenzoar/4494.ts
 #EXTINF:-1,---FANTASY
 http://gtatemvod.com:43100/movie/Augusto/Augusto/13931.avi
 #EXTINF:-1,10000 AC
@@ -4285,6 +5071,18 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/3431.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/3430.mkv
 #EXTINF:-1,Il Trono Di Spade 5x10 Madre Misericordiosa
 http://gtatemvod.com:43100/movie/Augusto/Augusto/3425.mkv
+#EXTINF:-1,Il trono di Spade S6x01
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14536.mkv
+#EXTINF:-1,Il trono di Spade S6x02
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14537.mkv
+#EXTINF:-1,Il trono di Spade S6x03
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14538.mkv
+#EXTINF:-1,Il trono di Spade S6x04
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14539.mkv
+#EXTINF:-1,Il trono di Spade S6x05
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14540.mkv
+#EXTINF:-1,Il trono di Spade S6x06
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14541.mkv
 #EXTINF:-1,---PERSON OF INTEREST
 http://dummylink.com
 #EXTINF:-1,Person of Interest 1x01
@@ -5171,289 +5969,49 @@ http://gtatemvod.com:43100/movie/Augusto/Augusto/12711.mkv
 http://gtatemvod.com:43100/movie/Augusto/Augusto/12712.mkv
 #EXTINF:-1,---GOMORRA
 http://tvservice.webhop.me:80/movie/GN0007/0007GN/3530.mkv
-#EXTINF:-1,Gomorra 1x01 Il clan dei Savastano
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3530.mkv
-#EXTINF:-1,Gomorra 1x02 Ti fidi di me
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3531.mkv
-#EXTINF:-1,Gomorra 1x03 L omm e casa
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3532.mkv
-#EXTINF:-1,Gomorra 1x04 Sangue africano
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3533.mkv
-#EXTINF:-1,Gomorra 1x05 Il ruggito della leonessa
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3534.mkv
-#EXTINF:-1,Gomorra 1x06 Roulette spagnola
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3535.mkv
-#EXTINF:-1,Gomorra 1x07 Imma contro tutti
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3536.mkv
-#EXTINF:-1,Gomorra 1x08 La scheda bianca
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3537.mkv
-#EXTINF:-1,Gomorra 1x09 Gelsomina Verde
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3538.mkv
-#EXTINF:-1,Gomorra 1x10 Ora facciamo i Conte
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3539.mkv
-#EXTINF:-1,Gomorra 1x11 100 modi per uccidere
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3540.mkv
-#EXTINF:-1,Gomorra 1x12 Gli Immortali
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3541.mkv
-#EXTINF:-1,Gomorra 2x01 Episodio 1
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4918.mkv
-#EXTINF:-1,Gomorra 2x02 Episodio 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4919.mkv
-#EXTINF:-1,Gomorra 2x03 Episodio 3
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5044.mkv
-#EXTINF:-1,Gomorra 2x04 Episodio 4
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5045.mkv
-#EXTINF:-1,Gomorra 2x05 Episodio 5
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5378.mkv
-#EXTINF:-1,Gomorra 2x06 Episodio 6
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5379.mkv
-#EXTINF:-1,Gomorra 2x07 Episodio 7
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5424.mkv
-#EXTINF:-1,Gomorra 2x08 Episodio 8
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5425.mkv
-#EXTINF:-1,Gomorra 2x09 Episodio 9
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5459.mkv
-#EXTINF:-1,Gomorra 2x10 Episodio 10
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5460.mkv
-#EXTINF:-1,Gomorra 2x11 Episodio 11
+#EXTINF:-1,Gomorra 1x01
+http://gtatemvod.com:43100/movie/Augusto/Augusto/982.mkv
+#EXTINF:-1,Gomorra 1x02
+http://gtatemvod.com:43100/movie/Augusto/Augusto/983.mkv
+#EXTINF:-1,Gomorra 1x03
+http://gtatemvod.com:43100/movie/Augusto/Augusto/984.mkv
+#EXTINF:-1,Gomorra 1x04
+http://gtatemvod.com:43100/movie/Augusto/Augusto/985.mkv
+#EXTINF:-1,Gomorra 1x05
+http://gtatemvod.com:43100/movie/Augusto/Augusto/986.mkv
+#EXTINF:-1,Gomorra 1x06
+http://gtatemvod.com:43100/movie/Augusto/Augusto/987.mkv
+#EXTINF:-1,Gomorra 1x07
+http://gtatemvod.com:43100/movie/Augusto/Augusto/988.mkv
+#EXTINF:-1,Gomorra 1x08
+http://gtatemvod.com:43100/movie/Augusto/Augusto/989.mkv
+#EXTINF:-1,Gomorra 1x09
+http://gtatemvod.com:43100/movie/Augusto/Augusto/990.mkv
+#EXTINF:-1,Gomorra 1x10
+http://gtatemvod.com:43100/movie/Augusto/Augusto/991.mkv
+#EXTINF:-1,Gomorra 1x11
+http://gtatemvod.com:43100/movie/Augusto/Augusto/992.mkv
+#EXTINF:-1,Gomorra 1x12
+http://gtatemvod.com:43100/movie/Augusto/Augusto/993.mkv
+#EXTINF:-1,Gomorra Stagione 2 Ep1
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14383.mkv
+#EXTINF:-1,Gomorra Stagione 2 Ep2
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14384.mkv
+#EXTINF:-1,Gomorra Stagione 2 Ep 3 e 4
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14448.mkv
+#EXTINF:-1,Gomorra Stagione 2 ep5
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14473.mkv
+#EXTINF:-1,Gomorra Stagione 2 ep6
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14474.mkv
+#EXTINF:-1,Gomorra S2 Ep7
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14523.mkv
+#EXTINF:-1,Gomorra S2 Ep8
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14524.mkv
+#EXTINF:-1,Gomorra S2 ep9
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14556.mkv
+#EXTINF:-1,Gomorra S2 ep10
+http://gtatemvod.com:43100/movie/Augusto/Augusto/14557.mkv
+#EXTINF:-1,Gomorra S2 ep11
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14567.mkv
-#EXTINF:-1,Gomorra 2x12 Episodio 12
+#EXTINF:-1,Gomorra S2 ep12
 http://gtatemvod.com:43100/movie/Augusto/Augusto/14568.mkv
-#EXTINF:-1,---- ON DEMAND BAMBINI ----
-http://tvservice.webhop.me:80/live/GN0007/0007GN/651.ts
-#EXTINF:-1,Albert e il diamante magico
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2831.mkv
-#EXTINF:-1,Alla ricerca di nemo
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4126.mkv
-#EXTINF:-1,Atlantis: L impero Perduto
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3216.mkv
-#EXTINF:-1,Barbie e il regno segreto
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2869.mkv
-#EXTINF:-1,Barbie e il tesoro dei cuccioli
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3227.mkv
-#EXTINF:-1,Barbie e la principessa delle perle
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2872.mkv
-#EXTINF:-1,Barbie Mariposa and the Fairy Princess
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2811.mkv
-#EXTINF:-1,Barbie: Principessa rock
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2694.mkv
-#EXTINF:-1,Barbie squadra speciale
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4347.mkv
-#EXTINF:-1,Bianca e Bernie nella terra dei canguri
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3194.mkv
-#EXTINF:-1,Big hero 6
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2736.mkv
-#EXTINF:-1,Boog e Elliot 4: Il Mistero Della Foresta
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4520.mkv
-#EXTINF:-1,Cars motori ruggenti
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2765.mkv
-#EXTINF:-1,Cars 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2764.mkv
-#EXTINF:-1,Cattivissimo Me
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2825.mkv
-#EXTINF:-1,Cattivissimo Me 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2678.mkv
-#EXTINF:-1,Cenerentola
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2824.mkv
-#EXTINF:-1,Descendants
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2880.mkv
-#EXTINF:-1,Dino e la macchina del tempo
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2823.mkv
-#EXTINF:-1,Dinosauri
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4116.mkv
-#EXTINF:-1,Doraemon: Nobita e gli eroi dello spazio
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5223.mkv
-#EXTINF:-1,Dragon Ball Z: La rerurrezione di F
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2845.mkv
-#EXTINF:-1,Dragon trainer
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2743.mkv
-#EXTINF:-1,Dragon Trainer 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4246.mkv
-#EXTINF:-1,Dumbo
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3357.mkv
-#EXTINF:-1,Epic: Il mondo segreto
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3805.mkv
-#EXTINF:-1,Ever after high
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4533.mkv
-#EXTINF:-1,Fantasia: 2000
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2898.mkv
-#EXTINF:-1,Fantasia: walt Disney
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2897.mkv
-#EXTINF:-1,Frozen: Il regno di ghiaccio
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2826.mkv
-#EXTINF:-1,Frozen: fever
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2827.mkv
-#EXTINF:-1,Gli Incredibili Una normale famiglia di supereroi
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4247.mkv
-#EXTINF:-1,Griffin: la storia segreta di Stewie Griffin
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4140.mkv
-#EXTINF:-1,Griffin: Blue harvest 1
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4142.mkv
-#EXTINF:-1,Griffin: Something dark side 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4141.mkv
-#EXTINF:-1,Griffin: It s a trap! 3
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4144.mkv
-#EXTINF:-1,Halo: La caduta di Reach
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3554.mkv
-#EXTINF:-1,Hell and back
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4705.mkv
-#EXTINF:-1,Home a casa
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4252.mkv
-#EXTINF:-1,Hotel transylvania
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3559.mkv
-#EXTINF:-1,Hotel Transylvania 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3557.mkv
-#EXTINF:-1,I pinguini di Madagascar
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4415.mkv
-#EXTINF:-1,I simpson
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4143.mkv
-#EXTINF:-1,Il bianco natale di topolino
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3713.mkv
-#EXTINF:-1,Il castello nel cielo
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3347.mkv
-#EXTINF:-1,Il gatto con gli stivali
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4099.mkv
-#EXTINF:-1,Il gobbo di notre:dame
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3358.mkv
-#EXTINF:-1,Il libro della vita
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2733.mkv
-#EXTINF:-1,Il mio amico gicante
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3046.mkv
-#EXTINF:-1,Il piccolo principe
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4837.mkv
-#EXTINF:-1,Il re leone
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3346.mkv
-#EXTINF:-1,Il re leone 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4519.mkv
-#EXTINF:-1,Il re leone 3
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4518.mkv
-#EXTINF:-1,Il viaggio di Arlo
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4443.mkv
-#EXTINF:-1,Il viaggio di Norm
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5046.mkv
-#EXTINF:-1,Inside out
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2802.mkv
-#EXTINF:-1,Ken il guerriero: La leggenda di Raoul
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4038.mkv
-#EXTINF:-1,Kung fu panda
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4124.mkv
-#EXTINF:-1,Kung fu panda 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4125.mkv
-#EXTINF:-1,L attacco dei Giganti: P. 1
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2705.mkv
-#EXTINF:-1,L attacco dei Giganti: P. 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4527.mkv
-#EXTINF:-1,La bella addormentata nel bosco
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2855.mkv
-#EXTINF:-1,La bella e la bestia
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3181.mkv
-#EXTINF:-1,La bella e la bestia 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4253.mkv
-#EXTINF:-1,La principessa e il ranocchio
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4148.mkv
-#EXTINF:-1,La sirenetta
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3324.mkv
-#EXTINF:-1,LA spada nella roccia
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3323.mkv
-#EXTINF:-1,Le avventure di Peter Pan
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3378.mkv
-#EXTINF:-1,Lego: star wars la triologia
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4649.mkv
-#EXTINF:-1,Lego Super Heroes: Justice League Vs Bizarro League
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3709.mkv
-#EXTINF:-1,Lilli e il vagabondo
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3789.mkv
-#EXTINF:-1,Lilli e il vagabondo 2
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3790.mkv
-#EXTINF:-1,Lilo Stitch
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3214.mkv
-#EXTINF:-1,Masha e orso: amici per sempre
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4641.mkv
-#EXTINF:-1,Masha e orso: Rockstar
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4549.mkv
-#EXTINF:-1,Minions
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2662.mkv
-#EXTINF:-1,Mike sulla luna
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4936.mkv
-#EXTINF:-1,Monster High: 13 Wishes
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2812.mkv
-#EXTINF:-1,Monster High: Boo York Boo York
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2863.mkv
-#EXTINF:-1,Monster High: Ciak si Grida
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2813.mkv
-#EXTINF:-1,Monster High: Freaky Fusion
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2814.mkv
-#EXTINF:-1,Monster High: Haunted
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2815.mkv
-#EXTINF:-1,Monster high: tuffo negli abissi
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4460.mkv
-#EXTINF:-1,Monster house
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4624.mkv
-#EXTINF:-1,Mune: Il gurdiano della luna
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3428.mkv
-#EXTINF:-1,Naruto: I Guardiani Del Regno Della Luna Crescente
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3410.mkv
-#EXTINF:-1,Naruto: L esercito fantasma
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3564.mkv
-#EXTINF:-1,Naruto: Shippuden Eredi della volonta del fuoco
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4262.mkv
-#EXTINF:-1,Naruto: Shippuden il maestro e il discepolo
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3885.mkv
-#EXTINF:-1,Nightmare Before Christmas
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4245.mkv
-#EXTINF:-1,Oliver Company
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3355.mkv
-#EXTINF:-1,Paddington
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3700.mkv
-#EXTINF:-1,Peppa pig: il parco di divertimenti e altre storie
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4703.mkv
-#EXTINF:-1,Pinocchio
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3226.mkv
-#EXTINF:-1,Piovono polpette
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2742.mkv
-#EXTINF:-1,Pocahontas
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3225.mkv
-#EXTINF:-1,Polar express
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3558.mkv
-#EXTINF:-1,Porco rosso
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3224.mkv
-#EXTINF:-1,Postino pat
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3712.mkv
-#EXTINF:-1,Rapunzel: L intreccio della torre
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4314.mkv
-#EXTINF:-1,Ratatouille
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4248.mkv
-#EXTINF:-1,Red e Tody nemiciamici
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3322.mkv
-#EXTINF:-1,Rio 2096 una storia d amore e furia
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4480.mkv
-#EXTINF:-1,Scooby Doo
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3201.mkv
-#EXTINF:-1,Seafood un pesce fuor d acqua
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4442.mkv
-#EXTINF:-1,Shaun vita da pecora
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4254.mkv
-#EXTINF:-1,Snoopy and friends
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4341.mkv
-#EXTINF:-1,Spongebob: Kraddy days
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/5456.mkv
-#EXTINF:-1,Strange Magic
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3177.mkv
-#EXTINF:-1,Super buddies
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2768.mkv
-#EXTINF:-1,Sword Of The Stranger
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3904.mkv
-#EXTINF:-1,Tartarughe ninja il ritorno a nyc
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4461.mkv
-#EXTINF:-1,Tarzan
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4588.mkv
-#EXTINF:-1,Toy story 3
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/4123.mkv
-#EXTINF:-1,Un mostro a Parigi
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3569.mkv
-#EXTINF:-1,Uno zoo in fuga
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3286.mkv
-#EXTINF:-1,Winx club: Il mistero degli abissi
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/2727.mkv
-#EXTINF:-1,Yellowbird
-http://tvservice.webhop.me:80/movie/GN0007/0007GN/3321.mkv
