@@ -1,1839 +1,1570 @@
 #EXTM3U
-#EXTINF:-1,***** ITALIAN *****
-http://195.154.183.48:8000/movie/miguel/miguel/1601
-#EXTINF:-1,RAI 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/1538.ts
-#EXTINF:-1,RAI 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/1539.ts
-#EXTINF:-1,RAI 3 HD
-http://195.154.183.48:8000/live/miguel/miguel/1540.ts
-#EXTINF:-1,Rete 4 HD
-http://195.154.183.48:8000/live/miguel/miguel/1731.ts
-#EXTINF:-1,Canale 5 HD
-http://195.154.183.48:8000/live/miguel/miguel/1732.ts
-#EXTINF:-1,Italia 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/1733.ts
-#EXTINF:-1,Italia 2
-http://195.154.183.48:8000/live/miguel/miguel/33.ts
-#EXTINF:-1,LA 5
-http://195.154.183.48:8000/live/miguel/miguel/1544.ts
-#EXTINF:-1,LA 7 HD
-http://195.154.183.48:8000/live/miguel/miguel/35.ts
-#EXTINF:-1,La 7d
-http://195.154.183.48:8000/live/miguel/miguel/36.ts
-#EXTINF:-1,Rai 4 HD
-http://195.154.183.48:8000/live/miguel/miguel/98.ts
-#EXTINF:-1,Rai 5
-http://195.154.183.48:8000/live/miguel/miguel/99.ts
-#EXTINF:-1,Iris
-http://195.154.183.48:8000/live/miguel/miguel/31.ts
-#EXTINF:-1,Paramount Channel
-http://195.154.183.48:8000/live/miguel/miguel/3535.ts
-#EXTINF:-1,Rai Storia
-http://195.154.183.48:8000/live/miguel/miguel/104.ts
-#EXTINF:-1,Rai Movie HD
-http://195.154.183.48:8000/live/miguel/miguel/101.ts
-#EXTINF:-1,Rai Premium HD
-http://195.154.183.48:8000/live/miguel/miguel/103.ts
-#EXTINF:-1,MTV8
-http://195.154.183.48:8000/live/miguel/miguel/1778.ts
-#EXTINF:-1,RSI LA 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/1606.ts
-#EXTINF:-1,RSI LA 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/1607.ts
-#EXTINF:-1,***** MEDIASET PREMIUM *****
-http://195.154.183.48:8000/live/miguel/miguel/1452.ts
-#EXTINF:-1,Premium Cinema HD
-http://195.154.183.48:8000/live/miguel/miguel/56.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/1639.ts
-#EXTINF:-1,Premium Cinema +24
-http://195.154.183.48:8000/live/miguel/miguel/1640.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://195.154.183.48:8000/live/miguel/miguel/57.ts
-#EXTINF:-1,Premium Emotion
-http://195.154.183.48:8000/live/miguel/miguel/64.ts
-#EXTINF:-1,Premium Energy
-http://195.154.183.48:8000/live/miguel/miguel/65.ts
-#EXTINF:-1,Premium Comedy
-http://195.154.183.48:8000/live/miguel/miguel/58.ts
-#EXTINF:-1,Premium Stories
-http://195.154.183.48:8000/live/miguel/miguel/72.ts
-#EXTINF:-1,Premium Stories +24
-http://195.154.183.48:8000/live/miguel/miguel/3208.ts
-#EXTINF:-1,Premium Studio Universal
-http://195.154.183.48:8000/live/miguel/miguel/73.ts
-#EXTINF:-1,Premium Joy
-http://195.154.183.48:8000/live/miguel/miguel/68.ts
-#EXTINF:-1,Premium Joy +24
-http://195.154.183.48:8000/live/miguel/miguel/3209.ts
-#EXTINF:-1,Premium Crime HD
-http://195.154.183.48:8000/live/miguel/miguel/59.ts
-#EXTINF:-1,Premium Crime +24
-http://195.154.183.48:8000/live/miguel/miguel/1651.ts
-#EXTINF:-1,Premium Action HD
-http://195.154.183.48:8000/live/miguel/miguel/46.ts
-#EXTINF:-1,Premium Action 24
-http://195.154.183.48:8000/live/miguel/miguel/47.ts
-#EXTINF:-1,Premium Discovery World
-http://195.154.183.48:8000/live/miguel/miguel/60.ts
-#EXTINF:-1,Premium Sport HD
-http://195.154.183.48:8000/live/miguel/miguel/70.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/1800.ts
-#EXTINF:-1,Premium Calcio HD
-http://195.154.183.48:8000/live/miguel/miguel/1735.ts
-#EXTINF:-1,Premium Calcio
-http://195.154.183.48:8000/live/miguel/miguel/49.ts
-#EXTINF:-1,Premium Calcio 1
-http://195.154.183.48:8000/live/miguel/miguel/50.ts
-#EXTINF:-1,Premium Calcio 2
-http://195.154.183.48:8000/live/miguel/miguel/51.ts
-#EXTINF:-1,Premium Calcio 3
-http://195.154.183.48:8000/live/miguel/miguel/52.ts
-#EXTINF:-1,Premium Calcio 4
-http://195.154.183.48:8000/live/miguel/miguel/53.ts
-#EXTINF:-1,Premium Calcio 5
-http://195.154.183.48:8000/live/miguel/miguel/54.ts
-#EXTINF:-1,Premium Calcio 6
-http://195.154.183.48:8000/live/miguel/miguel/1475.ts
-#EXTINF:-1,Premium Sport News HD
-http://195.154.183.48:8000/live/miguel/miguel/71.ts
-#EXTINF:-1,Premium Eurosport 1
-http://195.154.183.48:8000/live/miguel/miguel/66.ts
-#EXTINF:-1,Premium Eurosport 2
-http://195.154.183.48:8000/live/miguel/miguel/67.ts
-#EXTINF:-1,Premium Disney Channel HD
-http://195.154.183.48:8000/live/miguel/miguel/61.ts
-#EXTINF:-1,Premium Disney Channel +1
-http://195.154.183.48:8000/live/miguel/miguel/62.ts
-#EXTINF:-1,Premium Disney Junior
-http://195.154.183.48:8000/live/miguel/miguel/63.ts
-#EXTINF:-1,Premium Cartoon Network
-http://195.154.183.48:8000/live/miguel/miguel/55.ts
-#EXTINF:-1,***** PRIMAFILA *****
-http://195.154.183.48:8000/live/miguel/miguel/1577.ts
-#EXTINF:-1,Primafila Vetrina
-http://195.154.183.48:8000/movie/miguel/miguel/3328.mkv
-#EXTINF:-1,Primafila 1
-http://195.154.183.48:8000/live/miguel/miguel/3195.ts
-#EXTINF:-1,Primafila 2
-http://195.154.183.48:8000/live/miguel/miguel/3327.ts
-#EXTINF:-1,Primafila 3
-http://195.154.183.48:8000/live/miguel/miguel/3196.ts
-#EXTINF:-1,primafila 4
-http://195.154.183.48:8000/live/miguel/miguel/3329.ts
-#EXTINF:-1,Primafila 5
-http://195.154.183.48:8000/live/miguel/miguel/3197.ts
-#EXTINF:-1,Primafila 6
-http://195.154.183.48:8000/live/miguel/miguel/3330.ts
-#EXTINF:-1,Primafila 7
-http://195.154.183.48:8000/live/miguel/miguel/3199.ts
-#EXTINF:-1,Primafila 8
-http://195.154.183.48:8000/live/miguel/miguel/3506.ts
-#EXTINF:-1,primafila 9
-http://195.154.183.48:8000/live/miguel/miguel/3202.ts
-#EXTINF:-1,Primafila 10
-http://195.154.183.48:8000/live/miguel/miguel/3507.ts
-#EXTINF:-1,primafila 11
-http://195.154.183.48:8000/live/miguel/miguel/3203.ts
-#EXTINF:-1,Primafila 12
-http://195.154.183.48:8000/live/miguel/miguel/3508.ts
-#EXTINF:-1,primafila 13
-http://195.154.183.48:8000/live/miguel/miguel/3204.ts
-#EXTINF:-1,Primafila 14
-http://195.154.183.48:8000/live/miguel/miguel/3509.ts
-#EXTINF:-1,primafila 15
-http://195.154.183.48:8000/live/miguel/miguel/3205.ts
-#EXTINF:-1,primafila 16
-http://195.154.183.48:8000/live/miguel/miguel/3210.ts
-#EXTINF:-1,primafila 17
-http://195.154.183.48:8000/live/miguel/miguel/3211.ts
-#EXTINF:-1,Primafila WWE
-http://195.154.183.48:8000/live/miguel/miguel/1742.ts
-#EXTINF:-1,***** SKY CINEMA *****
-http://195.154.183.48:8000/live/miguel/miguel/1570.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/123.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://195.154.183.48:8000/live/miguel/miguel/122.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://195.154.183.48:8000/live/miguel/miguel/128.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://195.154.183.48:8000/live/miguel/miguel/127.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://195.154.183.48:8000/live/miguel/miguel/130.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://195.154.183.48:8000/live/miguel/miguel/125.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://195.154.183.48:8000/live/miguel/miguel/129.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://195.154.183.48:8000/live/miguel/miguel/126.ts
-#EXTINF:-1,Sky Cinema Classics HD
-http://195.154.183.48:8000/live/miguel/miguel/124.ts
-#EXTINF:-1,Sky Paramount Channel
-http://195.154.183.48:8000/live/miguel/miguel/2403.ts
-#EXTINF:-1,Sky Cinema 3D
-http://195.154.183.48:8000/live/miguel/miguel/1487.ts
-#EXTINF:-1,***** INTRATTENIMENTO *****
-http://195.154.183.48:8000/live/miguel/miguel/1571.ts
-#EXTINF:-1,Sky Uno HD
-http://195.154.183.48:8000/live/miguel/miguel/143.ts
-#EXTINF:-1,Sky Atlantic HD (*)
-http://195.154.183.48:8000/live/miguel/miguel/112.ts
-#EXTINF:-1,Fox HD
-http://195.154.183.48:8000/live/miguel/miguel/21.ts
-#EXTINF:-1,Fox Life HD
-http://195.154.183.48:8000/live/miguel/miguel/25.ts
-#EXTINF:-1,Fox Crime HD
-http://195.154.183.48:8000/live/miguel/miguel/24.ts
-#EXTINF:-1,Fox Comedy HD
-http://195.154.183.48:8000/live/miguel/miguel/23.ts
-#EXTINF:-1,Fox Animation HD
-http://195.154.183.48:8000/live/miguel/miguel/22.ts
-#EXTINF:-1,CI Crime Investigation HD
-http://195.154.183.48:8000/live/miguel/miguel/10.ts
-#EXTINF:-1,Top Crime
-http://195.154.183.48:8000/live/miguel/miguel/1545.ts
-#EXTINF:-1,Giallo
-http://195.154.183.48:8000/live/miguel/miguel/1797.ts
-#EXTINF:-1,AXN HD
-http://195.154.183.48:8000/live/miguel/miguel/5.ts
-#EXTINF:-1,AXN SCI-FI
-http://195.154.183.48:8000/live/miguel/miguel/4130.ts
-#EXTINF:-1,Cielo HD
-http://195.154.183.48:8000/live/miguel/miguel/11.ts
-#EXTINF:-1,E! Enternament
-http://195.154.183.48:8000/live/miguel/miguel/18.ts
-#EXTINF:-1,Fine Living
-http://195.154.183.48:8000/live/miguel/miguel/19.ts
-#EXTINF:-1,Alice
-http://195.154.183.48:8000/live/miguel/miguel/3.ts
-#EXTINF:-1,Mediaset Extra
-http://195.154.183.48:8000/live/miguel/miguel/38.ts
-#EXTINF:-1,nuvolari
-http://195.154.183.48:8000/live/miguel/miguel/1795.ts
-#EXTINF:-1,***** SKY SPORT IT *****
-http://195.154.183.48:8000/live/miguel/miguel/1572.ts
-#EXTINF:-1,SKY SPORT 24 HD-Calcio2 (*)
-http://195.154.183.48:8000/live/miguel/miguel/4129.ts
-#EXTINF:-1,Sky Sport 24 -Calcio 2 (*)
-http://195.154.183.48:8000/live/miguel/miguel/138.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/135.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/136.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://195.154.183.48:8000/live/miguel/miguel/137.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://195.154.183.48:8000/live/miguel/miguel/140.ts
-#EXTINF:-1,Fox Sports HD
-http://195.154.183.48:8000/live/miguel/miguel/26.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://195.154.183.48:8000/live/miguel/miguel/139.ts
-#EXTINF:-1,Sky Moto GP HD
-http://195.154.183.48:8000/live/miguel/miguel/134.ts
-#EXTINF:-1,SUPER TENNIS HD
-http://195.154.183.48:8000/live/miguel/miguel/1672.ts
-#EXTINF:-1,SPORT ITALIA
-http://195.154.183.48:8000/live/miguel/miguel/1352.ts
-#EXTINF:-1,Juventus TV
-http://195.154.183.48:8000/live/miguel/miguel/34.ts
-#EXTINF:-1,Milan Channel
-http://195.154.183.48:8000/live/miguel/miguel/39.ts
-#EXTINF:-1,Inter Channel
-http://195.154.183.48:8000/live/miguel/miguel/30.ts
-#EXTINF:-1,Rai Sport 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/1785.ts
-#EXTINF:-1,Rai Sport 2
-http://195.154.183.48:8000/live/miguel/miguel/1786.ts
-#EXTINF:-1,***** SKY CALCIO IT *****
-http://195.154.183.48:8000/live/miguel/miguel/1573.ts
-#EXTINF:-1,SKY SUPERCALCIO HD (*)
-http://195.154.183.48:8000/live/miguel/miguel/3588.ts
-#EXTINF:-1,SKY SUPERCALCIO (*)
-http://195.154.183.48:8000/live/miguel/miguel/3589.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://195.154.183.48:8000/live/miguel/miguel/141.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/113.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/114.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://195.154.183.48:8000/live/miguel/miguel/115.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://195.154.183.48:8000/live/miguel/miguel/116.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://195.154.183.48:8000/live/miguel/miguel/117.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://195.154.183.48:8000/live/miguel/miguel/118.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://195.154.183.48:8000/live/miguel/miguel/119.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://195.154.183.48:8000/live/miguel/miguel/1739.ts
-#EXTINF:-1,BARCA TV
-http://195.154.183.48:8000/live/miguel/miguel/1819.ts
-#EXTINF:-1,***** BEINSPORT *****
-http://195.154.183.48:8000/live/miguel/miguel/1734.ts
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/1722.ts
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/1723.ts
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://195.154.183.48:8000/live/miguel/miguel/1724.ts
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://195.154.183.48:8000/live/miguel/miguel/1725.ts
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://195.154.183.48:8000/live/miguel/miguel/1726.ts
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://195.154.183.48:8000/live/miguel/miguel/1727.ts
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://195.154.183.48:8000/live/miguel/miguel/1728.ts
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://195.154.183.48:8000/live/miguel/miguel/1729.ts
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://195.154.183.48:8000/live/miguel/miguel/4149.ts
-#EXTINF:-1,***** CARTONI *****
-http://195.154.183.48:8000/live/miguel/miguel/1574.ts
-#EXTINF:-1,Sky Disney Channel HD
-http://195.154.183.48:8000/live/miguel/miguel/131.ts
-#EXTINF:-1,Sky Disney channel +1
-http://195.154.183.48:8000/live/miguel/miguel/1790.ts
-#EXTINF:-1,Sky Disney XD
-http://195.154.183.48:8000/live/miguel/miguel/133.ts
-#EXTINF:-1,Sky Disney Junior
-http://195.154.183.48:8000/live/miguel/miguel/132.ts
-#EXTINF:-1,Sky Cartoon Network
-http://195.154.183.48:8000/live/miguel/miguel/120.ts
-#EXTINF:-1,Super!
-http://195.154.183.48:8000/live/miguel/miguel/1741.ts
-#EXTINF:-1,Rai YoYo
-http://195.154.183.48:8000/live/miguel/miguel/151.ts
-#EXTINF:-1,Cartoonito
-http://195.154.183.48:8000/live/miguel/miguel/8.ts
-#EXTINF:-1,Frisbee
-http://195.154.183.48:8000/live/miguel/miguel/1793.ts
-#EXTINF:-1,K2
-http://195.154.183.48:8000/live/miguel/miguel/1792.ts
-#EXTINF:-1,Manga
-http://195.154.183.48:8000/live/miguel/miguel/1789.ts
-#EXTINF:-1,Boing
-http://195.154.183.48:8000/live/miguel/miguel/1791.ts
-#EXTINF:-1,Rai Gulp
-http://195.154.183.48:8000/live/miguel/miguel/100.ts
-#EXTINF:-1,RAI SCUOLA
-http://195.154.183.48:8000/live/miguel/miguel/1304.ts
-#EXTINF:-1,Masha_e_L’Orso_Channel
-http://195.154.183.48:8000/live/miguel/miguel/3088.ts
-#EXTINF:-1,***** CULTURA *****
-http://195.154.183.48:8000/live/miguel/miguel/1579.ts
-#EXTINF:-1,Explora HD
-http://195.154.183.48:8000/live/miguel/miguel/1740.ts
-#EXTINF:-1,National Geographic HD
-http://195.154.183.48:8000/live/miguel/miguel/45.ts
-#EXTINF:-1,Nat Geo People HD
-http://195.154.183.48:8000/live/miguel/miguel/43.ts
-#EXTINF:-1,Nat Geo Wild HD
-http://195.154.183.48:8000/live/miguel/miguel/44.ts
-#EXTINF:-1,Discovery World
-http://195.154.183.48:8000/live/miguel/miguel/16.ts
-#EXTINF:-1,Discovery Channel HD
-http://195.154.183.48:8000/live/miguel/miguel/13.ts
-#EXTINF:-1,Discovery Science HD
-http://195.154.183.48:8000/live/miguel/miguel/14.ts
-#EXTINF:-1,Discovery Travel & Living HD
-http://195.154.183.48:8000/live/miguel/miguel/15.ts
-#EXTINF:-1,Focus
-http://195.154.183.48:8000/live/miguel/miguel/20.ts
-#EXTINF:-1,Dmax
-http://195.154.183.48:8000/live/miguel/miguel/17.ts
-#EXTINF:-1,Sky Arte HD
-http://195.154.183.48:8000/live/miguel/miguel/111.ts
-#EXTINF:-1,HISTORY
-http://195.154.183.48:8000/live/miguel/miguel/29.ts
-#EXTINF:-1,Marcopolo
-http://195.154.183.48:8000/live/miguel/miguel/37.ts
-#EXTINF:-1,Animal Planet HD
-http://195.154.183.48:8000/live/miguel/miguel/4.ts
-#EXTINF:-1,Gambero Rosso HD (*)
-http://195.154.183.48:8000/live/miguel/miguel/28.ts
-#EXTINF:-1,Real Time
-http://195.154.183.48:8000/live/miguel/miguel/107.ts
-#EXTINF:-1,Real Time +1
-http://195.154.183.48:8000/live/miguel/miguel/3207.ts
-#EXTINF:-1,Pesca e Caccia
-http://195.154.183.48:8000/live/miguel/miguel/1738.ts
-#EXTINF:-1,Caccia e Pesca
-http://195.154.183.48:8000/live/miguel/miguel/6.ts
-#EXTINF:-1,***** NOTIZIE *****
-http://195.154.183.48:8000/live/miguel/miguel/1575.ts
-#EXTINF:-1,SKY TG24 HD
-http://195.154.183.48:8000/live/miguel/miguel/1385.ts
-#EXTINF:-1,Sky Tg 24
-http://195.154.183.48:8000/live/miguel/miguel/142.ts
-#EXTINF:-1,TG Com 24
-http://195.154.183.48:8000/live/miguel/miguel/147.ts
-#EXTINF:-1,Rai News 24
-http://195.154.183.48:8000/live/miguel/miguel/102.ts
-#EXTINF:-1,Videolina
-http://195.154.183.48:8000/live/miguel/miguel/149.ts
-#EXTINF:-1,EURONEWS
-http://195.154.183.48:8000/live/miguel/miguel/1369.ts
-#EXTINF:-1,***** MUSICA *****
-http://195.154.183.48:8000/live/miguel/miguel/1576.ts
-#EXTINF:-1,MTV Music
-http://195.154.183.48:8000/live/miguel/miguel/41.ts
-#EXTINF:-1,Onda Latina
-http://195.154.183.48:8000/live/miguel/miguel/1787.ts
-#EXTINF:-1,Radio 105 TV
-http://195.154.183.48:8000/live/miguel/miguel/93.ts
-#EXTINF:-1,Radio MonteCarlo TV
-http://195.154.183.48:8000/live/miguel/miguel/94.ts
-#EXTINF:-1,M2O TV
-http://195.154.183.48:8000/live/miguel/miguel/1370.ts
-#EXTINF:-1,RTL 102.5
-http://195.154.183.48:8000/live/miguel/miguel/1354.ts
-#EXTINF:-1,Deejay TV
-http://195.154.183.48:8000/live/miguel/miguel/12.ts
-#EXTINF:-1,FOR MUSIC TV
-http://195.154.183.48:8000/live/miguel/miguel/1379.ts
-#EXTINF:-1,RDS ITALIA
-http://195.154.183.48:8000/live/miguel/miguel/1788.ts
-#EXTINF:-1,***** REGIONALI *****
-http://195.154.183.48:8000/live/miguel/miguel/1578.ts
-#EXTINF:-1,UNINETTUNO UNIVERSITY TV
-http://195.154.183.48:8000/live/miguel/miguel/1340.ts
-#EXTINF:-1,TV LUNA
-http://195.154.183.48:8000/live/miguel/miguel/1358.ts
-#EXTINF:-1,TV 2000
-http://195.154.183.48:8000/live/miguel/miguel/1355.ts
-#EXTINF:-1,TG NORBA 24
-http://195.154.183.48:8000/live/miguel/miguel/1350.ts
-#EXTINF:-1,TELESTAR
-http://195.154.183.48:8000/live/miguel/miguel/1337.ts
-#EXTINF:-1,TELECITTÃ€ LA TV CHE BALLA
-http://195.154.183.48:8000/live/miguel/miguel/1331.ts
-#EXTINF:-1,TELECITTÃ€
-http://195.154.183.48:8000/live/miguel/miguel/1336.ts
-#EXTINF:-1,TELE TICINO
-http://195.154.183.48:8000/live/miguel/miguel/1367.ts
-#EXTINF:-1,TELE ARENA
-http://195.154.183.48:8000/live/miguel/miguel/1376.ts
-#EXTINF:-1,SARONNO TV
-http://195.154.183.48:8000/live/miguel/miguel/1365.ts
-#EXTINF:-1,SARDEGNA UNO
-http://195.154.183.48:8000/live/miguel/miguel/1377.ts
-#EXTINF:-1,RTV SAN MARINO
-http://195.154.183.48:8000/live/miguel/miguel/1344.ts
-#EXTINF:-1,RETE 8 SPORT
-http://195.154.183.48:8000/live/miguel/miguel/1388.ts
-#EXTINF:-1,RETE 55
-http://195.154.183.48:8000/live/miguel/miguel/1330.ts
-#EXTINF:-1,QUARTARETE BLU
-http://195.154.183.48:8000/live/miguel/miguel/1384.ts
-#EXTINF:-1,QUARTARETE
-http://195.154.183.48:8000/live/miguel/miguel/1387.ts
-#EXTINF:-1,PADRE PIO TV
-http://195.154.183.48:8000/live/miguel/miguel/1383.ts
-#EXTINF:-1,ORLER CHANNEL
-http://195.154.183.48:8000/live/miguel/miguel/1351.ts
-#EXTINF:-1,LA 6
-http://195.154.183.48:8000/live/miguel/miguel/1348.ts
-#EXTINF:-1,E TV MARCHE
-http://195.154.183.48:8000/live/miguel/miguel/1357.ts
-#EXTINF:-1,CANALE 21
-http://195.154.183.48:8000/live/miguel/miguel/1359.ts
-#EXTINF:-1,CAMERA DEI DEPUTATI
-http://195.154.183.48:8000/live/miguel/miguel/1343.ts
-#EXTINF:-1,ANTENNA 3
-http://195.154.183.48:8000/live/miguel/miguel/1349.ts
-#EXTINF:-1,Motorvision TV
-http://195.154.183.48:8000/live/miguel/miguel/2368.ts
-#EXTINF:-1,——- Deutsch ——-
-http://195.154.183.48:8000/live/miguel/miguel/2866.ts
-#EXTINF:-1,DE – Das Erste HD
-http://195.154.183.48:8000/live/miguel/miguel/2867.ts
-#EXTINF:-1,DE – ZDF HD
-http://195.154.183.48:8000/live/miguel/miguel/2868.ts
-#EXTINF:-1,DE – WDR
-http://195.154.183.48:8000/live/miguel/miguel/2869.ts
-#EXTINF:-1,DE – RTL HD
-http://195.154.183.48:8000/live/miguel/miguel/2876.ts
-#EXTINF:-1,DE – RTL II HD
-http://195.154.183.48:8000/live/miguel/miguel/2877.ts
-#EXTINF:-1,DE – Super RTL HD
-http://195.154.183.48:8000/live/miguel/miguel/2878.ts
-#EXTINF:-1,DE – SIXX HD
-http://195.154.183.48:8000/live/miguel/miguel/2880.ts
-#EXTINF:-1,DE – Prosieben HD
-http://195.154.183.48:8000/live/miguel/miguel/2883.ts
-#EXTINF:-1,DE – Sat 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/2881.ts
-#EXTINF:-1,DE – VOX HD
-http://195.154.183.48:8000/live/miguel/miguel/2874.ts
-#EXTINF:-1,DE – Kabel 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/2884.ts
-#EXTINF:-1,DE – Sport 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/2879.ts
-#EXTINF:-1,DE – DMAX HD
-http://195.154.183.48:8000/live/miguel/miguel/2885.ts
-#EXTINF:-1,Pro 7 MAXX
-http://195.154.183.48:8000/live/miguel/miguel/4141.ts
-#EXTINF:-1,Romance TV*
-http://195.154.183.48:8000/live/miguel/miguel/3047.ts
-#EXTINF:-1,DE – Annixe
-http://195.154.183.48:8000/live/miguel/miguel/2873.ts
-#EXTINF:-1,DE – Tagesschau 24
-http://195.154.183.48:8000/live/miguel/miguel/2870.ts
-#EXTINF:-1,DE – SWR
-http://195.154.183.48:8000/live/miguel/miguel/2872.ts
-#EXTINF:-1,***** Kino *****
-http://195.154.183.48:8000/live/miguel/miguel/1580.ts
-#EXTINF:-1,SKY Germany – SKY Cinema HD
-http://195.154.183.48:8000/live/miguel/miguel/1401.ts
-#EXTINF:-1,Sky Germany – SKY Cinema +1 HD
-http://195.154.183.48:8000/live/miguel/miguel/2383.ts
-#EXTINF:-1,SKY Germany – SKY Cinema 24 HD
-http://195.154.183.48:8000/live/miguel/miguel/1402.ts
-#EXTINF:-1,SKY Germany – SKY Action HD
-http://195.154.183.48:8000/live/miguel/miguel/1406.ts
-#EXTINF:-1,SKY Germany – SKY Comedy
-http://195.154.183.48:8000/live/miguel/miguel/1404.ts
-#EXTINF:-1,SKY Germany – SKY Emotion HD
-http://195.154.183.48:8000/live/miguel/miguel/1403.ts
-#EXTINF:-1,SKY Germany – SKY Nostalgie
-http://195.154.183.48:8000/live/miguel/miguel/1409.ts
-#EXTINF:-1,SKY Germany – SKY Hits HD
-http://195.154.183.48:8000/live/miguel/miguel/1405.ts
-#EXTINF:-1,MGM HD
-http://195.154.183.48:8000/live/miguel/miguel/1411.ts
-#EXTINF:-1,KinoweltTV
-http://195.154.183.48:8000/live/miguel/miguel/2003.ts
-#EXTINF:-1,***** Unterhaltung *****
-http://195.154.183.48:8000/live/miguel/miguel/1581.ts
-#EXTINF:-1,SKY Germany – Sky 3D
-http://195.154.183.48:8000/live/miguel/miguel/1407.ts
-#EXTINF:-1,Sky Atlantic (*)
-http://195.154.183.48:8000/live/miguel/miguel/3606.ts
-#EXTINF:-1,SKY Germany – Sky Atlantic HD
-http://195.154.183.48:8000/live/miguel/miguel/1410.ts
-#EXTINF:-1,SKY Germany – Fox HD
-http://195.154.183.48:8000/live/miguel/miguel/1417.ts
-#EXTINF:-1,Sky Germany – AXN HD
-http://195.154.183.48:8000/live/miguel/miguel/1412.ts
-#EXTINF:-1,SKY Germany – SyFy HD
-http://195.154.183.48:8000/live/miguel/miguel/1416.ts
-#EXTINF:-1,SKY Germany – Sky Krimi
-http://195.154.183.48:8000/live/miguel/miguel/1408.ts
-#EXTINF:-1,SKY Germany – Universal HD
-http://195.154.183.48:8000/live/miguel/miguel/1415.ts
-#EXTINF:-1,13th Street HD
-http://195.154.183.48:8000/live/miguel/miguel/1418.ts
-#EXTINF:-1,SKY Germany – TNT Film HD
-http://195.154.183.48:8000/live/miguel/miguel/1413.ts
-#EXTINF:-1,TNT Comedy HD
-http://195.154.183.48:8000/live/miguel/miguel/4139.ts
-#EXTINF:-1,SKY Germany – TNT Serie HD
-http://195.154.183.48:8000/live/miguel/miguel/1414.ts
-#EXTINF:-1,TNT Glitz HD
-http://195.154.183.48:8000/live/miguel/miguel/2862.ts
-#EXTINF:-1,E! Entertainm HD
-http://195.154.183.48:8000/live/miguel/miguel/2863.ts
-#EXTINF:-1,Sky Romance TV HD
-http://195.154.183.48:8000/live/miguel/miguel/1754.ts
-#EXTINF:-1,Sky Kabel eins Classics
-http://195.154.183.48:8000/live/miguel/miguel/1952.ts
-#EXTINF:-1,RTL CRIME HD
-http://195.154.183.48:8000/live/miguel/miguel/2362.ts
-#EXTINF:-1,RTL Passion HD
-http://195.154.183.48:8000/live/miguel/miguel/2002.ts
-#EXTINF:-1,RTL NITRO
-http://195.154.183.48:8000/live/miguel/miguel/2361.ts
-#EXTINF:-1,RTL Living HD
-http://195.154.183.48:8000/live/miguel/miguel/1949.ts
-#EXTINF:-1,Heimatkanal
-http://195.154.183.48:8000/live/miguel/miguel/2363.ts
-#EXTINF:-1,***** SKY SPORT DE *****
-http://195.154.183.48:8000/live/miguel/miguel/1582.ts
-#EXTINF:-1,SKY Germany – Sport1 HD
-http://195.154.183.48:8000/live/miguel/miguel/1440.ts
-#EXTINF:-1,Sky Sport Austria HD
-http://195.154.183.48:8000/live/miguel/miguel/2364.ts
-#EXTINF:-1,Sportdigital HD
-http://195.154.183.48:8000/live/miguel/miguel/1755.ts
-#EXTINF:-1,Sport 1 US HD
-http://195.154.183.48:8000/live/miguel/miguel/1441.ts
-#EXTINF:-1,SKY Germany – Sport 1
-http://195.154.183.48:8000/live/miguel/miguel/1823.ts
-#EXTINF:-1,Sport 1+HD
-http://195.154.183.48:8000/live/miguel/miguel/2366.ts
-#EXTINF:-1,Eurosport HD
-http://195.154.183.48:8000/live/miguel/miguel/2367.ts
-#EXTINF:-1,SKY Germany – SKY Sport News HD
-http://195.154.183.48:8000/live/miguel/miguel/1428.ts
-#EXTINF:-1,SKY Germany – SKY Sport HD1
-http://195.154.183.48:8000/live/miguel/miguel/1429.ts
-#EXTINF:-1,SKY Germany – SKY Sport HD2
-http://195.154.183.48:8000/live/miguel/miguel/1430.ts
-#EXTINF:-1,SKY Germany – SKY Sport HD3
-http://195.154.183.48:8000/live/miguel/miguel/1431.ts
-#EXTINF:-1,SKY Germany – SKY Sport HD4
-http://195.154.183.48:8000/live/miguel/miguel/1432.ts
-#EXTINF:-1,SKY Germany – SKY Sport HD5
-http://195.154.183.48:8000/live/miguel/miguel/1433.ts
-#EXTINF:-1,SKY Germany – SKY Bundesliga HD1
-http://195.154.183.48:8000/live/miguel/miguel/1434.ts
-#EXTINF:-1,SKY Germany – SKY Bundesliga HD2
-http://195.154.183.48:8000/live/miguel/miguel/1435.ts
-#EXTINF:-1,SKY Germany – SKY Bundesliga HD3
-http://195.154.183.48:8000/live/miguel/miguel/1436.ts
-#EXTINF:-1,SKY Germany – SKY Bundesliga HD4
-http://195.154.183.48:8000/live/miguel/miguel/1437.ts
-#EXTINF:-1,SKY Germany – SKY Bundesliga HD5
-http://195.154.183.48:8000/live/miguel/miguel/1438.ts
-#EXTINF:-1,Sky HD Fanzone
-http://195.154.183.48:8000/live/miguel/miguel/2365.ts
-#EXTINF:-1,***** Kultur *****
-http://195.154.183.48:8000/live/miguel/miguel/1583.ts
-#EXTINF:-1,SKY Germany – Discovery HD
-http://195.154.183.48:8000/live/miguel/miguel/1423.ts
-#EXTINF:-1,SKY Germany – National Geographic HD
-http://195.154.183.48:8000/live/miguel/miguel/1425.ts
-#EXTINF:-1,National Geo Wild HD
-http://195.154.183.48:8000/live/miguel/miguel/1424.ts
-#EXTINF:-1,National Geo People HD
-http://195.154.183.48:8000/live/miguel/miguel/4142.ts
-#EXTINF:-1,SKY Germany – Animal Planet HD
-http://195.154.183.48:8000/live/miguel/miguel/4146.ts
-#EXTINF:-1,SKY Germany – History HD
-http://195.154.183.48:8000/live/miguel/miguel/1426.ts
-#EXTINF:-1,Spiegel TV Wissen HD
-http://195.154.183.48:8000/live/miguel/miguel/4145.ts
-#EXTINF:-1,Spiegel Geschichte
-http://195.154.183.48:8000/live/miguel/miguel/4144.ts
-#EXTINF:-1,Planet HD
-http://195.154.183.48:8000/live/miguel/miguel/4143.ts
-#EXTINF:-1,Welt der Wunder TV
-http://195.154.183.48:8000/live/miguel/miguel/1177.ts
-#EXTINF:-1,***** Kinder *****
-http://195.154.183.48:8000/live/miguel/miguel/1584.ts
-#EXTINF:-1,SKY Germany – Disney Channel HD
-http://195.154.183.48:8000/live/miguel/miguel/1421.ts
-#EXTINF:-1,SKY Germany – Disney Cinemagic HD
-http://195.154.183.48:8000/live/miguel/miguel/1420.ts
-#EXTINF:-1,SKY Germany – Disney XD
-http://195.154.183.48:8000/live/miguel/miguel/1419.ts
-#EXTINF:-1,Disney Junior HD
-http://195.154.183.48:8000/live/miguel/miguel/1756.ts
-#EXTINF:-1,SKY Germany – Boomerang
-http://195.154.183.48:8000/live/miguel/miguel/1422.ts
-#EXTINF:-1,SKY Germany – Cartoon Network HD
-http://195.154.183.48:8000/live/miguel/miguel/4147.ts
-#EXTINF:-1,Toggo Plus
-http://195.154.183.48:8000/live/miguel/miguel/4148.ts
-#EXTINF:-1,Junior
-http://195.154.183.48:8000/live/miguel/miguel/2864.ts
-#EXTINF:-1,ANIMAX
-http://195.154.183.48:8000/live/miguel/miguel/2887.ts
-#EXTINF:-1,***** Select DE *****
-http://195.154.183.48:8000/live/miguel/miguel/1585.ts
-#EXTINF:-1,Sky Select 1
-http://195.154.183.48:8000/live/miguel/miguel/4161.ts
-#EXTINF:-1,Sky Select 2
-http://195.154.183.48:8000/live/miguel/miguel/4157.ts
-#EXTINF:-1,Sky Select 4
-http://195.154.183.48:8000/live/miguel/miguel/3147.ts
-#EXTINF:-1,Sky Select 5
-http://195.154.183.48:8000/live/miguel/miguel/3194.ts
-#EXTINF:-1,Sky Select 6
-http://195.154.183.48:8000/live/miguel/miguel/3154.ts
-#EXTINF:-1,Sky Select 7
-http://195.154.183.48:8000/live/miguel/miguel/4159.ts
-#EXTINF:-1,Blue Movie 1
-http://195.154.183.48:8000/live/miguel/miguel/3331.ts
-#EXTINF:-1,Blue Movie 2
-http://195.154.183.48:8000/live/miguel/miguel/3533.ts
-#EXTINF:-1,Blue Movie 3
-http://195.154.183.48:8000/live/miguel/miguel/3534.ts
-#EXTINF:-1,***** KDG *****
-http://195.154.183.48:8000/live/miguel/miguel/1951.ts
-#EXTINF:-1,Silverline Movie Channel
-http://195.154.183.48:8000/live/miguel/miguel/3032.ts
-#EXTINF:-1,KDG Sony Entertainement HD
-http://195.154.183.48:8000/live/miguel/miguel/1948.ts
-#EXTINF:-1,KDG Animal Planet HD
-http://195.154.183.48:8000/live/miguel/miguel/1950.ts
-#EXTINF:-1,*** HD-PLUS ***
-http://195.154.183.48:8000/live/miguel/miguel/2372.ts
-#EXTINF:-1,Deluxe Music HD
-http://195.154.183.48:8000/live/miguel/miguel/2382.ts
-#EXTINF:-1,***** Musik *****
-http://195.154.183.48:8000/live/miguel/miguel/1757.ts
-#EXTINF:-1,VEVO DE HD
-http://195.154.183.48:8000/live/miguel/miguel/1291.ts
-#EXTINF:-1,VEVO US/CA 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/1292.ts
-#EXTINF:-1,VEVO US/CA 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/1293.ts
-#EXTINF:-1,VEVO US/CA 3 HD
-http://195.154.183.48:8000/live/miguel/miguel/1294.ts
-#EXTINF:-1,XITE.TV
-http://195.154.183.48:8000/live/miguel/miguel/1290.ts
-#EXTINF:-1,RIC
-http://195.154.183.48:8000/live/miguel/miguel/1147.ts
-#EXTINF:-1,***** ORF *****
-http://195.154.183.48:8000/live/miguel/miguel/1955.ts
-#EXTINF:-1,ORF 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/1953.ts
-#EXTINF:-1,ORF 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/1954.ts
-#EXTINF:-1,***** SRF *****
-http://195.154.183.48:8000/live/miguel/miguel/1946.ts
-#EXTINF:-1,SRF 1
-http://195.154.183.48:8000/live/miguel/miguel/4140.ts
-#EXTINF:-1,***** FREE-TV-GERMANIA*****
-http://195.154.183.48:8000/live/miguel/miguel/1548.ts
-#EXTINF:-1,Joiz HD
-http://195.154.183.48:8000/live/miguel/miguel/1148.ts
-#EXTINF:-1,arte
-http://195.154.183.48:8000/live/miguel/miguel/1166.ts
-#EXTINF:-1,Anixe
-http://195.154.183.48:8000/live/miguel/miguel/1175.ts
-#EXTINF:-1,tagesschau24 HD
-http://195.154.183.48:8000/live/miguel/miguel/1144.ts
-#EXTINF:-1,hr HD
-http://195.154.183.48:8000/live/miguel/miguel/1161.ts
-#EXTINF:-1,***** International *****
-http://195.154.183.48:8000/live/miguel/miguel/1758.ts
-#EXTINF:-1,LA SEXTA HD
-http://195.154.183.48:8000/live/miguel/miguel/1283.ts
-#EXTINF:-1,ANTENA 3 HD
-http://195.154.183.48:8000/live/miguel/miguel/1284.ts
-#EXTINF:-1,Russia Today HD
-http://195.154.183.48:8000/live/miguel/miguel/1285.ts
-#EXTINF:-1,TVI HD
-http://195.154.183.48:8000/live/miguel/miguel/1274.ts
-#EXTINF:-1,TV Galicia
-http://195.154.183.48:8000/live/miguel/miguel/1282.ts
-#EXTINF:-1,TVE 1 (La1)
-http://195.154.183.48:8000/live/miguel/miguel/1277.ts
-#EXTINF:-1,****** XXX *****
-http://195.154.183.48:8000/live/miguel/miguel/1553.ts
-#EXTINF:-1,XX(X)SEMPRE
-http://195.154.183.48:8000/live/miguel/miguel/3708.ts
-#EXTINF:-1,XX(X)SEMPRE 2
-http://195.154.183.48:8000/live/miguel/miguel/3709.ts
-#EXTINF:-1,XX(X)SEMPRE 3
-http://195.154.183.48:8000/live/miguel/miguel/3710.ts
-#EXTINF:-1,XX(X)SEMPRE 4
-http://195.154.183.48:8000/live/miguel/miguel/3753.ts
-#EXTINF:-1,XXX MUSIK
-http://195.154.183.48:8000/live/miguel/miguel/3733.ts
-#EXTINF:-1,3D.XxX.Bes.New.Starls.2016.3d
-http://195.154.183.48:8000/movie/miguel/miguel/3706.Mkv
-#EXTINF:-1,3D.XxX.Bad.Girls.Bot.Camp.2016.3d
-http://195.154.183.48:8000/movie/miguel/miguel/3705.mkv
-#EXTINF:-1,3D XxX Private Specials 140: Teen Sex 2 3d
-http://195.154.183.48:8000/movie/miguel/miguel/3704.mkv
-#EXTINF:-1,SCT
-http://195.154.183.48:8000/live/miguel/miguel/4131.ts
-#EXTINF:-1,Redlight HD
-http://195.154.183.48:8000/live/miguel/miguel/4132.ts
-#EXTINF:-1,XXX (18 ) | Sexto Senso
-http://195.154.183.48:8000/live/miguel/miguel/1136.ts
-#EXTINF:-1,X-CentoxCento
-http://195.154.183.48:8000/live/miguel/miguel/3537.ts
-#EXTINF:-1,Hustler HD
-http://195.154.183.48:8000/live/miguel/miguel/1110.ts
-#EXTINF:-1,X: Private TV
-http://195.154.183.48:8000/live/miguel/miguel/3538.ts
-#EXTINF:-1,X-XXL
-http://195.154.183.48:8000/live/miguel/miguel/3541.ts
-#EXTINF:-1,X-Pink1
-http://195.154.183.48:8000/live/miguel/miguel/3542.ts
-#EXTINF:-1,X-Hot
-http://195.154.183.48:8000/live/miguel/miguel/3539.ts
-#EXTINF:-1,X-Exotica
-http://195.154.183.48:8000/live/miguel/miguel/3540.ts
-#EXTINF:-1,X-DORCEL
-http://195.154.183.48:8000/live/miguel/miguel/3543.ts
-#EXTINF:-1,Latin Live Sex
-http://195.154.183.48:8000/live/miguel/miguel/3166.ts
-#EXTINF:-1,Jasmin TV
-http://195.154.183.48:8000/live/miguel/miguel/3165.ts
-#EXTINF:-1,XXX: PASSIE
-http://195.154.183.48:8000/live/miguel/miguel/4080.ts
-#EXTINF:-1,xXx: Hot Club 9 HD
-http://195.154.183.48:8000/live/miguel/miguel/4090.ts
-#EXTINF:-1,xXx: Hot Club 8 HD
-http://195.154.183.48:8000/live/miguel/miguel/4089.ts
-#EXTINF:-1,xXx: Hot Club 7 HD
-http://195.154.183.48:8000/live/miguel/miguel/4088.ts
-#EXTINF:-1,xXx: Hot Club 6 HD
-http://195.154.183.48:8000/live/miguel/miguel/4087.ts
-#EXTINF:-1,xXx: Hot Club 5 HD
-http://195.154.183.48:8000/live/miguel/miguel/4086.ts
-#EXTINF:-1,xXx: Hot Club 4 HD
-http://195.154.183.48:8000/live/miguel/miguel/4085.ts
-#EXTINF:-1,xXx: Hot Club 3 HD
-http://195.154.183.48:8000/live/miguel/miguel/4084.ts
-#EXTINF:-1,xXx: Hot Club 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/4083.ts
-#EXTINF:-1,xXx: Hot Club 10 HD
-http://195.154.183.48:8000/live/miguel/miguel/4091.ts
-#EXTINF:-1,xXx: Hot Club 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/4082.ts
-#EXTINF:-1,XXX VOD 1
-http://195.154.183.48:8000/movie/miguel/miguel/3177.mkv
-#EXTINF:-1,XXX VOD 2
-http://195.154.183.48:8000/movie/miguel/miguel/3176.mkv
-#EXTINF:-1,XXX VOD 3
-http://195.154.183.48:8000/movie/miguel/miguel/3175.mkv
-#EXTINF:-1,XXX VOD 4
-http://195.154.183.48:8000/movie/miguel/miguel/3174.mkv
-#EXTINF:-1,XXX VOD 5
-http://195.154.183.48:8000/movie/miguel/miguel/3173.mkv
-#EXTINF:-1,XXX VOD 6
-http://195.154.183.48:8000/movie/miguel/miguel/3172.mkv
-#EXTINF:-1,XXX VOD 7
-http://195.154.183.48:8000/movie/miguel/miguel/3171.mkv
-#EXTINF:-1,XXX VOD 8
-http://195.154.183.48:8000/movie/miguel/miguel/3170.mkv
-#EXTINF:-1,XXX VOD 9
-http://195.154.183.48:8000/movie/miguel/miguel/3169.mkv
-#EXTINF:-1,XXX VOD 10
-http://195.154.183.48:8000/movie/miguel/miguel/3168.mkv
-#EXTINF:-1,XXX VOD 11
-http://195.154.183.48:8000/movie/miguel/miguel/3167.mkv
-#EXTINF:-1,***** Video ON DEMAND ITA *****
-http://195.154.183.48:8000/live/miguel/miguel/1750.ts
-#EXTINF:-1,—–AL CINEMA ( QualitÃ  scarsa )—–
-http://195.154.183.48:8000/live/miguel/miguel/1923.ts
-#EXTINF:-1,Suicide Squad (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4133
-#EXTINF:-1,L’era glaciale 5: In rotta di collisione (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4150
-#EXTINF:-1,Lights Out: Terrore nel buio (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4151
-#EXTINF:-1,Bianco di Babbudoiu (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4136
-#EXTINF:-1,The Conjuring – Il Caso Enfield (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4112.mkv
-#EXTINF:-1,Onda su onda (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3630.mkv
-#EXTINF:-1,Angry Birds – Il film (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3633.mkv
-#EXTINF:-1,Miami Beach (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3748.mkv
-#EXTINF:-1,X-Men: Apocalisse (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3156.mkv
-#EXTINF:-1,Lo chiamavano Jeeg Robot (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2982.mkv
-#EXTINF:-1,La Coppia Dei Campioni (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2979.mkv
-#EXTINF:-1,Batman V Superman: Dawn of Justice (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2865.mkv
-#EXTINF:-1,Vita, cuore, battito (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2856.mkv
-#EXTINF:-1,Tiramisù (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2551.mkv
-#EXTINF:-1,Ma Che Bella Sorpresa (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1807.mkv
-#EXTINF:-1,Ci devo pensare (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1809.mkv
-#EXTINF:-1,Basta Poco (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2921.mkv
-#EXTINF:-1,Perfetti Sconosciuti (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3145.mkv
-#EXTINF:-1,—–ULTIMI FILM INSERITI—–
-http://195.154.183.48:8000/live/miguel/miguel/1924.ts
-#EXTINF:-1,Un posto sicuro [HD] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/4135
-#EXTINF:-1,Bastille Day – Il Colpo Del Secolo [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4134
-#EXTINF:-1,Il libro della giungla [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4138
-#EXTINF:-1,Il cacciatore e la regina di ghiaccio – La storia prima di Biancaneve [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4137
-#EXTINF:-1,The Sacrament [HD] (2013)
-http://195.154.183.48:8000/movie/miguel/miguel/3631.mkv
-#EXTINF:-1,Never Back Down 3 – Mai arrendersi [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3632.mkv
-#EXTINF:-1,L’esigenza di unirmi ogni volta con te (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/3332.mkv
-#EXTINF:-1,Da Rocky a Creed, la leggenda continua [HD] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/3198.mkv
-#EXTINF:-1,Io sono vendetta – I Am Wrath [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3201.mkv
-#EXTINF:-1,Somnia [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3200.mkv
-#EXTINF:-1,Hardcore (2015) it2
-http://195.154.183.48:8000/movie/miguel/miguel/3184.mkv
-#EXTINF:-1,ABCs of Death 2 [HD] (2014)
-http://195.154.183.48:8000/movie/miguel/miguel/3181.mkv
-#EXTINF:-1,Pelé [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3157.mkv
-#EXTINF:-1,—–ANIMATIONE—-
-http://195.154.183.48:8000/live/miguel/miguel/1877.ts
-#EXTINF:-1,Zootropolis (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2399.mkv
-#EXTINF:-1,Hell and Back [HD] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2986
-#EXTINF:-1,Fuga dal pianeta Terra (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2981.mkv
-#EXTINF:-1,Boog & Elliot 4: Il Mistero Della Foresta [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2852.mkv
-#EXTINF:-1,Il Piccolo Principe (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2424.mkv
-#EXTINF:-1,Masha e Orso Rockstar (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2857.mkv
-#EXTINF:-1,Kung Fu Panda 3 (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2854.mkv
-#EXTINF:-1,Peppa Pig – Il Parco di Divertimenti e altre storie (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2978.mkv
-#EXTINF:-1,Inside out (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2422.mkv
-#EXTINF:-1,Albert e il diamante magico (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2423.mkv
-#EXTINF:-1,Strange Magic (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2421.mkv
-#EXTINF:-1,Snoopy & Friends – Il film dei Peanuts (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2175.mkv
-#EXTINF:-1,HOTEL TRANSYLVANIA 2 (2015) it
-http://195.154.183.48:8000/movie/miguel/miguel/2401.mkv
-#EXTINF:-1,Mune – Il guardiano della luna (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2400.mkv
-#EXTINF:-1,Rio 2096 – Una Storia Di Amore E Furia (2014)
-http://195.154.183.48:8000/movie/miguel/miguel/1866.mkv
-#EXTINF:-1,L’era glaciale 2 – Il disgelo (2006)
-http://195.154.183.48:8000/movie/miguel/miguel/1864.mkv
-#EXTINF:-1,Ribelle – The Brave (2012)
-http://195.154.183.48:8000/movie/miguel/miguel/1869.mkv
-#EXTINF:-1,Rapunzel – L’Intreccio della Torre (2010)
-http://195.154.183.48:8000/movie/miguel/miguel/1870.mkv
-#EXTINF:-1,Planes (2013)
-http://195.154.183.48:8000/movie/miguel/miguel/1871.mkv
-#EXTINF:-1,Mulan (1998)
-http://195.154.183.48:8000/movie/miguel/miguel/1868.mkv
-#EXTINF:-1,—–AVVENTURA—–
-http://195.154.183.48:8000/live/miguel/miguel/1926.ts
-#EXTINF:-1,Gods of Egypt [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3095.mkv
-#EXTINF:-1,Fury (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2426.mkv
-#EXTINF:-1,Piccoli Brividi (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1806.mkv
-#EXTINF:-1,—–AZIONE—–
-http://195.154.183.48:8000/live/miguel/miguel/1925.ts
-#EXTINF:-1,Deadpool (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1964.mkv
-#EXTINF:-1,PPZ Pride + Prejudice + Zombies (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1938.mkv
-#EXTINF:-1,Fantastic 4 – I fantastici quattro (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2431.mkv
-#EXTINF:-1,Hitman: Agent 47 (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2548.mkv
-#EXTINF:-1,Big Game – Caccia al presidente (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2427.mkv
-#EXTINF:-1,007: Spectre (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1963.mkv
-#EXTINF:-1,Criminal Activities (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1962.mkv
-#EXTINF:-1,Die Hard – Un buon giorno per morire (2013)
-http://195.154.183.48:8000/movie/miguel/miguel/2550.mkv
-#EXTINF:-1,—–COMMEDIA—–
-http://195.154.183.48:8000/live/miguel/miguel/1927.ts
-#EXTINF:-1,Ave, Cesare! (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2980.mkv
-#EXTINF:-1,50 sbavature di nero (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2174.mkv
-#EXTINF:-1,Daddy’s Home (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1776.mkv
-#EXTINF:-1,L`abbiamo fatta grossa (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1804.mkv
-#EXTINF:-1,Quo vado? (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1891.mkv
-#EXTINF:-1,Se mi lasci non vale (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1749.mkv
-#EXTINF:-1,The Dressmaker – Il diavolo è tornato (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2983.mkv
-#EXTINF:-1,Oliver Stoned (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2860.mkv
-#EXTINF:-1,Hot Bot (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2595.mkv
-#EXTINF:-1,Il professor Cenerentolo [HD] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2861.mkv
-#EXTINF:-1,Natale col boss (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2553.mkv
-#EXTINF:-1,Matrimonio al Sud (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2853.mkv
-#EXTINF:-1,Non c’è 2 senza te (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2425.mkv
-#EXTINF:-1,Fuga in tacchi a spillo (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2428.mkv
-#EXTINF:-1,Torno indietro e cambio vita (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2429.mkv
-#EXTINF:-1,The Wedding Ringer – Un Testimone In Affitto (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2430.mkv
-#EXTINF:-1,Come Ti Rovino Le Vacanze (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1881.mkv
-#EXTINF:-1,Ted 2 [HD] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1920.mkv
-#EXTINF:-1,Italo (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1919.mkv
-#EXTINF:-1,Belli di PapÃ  (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1902.mkv
-#EXTINF:-1,Appuntamento con l`amore (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1859.mkv
-#EXTINF:-1,Una donna per amica (2014)
-http://195.154.183.48:8000/movie/miguel/miguel/1858.mkv
-#EXTINF:-1,Tutto può accadere a broadway (2014)
-http://195.154.183.48:8000/movie/miguel/miguel/2545.mkv
-#EXTINF:-1,La buca (2014)
-http://195.154.183.48:8000/movie/miguel/miguel/1921.mkv
-#EXTINF:-1,Sapore di te (2014)
-http://195.154.183.48:8000/movie/miguel/miguel/1808.mkv
-#EXTINF:-1,Nati Stanchi (2002)
-http://195.154.183.48:8000/movie/miguel/miguel/1860
-#EXTINF:-1,THE MILLIONAIRE (2008)
-http://195.154.183.48:8000/movie/miguel/miguel/1857.mkv
-#EXTINF:-1,Vacanze di Natale
-http://195.154.183.48:8000/movie/miguel/miguel/4128.mkv
-#EXTINF:-1,Vacanze di Natale 91
-http://195.154.183.48:8000/movie/miguel/miguel/4127.mkv
-#EXTINF:-1,—–DRAMMATICO—–
-http://195.154.183.48:8000/live/miguel/miguel/1928.ts
-#EXTINF:-1,Room (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2596.mkv
-#EXTINF:-1,Victor: La storia segreta del dottor Frankenstein (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2597.mkv
-#EXTINF:-1,UNA VOLTA NELLA VITA (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1841.mkv
-#EXTINF:-1,99 Homes (2014)
-http://195.154.183.48:8000/movie/miguel/miguel/2547.mkv
-#EXTINF:-1,—–FANTASY—–
-http://195.154.183.48:8000/live/miguel/miguel/1929.ts
-#EXTINF:-1,Star Wars – Episodio VII – Il risveglio della Forza (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2858.mkv
-#EXTINF:-1,Selfless (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1861.mkv
-#EXTINF:-1,Avengers: Age of Ultron (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2544.mkv
-#EXTINF:-1,The Avengers (2012)
-http://195.154.183.48:8000/movie/miguel/miguel/2543.mkv
-#EXTINF:-1,Transformers (2007)
-http://195.154.183.48:8000/movie/miguel/miguel/2432.mkv
-#EXTINF:-1,Fantaghiro (1991)
-http://195.154.183.48:8000/movie/miguel/miguel/1930.mkv
-#EXTINF:-1,Fantaghiro 2 (1992)
-http://195.154.183.48:8000/movie/miguel/miguel/1933.mkv
-#EXTINF:-1,Fantaghiro 3 (1993)
-http://195.154.183.48:8000/movie/miguel/miguel/1934.mkv
-#EXTINF:-1,Fantaghiro 4 (1994)
-http://195.154.183.48:8000/movie/miguel/miguel/1935.mkv
-#EXTINF:-1,Fantaghiro 5 (1996)
-http://195.154.183.48:8000/movie/miguel/miguel/1936.mkv
-#EXTINF:-1,—–HORROR—–
-http://195.154.183.48:8000/live/miguel/miguel/1932.ts
-#EXTINF:-1,The Boy [HD] (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/3141.mkv
-#EXTINF:-1,The Veil (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2859.mkv
-#EXTINF:-1,3 Headed Shark Attack (2015)?
-http://195.154.183.48:8000/movie/miguel/miguel/3136.mkv
-#EXTINF:-1,The Vatican Tapes (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2178.mkv
-#EXTINF:-1,Knock Knock (2015) it
-http://195.154.183.48:8000/movie/miguel/miguel/2177.mkv
-#EXTINF:-1,No One Lives (2012)
-http://195.154.183.48:8000/movie/miguel/miguel/2176.mkv
-#EXTINF:-1,Francesca (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1965.mkv
-#EXTINF:-1,Tales of Halloween [HD] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1939.mkv
-#EXTINF:-1,Paranormal Activity: The Ghost Dimension
-http://195.154.183.48:8000/movie/miguel/miguel/1879.mkv
-#EXTINF:-1,Crimson Peak (2015) ITA
-http://195.154.183.48:8000/movie/miguel/miguel/1843.mkv
-#EXTINF:-1,La madre [HD] (2013)
-http://195.154.183.48:8000/movie/miguel/miguel/4120.mkv
-#EXTINF:-1,Orphan (2009)
-http://195.154.183.48:8000/movie/miguel/miguel/4121.mkv
-#EXTINF:-1,—–THRILLER—–
-http://195.154.183.48:8000/live/miguel/miguel/1931.ts
-#EXTINF:-1,Extraction (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2922.mkv
-#EXTINF:-1,Standoff – Punto Morto (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2552.mkv
-#EXTINF:-1,Remember (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2179.mkv
-#EXTINF:-1,—–FILM 3D—-
-http://195.154.183.48:8000/live/miguel/miguel/1884.ts
-#EXTINF:-1,Il Viaggio Di Arlo [3D] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1882.mkv
-#EXTINF:-1,A Spasso con i dinosauri [3D] (2014)
-http://195.154.183.48:8000/movie/miguel/miguel/1886.mkv
-#EXTINF:-1,L.A. Apocalypse – Apocalisse a Los Angeles [3D]
-http://195.154.183.48:8000/movie/miguel/miguel/1885.mkv
-#EXTINF:-1,Terminator: Genisys [HD/3D] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1918.mkv
-#EXTINF:-1,Kristy [HD/3D] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1917.mkv
-#EXTINF:-1,Ant-Man [HD/3D] (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1916.mkv
-#EXTINF:-1,—–Anni 70-80-90—–
-http://195.154.183.48:8000/live/miguel/miguel/2598.ts
-#EXTINF:-1,La discotheka (1983)
-http://195.154.183.48:8000/movie/miguel/miguel/2612.mkv
-#EXTINF:-1,L’ammiratrice (1985)
-http://195.154.183.48:8000/movie/miguel/miguel/2607.mkv
-#EXTINF:-1,Giuro che ti amo (1986)
-http://195.154.183.48:8000/movie/miguel/miguel/2611.mkv
-#EXTINF:-1,L’ultimo guappo (1978)
-http://195.154.183.48:8000/movie/miguel/miguel/2608.mkv
-#EXTINF:-1,Il Mammasantissima (1979)
-http://195.154.183.48:8000/movie/miguel/miguel/2605.mkv
-#EXTINF:-1,Napoli… la camorra sfida e la città risponde (1979)
-http://195.154.183.48:8000/movie/miguel/miguel/2610.mkv
-#EXTINF:-1,Zappatore (1980)
-http://195.154.183.48:8000/movie/miguel/miguel/2617.mkv
-#EXTINF:-1,Napoli, Palermo, New York – Il triangolo della Camorra (1981)
-http://195.154.183.48:8000/movie/miguel/miguel/2609.mkv
-#EXTINF:-1,Fratelli d`italia (1989)
-http://195.154.183.48:8000/movie/miguel/miguel/2603.mkv
-#EXTINF:-1,Stesso mare stessa spiaggia (1983)
-http://195.154.183.48:8000/movie/miguel/miguel/2613.mkv
-#EXTINF:-1,Vacanze d’estate (1985)
-http://195.154.183.48:8000/movie/miguel/miguel/2615.mkv
-#EXTINF:-1,Pierino contro tutti (1981)
-http://195.154.183.48:8000/movie/miguel/miguel/2565.mkv
-#EXTINF:-1,Pierino colpisce ancora (1982)
-http://195.154.183.48:8000/movie/miguel/miguel/2599.mkv
-#EXTINF:-1,Pierino torna a scuola (1990)
-http://195.154.183.48:8000/movie/miguel/miguel/2566.mkv
-#EXTINF:-1,Vieni avanti cretino (1982)
-http://195.154.183.48:8000/movie/miguel/miguel/1968.mkv
-#EXTINF:-1,Squadra Antiscippo (1976)
-http://195.154.183.48:8000/movie/miguel/miguel/2559.mkv
-#EXTINF:-1,Squadra Antifurto (1976)
-http://195.154.183.48:8000/movie/miguel/miguel/2560.mkv
-#EXTINF:-1,Squadra Antigangsters (1979)
-http://195.154.183.48:8000/movie/miguel/miguel/2564.mkv
-#EXTINF:-1,Il Ritorno Del Monnezza (2005)
-http://195.154.183.48:8000/movie/miguel/miguel/2616.mkv
-#EXTINF:-1,È forte un casino (1982)
-http://195.154.183.48:8000/movie/miguel/miguel/2618.mkv
-#EXTINF:-1,—–Serie cinematografiche—–
-http://195.154.183.48:8000/live/miguel/miguel/1893.ts
-#EXTINF:-1,Rambo (1982)
-http://195.154.183.48:8000/movie/miguel/miguel/1888.mkv
-#EXTINF:-1,Rambo 2: La vendetta (1985)
-http://195.154.183.48:8000/movie/miguel/miguel/1889.mkv
-#EXTINF:-1,Rambo 3 (1988)
-http://195.154.183.48:8000/movie/miguel/miguel/1890.mkv
-#EXTINF:-1,John Rambo (2008)
-http://195.154.183.48:8000/movie/miguel/miguel/1894.mkv
-#EXTINF:-1,Rocky (1976)
-http://195.154.183.48:8000/movie/miguel/miguel/1895.mkv
-#EXTINF:-1,Rocky II (1979)
-http://195.154.183.48:8000/movie/miguel/miguel/1896.mkv
-#EXTINF:-1,Rocky III (1982)
-http://195.154.183.48:8000/movie/miguel/miguel/1897.mkv
-#EXTINF:-1,Rocky IV (1985)
-http://195.154.183.48:8000/movie/miguel/miguel/2562.mkv
-#EXTINF:-1,Rocky V (1990)
-http://195.154.183.48:8000/movie/miguel/miguel/2563.mkv
-#EXTINF:-1,Creed: Nato per combattere (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1940.mkv
-#EXTINF:-1,—–FANTOZZI—-
-http://195.154.183.48:8000/live/miguel/miguel/1876.ts
-#EXTINF:-1,Fantozzi (1975)
-http://195.154.183.48:8000/movie/miguel/miguel/1874.mkv
-#EXTINF:-1,Il secondo tragico Fantozzi (1976)
-http://195.154.183.48:8000/movie/miguel/miguel/1875.mkv
-#EXTINF:-1,Fantozzi subisce ancora (1983)
-http://195.154.183.48:8000/movie/miguel/miguel/1908.mkv
-#EXTINF:-1,Superfantozzi (1986)
-http://195.154.183.48:8000/movie/miguel/miguel/1909.mkv
-#EXTINF:-1,Fantozzi va in pensione (1988)
-http://195.154.183.48:8000/movie/miguel/miguel/1910.mkv
-#EXTINF:-1,Fantozzi in Paradiso (1993)
-http://195.154.183.48:8000/movie/miguel/miguel/1912.mkv
-#EXTINF:-1,Fantozzi il ritorno (1996)
-http://195.154.183.48:8000/movie/miguel/miguel/1913.mkv
-#EXTINF:-1,Fantozzi contro tutti (1980)
-http://195.154.183.48:8000/movie/miguel/miguel/1907.mkv
-#EXTINF:-1,Fantozzi alla riscossa (1990)
-http://195.154.183.48:8000/movie/miguel/miguel/1911.mkv
-#EXTINF:-1,Fantozzi 2000 – La Clonazione (1999)
-http://195.154.183.48:8000/movie/miguel/miguel/1914.mkv
-#EXTINF:-1,—–Franco e Ciccio—-
-http://195.154.183.48:8000/live/miguel/miguel/1883.ts
-#EXTINF:-1,Franco e Ciccio – I tre nemici (1962)
-http://195.154.183.48:8000/movie/miguel/miguel/1880.mkv
-#EXTINF:-1,Franco e Ciccio – Don Chisciotte E Sancio Panza (1968)
-http://195.154.183.48:8000/movie/miguel/miguel/2601.mkv
-#EXTINF:-1,Franco e Ciccio – Indovina chi viene a merenda (1969)
-http://195.154.183.48:8000/movie/miguel/miguel/2606.mkv
-#EXTINF:-1,Franco e Ciccio – ladro e guardia (1970)
-http://195.154.183.48:8000/movie/miguel/miguel/1878.mkv
-#EXTINF:-1,Franco e Ciccio – I Due Assi Del Guantone (1971)
-http://195.154.183.48:8000/movie/miguel/miguel/2602.mkv
-#EXTINF:-1,—–TotÃ²—–
-http://195.154.183.48:8000/live/miguel/miguel/1905.ts
-#EXTINF:-1,Toto a colori (1952)
-http://195.154.183.48:8000/movie/miguel/miguel/1899.mkv
-#EXTINF:-1,Il medico dei pazzi Toto (1954) 1a parte
-http://195.154.183.48:8000/movie/miguel/miguel/1892.mkv
-#EXTINF:-1,Il medico dei pazzi Toto (1954) 2a parte
-http://195.154.183.48:8000/movie/miguel/miguel/1898.mkv
-#EXTINF:-1,Toto, Peppino e la malafemmina (1956)
-http://195.154.183.48:8000/movie/miguel/miguel/1915.mkv
-#EXTINF:-1,—–Bud Spencer & Terence Hill—–
-http://195.154.183.48:8000/live/miguel/miguel/1906.ts
-#EXTINF:-1,Dio perdona… io no! (1968)
-http://195.154.183.48:8000/movie/miguel/miguel/1887.mkv
-#EXTINF:-1,La collina degli stivali (1970)
-http://195.154.183.48:8000/movie/miguel/miguel/1901.mkv
-#EXTINF:-1,Lo chiamavano Trinita (1970)
-http://195.154.183.48:8000/movie/miguel/miguel/4119.mkv
-#EXTINF:-1,Il corsaro nero (1971)
-http://195.154.183.48:8000/movie/miguel/miguel/4122.mkv
-#EXTINF:-1,piu forte ragazzi (1972)
-http://195.154.183.48:8000/movie/miguel/miguel/2600.mkv
-#EXTINF:-1,Il mio nome e nessuno (1974)
-http://195.154.183.48:8000/movie/miguel/miguel/2604.mkv
-#EXTINF:-1,Pari e dispari (1978)
-http://195.154.183.48:8000/movie/miguel/miguel/4118.mkv
-#EXTINF:-1,Chissà perché… capitano tutte a me (1980)
-http://195.154.183.48:8000/movie/miguel/miguel/2567.mkv
-#EXTINF:-1,SUPERFANTAGENIO (1986)
-http://195.154.183.48:8000/movie/miguel/miguel/2614.mkv
-#EXTINF:-1,—–Emigratis—–
-http://195.154.183.48:8000/live/miguel/miguel/4117.ts
-#EXTINF:-1,Emigratis 1
-http://195.154.183.48:8000/movie/miguel/miguel/3749.mkv
-#EXTINF:-1,Emigratis 2
-http://195.154.183.48:8000/movie/miguel/miguel/3750.mkv
-#EXTINF:-1,Emigratis 3
-http://195.154.183.48:8000/movie/miguel/miguel/3751.mkv
-#EXTINF:-1,Emigratis 4
-http://195.154.183.48:8000/movie/miguel/miguel/3752.mkv
-#EXTINF:-1,Emigratis 5
-http://195.154.183.48:8000/movie/miguel/miguel/4113.mkv
-#EXTINF:-1,Emigratis 6
-http://195.154.183.48:8000/movie/miguel/miguel/4114.mkv
-#EXTINF:-1,Emigratis 7
-http://195.154.183.48:8000/movie/miguel/miguel/4115.mkv
-#EXTINF:-1,Emigratis 8
-http://195.154.183.48:8000/movie/miguel/miguel/4116.mkv
-#EXTINF:-1,***** Gomorra Serie TV *****
-http://195.154.183.48:8000/live/miguel/miguel/2420.ts
-#EXTINF:-1,1×01 Il clan dei Savastano
-http://195.154.183.48:8000/movie/miguel/miguel/2408.mkv
-#EXTINF:-1,1×02 Ti fidi di me?
-http://195.154.183.48:8000/movie/miguel/miguel/2409.mkv
-#EXTINF:-1,1×03 L’omm ‘e casa
-http://195.154.183.48:8000/movie/miguel/miguel/2410.mkv
-#EXTINF:-1,1×04 Sangue africano
-http://195.154.183.48:8000/movie/miguel/miguel/2411.mkv
-#EXTINF:-1,1×05 Il ruggito della leonessa
-http://195.154.183.48:8000/movie/miguel/miguel/2412.mkv
-#EXTINF:-1,1×06 Roulette spagnola
-http://195.154.183.48:8000/movie/miguel/miguel/2413.mkv
-#EXTINF:-1,1×07 Imma contro tutti
-http://195.154.183.48:8000/movie/miguel/miguel/2414.mkv
-#EXTINF:-1,1×08 La scheda bianca
-http://195.154.183.48:8000/movie/miguel/miguel/2415.mkv
-#EXTINF:-1,1×09 Gelsomina Verde
-http://195.154.183.48:8000/movie/miguel/miguel/2416.mkv
-#EXTINF:-1,1×10 Ora facciamo i Conte
-http://195.154.183.48:8000/movie/miguel/miguel/2417.mkv
-#EXTINF:-1,1×11 100 modi per uccidere
-http://195.154.183.48:8000/movie/miguel/miguel/2418.mkv
-#EXTINF:-1,1×12 Gli Immortali
-http://195.154.183.48:8000/movie/miguel/miguel/2419.mkv
-#EXTINF:-1,2×01 Episodio 1 – HD
-http://195.154.183.48:8000/movie/miguel/miguel/3049.mkv
-#EXTINF:-1,2×02 Episodio 2 – HD
-http://195.154.183.48:8000/movie/miguel/miguel/3050.mkv
-#EXTINF:-1,2×03 Episodio 3
-http://195.154.183.48:8000/movie/miguel/miguel/3093.mkv
-#EXTINF:-1,2×04 Episodio 4
-http://195.154.183.48:8000/movie/miguel/miguel/3094.mkv
-#EXTINF:-1,2×05 Episodio 5
-http://195.154.183.48:8000/movie/miguel/miguel/3143.mkv
-#EXTINF:-1,2×06 Episodio 6
-http://195.154.183.48:8000/movie/miguel/miguel/3144.mkv
-#EXTINF:-1,2×07 Episodio 7
-http://195.154.183.48:8000/movie/miguel/miguel/3179.mkv
-#EXTINF:-1,2×08 Episodio 8
-http://195.154.183.48:8000/movie/miguel/miguel/3180.mkv
-#EXTINF:-1,02×9 Episodio 9
-http://195.154.183.48:8000/movie/miguel/miguel/3326.mkv
-#EXTINF:-1,02×10 Episodio10
-http://195.154.183.48:8000/movie/miguel/miguel/3325.mkv
-#EXTINF:-1,02×11 Episodio 11
-http://195.154.183.48:8000/movie/miguel/miguel/3605.mkv
-#EXTINF:-1,2×12 Episodio 12
-http://195.154.183.48:8000/movie/miguel/miguel/3604.mkv
-#EXTINF:-1,Il capo dei capi – Episodio 1
-http://195.154.183.48:8000/movie/miguel/miguel/3185.mkv
-#EXTINF:-1,Il capo dei capi – Episodio 2
-http://195.154.183.48:8000/movie/miguel/miguel/3186.mkv
-#EXTINF:-1,Il capo dei capi – Episodio 3
-http://195.154.183.48:8000/movie/miguel/miguel/3187.mkv
-#EXTINF:-1,Il capo dei capi – Episodio 4
-http://195.154.183.48:8000/movie/miguel/miguel/3189.mkv
-#EXTINF:-1,Il capo dei capi – Episodio 5
-http://195.154.183.48:8000/movie/miguel/miguel/3190.mkv
-#EXTINF:-1,Il capo dei capi – Episodio 6
-http://195.154.183.48:8000/movie/miguel/miguel/3191.mkv
-#EXTINF:-1,***** Video ON DEMAND DE *****
-http://195.154.183.48:8000/live/miguel/miguel/1599.ts
-#EXTINF:-1,Suicide Squad
-http://195.154.183.48:8000/movie/miguel/miguel/4152
-#EXTINF:-1,Bad Neighbors 2 (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4155
-#EXTINF:-1,X-Men: Apocalypse (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4154
-#EXTINF:-1,Triple 9 (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4153
-#EXTINF:-1,Angry Birds – Der Film
-http://195.154.183.48:8000/movie/miguel/miguel/3148.mkv
-#EXTINF:-1,The First Avenger: Civil War (2016
-http://195.154.183.48:8000/movie/miguel/miguel/2985.mkv
-#EXTINF:-1,The Boss (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2987.mkv
-#EXTINF:-1,Familie zu vermieten (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/4125.mkv
-#EXTINF:-1,Der geilste Tag (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/4126.mkv
-#EXTINF:-1,10 Cloverfield Lane (2016) DE
-http://195.154.183.48:8000/movie/miguel/miguel/4124.mkv
-#EXTINF:-1,Batman v Superman: Dawn of Justice (2016) DE
-http://195.154.183.48:8000/movie/miguel/miguel/4123.mkv
-#EXTINF:-1,Pee-wee’s Big Holiday (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2989.mkv
-#EXTINF:-1,Zoomania (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2393.mkv
-#EXTINF:-1,Dirty Grandpa (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/2394.mkv
-#EXTINF:-1,Die Highligen drei Könige (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2395.mkv
-#EXTINF:-1,Deadpool (2016) DE
-http://195.154.183.48:8000/movie/miguel/miguel/2396.mkv
-#EXTINF:-1,Point Break (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2397.mkv
-#EXTINF:-1,Sisters (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2988.mkv
-#EXTINF:-1,Ride Along 2: Next Level Miami (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1826.mkv
-#EXTINF:-1,Alvin und die Chipmunks: Road Chip (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1824.mkv
-#EXTINF:-1,The Hateful Eight (2015) DE
-http://195.154.183.48:8000/movie/miguel/miguel/1825.mkv
-#EXTINF:-1,GÃ¤nsehaut (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1827.mkv
-#EXTINF:-1,Die 5. Welle (2016)
-http://195.154.183.48:8000/movie/miguel/miguel/1828.mkv
-#EXTINF:-1,Die Vorsehung (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1829.mkv
-#EXTINF:-1,The Revenant – Der RÃ¼ckkehrer (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1830.mkv
-#EXTINF:-1,Joy: Alles außer gewöhnlich (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1831.mkv
-#EXTINF:-1,The Big Short (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1832.mkv
-#EXTINF:-1,Die Peanuts – Der Film (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1833.mkv
-#EXTINF:-1,Dark Places: GefÃ¤hrliche Erinnerung (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1834.mkv
-#EXTINF:-1,Ashby (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1836.mkv
-#EXTINF:-1,Bridge of Spies: Der UnterhÃ¤ndler (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1839.mkv
-#EXTINF:-1,Arlo & Spot (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/1840.mkv
-#EXTINF:-1,Krampus (2015)
-http://195.154.183.48:8000/movie/miguel/miguel/2392.mkv
-#EXTINF:-1,——–Albania——–
-http://195.154.183.48:8000/live/miguel/miguel/1956.ts
-#EXTINF:-1,******SHQIP TV******
-http://195.154.183.48:8000/live/miguel/miguel/3263.ts
-#EXTINF:-1,RTK 1 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3264.ts
-#EXTINF:-1,TVSH (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3265.ts
-#EXTINF:-1,Alsat M (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3266.ts
-#EXTINF:-1,KTV (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3267.ts
-#EXTINF:-1,Klan HD (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3268.ts
-#EXTINF:-1,Klan Kosova (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3269.ts
-#EXTINF:-1,RTV 21 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3270.ts
-#EXTINF:-1,RTV 21 Macedoni (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3271.ts
-#EXTINF:-1,RTV 21 Plus (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3272.ts
-#EXTINF:-1,RTV 21 POPULLORE (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3273.ts
-#EXTINF:-1,Era (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3275.ts
-#EXTINF:-1,Top Channel HD .(AL)
-http://195.154.183.48:8000/live/miguel/miguel/3276.ts
-#EXTINF:-1,RTV21 Junior (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3274.ts
-#EXTINF:-1,VIZION PLUS (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3277.ts
-#EXTINF:-1,TV Koha (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3278.ts
-#EXTINF:-1,T HD (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3279.ts
-#EXTINF:-1,TV ART TETOV (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3280.ts
-#EXTINF:-1,TV 2 Gostivar (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3281.ts
-#EXTINF:-1,******MUZIK SHQIP******
-http://195.154.183.48:8000/live/miguel/miguel/3282.ts
-#EXTINF:-1,FolkPlus (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3283.ts
-#EXTINF:-1,Supersonic TV (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3284.ts
-#EXTINF:-1,BBF Music (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3285.ts
-#EXTINF:-1,Alb Hits (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3286.ts
-#EXTINF:-1,******FILMA VIZATIMOR******
-http://195.154.183.48:8000/live/miguel/miguel/3287.ts
-#EXTINF:-1,Cufo TV (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3288.ts
-#EXTINF:-1,Bang Bang (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3289.ts
-#EXTINF:-1,Film Aksion (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3290.ts
-#EXTINF:-1,Film Autor (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3291.ts
-#EXTINF:-1,Film Hits 1 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3292.ts
-#EXTINF:-1,Film Hits (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3293.ts
-#EXTINF:-1,Film Thriller (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3294.ts
-#EXTINF:-1,Film Dy (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3295.ts
-#EXTINF:-1,Film Drame (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3296.ts
-#EXTINF:-1,FILM GOLD 1 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3297.ts
-#EXTINF:-1,FILM GOLD 2 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3298.ts
-#EXTINF:-1,FILM GOLD 3 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3299.ts
-#EXTINF:-1,FILM GOLD 4 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3300.ts
-#EXTINF:-1,Stinet T Channel (AL) Test
-http://195.154.183.48:8000/live/miguel/miguel/3301.ts
-#EXTINF:-1,Explorer Shkence (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3302.ts
-#EXTINF:-1,Mekke TV (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3303.ts
-#EXTINF:-1,******TRING TV******
-http://195.154.183.48:8000/live/miguel/miguel/3304.ts
-#EXTINF:-1,Tring World (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3305.ts
-#EXTINF:-1,Tring Tring (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3306.ts
-#EXTINF:-1,Tring Planet (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3307.ts
-#EXTINF:-1,Tring Life (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3308.ts
-#EXTINF:-1,Tring Junior (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3309.ts
-#EXTINF:-1,Tring Fantasy (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3310.ts
-#EXTINF:-1,Tring Comedy (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3311.ts
-#EXTINF:-1,Tring Max (AL) Test
-http://195.154.183.48:8000/live/miguel/miguel/3312.ts
-#EXTINF:-1,Tring Super (AL) Test
-http://195.154.183.48:8000/live/miguel/miguel/3313.ts
-#EXTINF:-1,Tring Smile (AL) Test
-http://195.154.183.48:8000/live/miguel/miguel/3314.ts
-#EXTINF:-1,Tring Jolly HD (AL) Test
-http://195.154.183.48:8000/live/miguel/miguel/3315.ts
-#EXTINF:-1,Tring History (AL) Test
-http://195.154.183.48:8000/live/miguel/miguel/3316.ts
-#EXTINF:-1,Tring 3 Plus (AL) Test
-http://195.154.183.48:8000/live/miguel/miguel/3317.ts
-#EXTINF:-1,******SUPPER SPORT******
-http://195.154.183.48:8000/live/miguel/miguel/3318.ts
-#EXTINF:-1,Super Sport 1 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3319.ts
-#EXTINF:-1,Super Sport 2 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3320.ts
-#EXTINF:-1,Super Sport 3 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3321.ts
-#EXTINF:-1,Super Sport 4 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3322.ts
-#EXTINF:-1,Supersport Kosova 1 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3323.ts
-#EXTINF:-1,Supersport Kosova 2 (AL)
-http://195.154.183.48:8000/live/miguel/miguel/3324.ts
-#EXTINF:-1,—–TURK—-
-http://195.154.183.48:8000/live/miguel/miguel/3334.ts
-#EXTINF:-1,——- Serbia ——-
-http://195.154.183.48:8000/live/miguel/miguel/2926.ts
-#EXTINF:-1,EX-YU:Cinemax_1
-http://195.154.183.48:8000/live/miguel/miguel/3078.ts
-#EXTINF:-1,EX-YU:Cinemax_2
-http://195.154.183.48:8000/live/miguel/miguel/3077.ts
-#EXTINF:-1,EX-YU:CINESTAR_1
-http://195.154.183.48:8000/live/miguel/miguel/3066.ts
-#EXTINF:-1,EX-YU:CINESTAR_2
-http://195.154.183.48:8000/live/miguel/miguel/3065.ts
-#EXTINF:-1,EX-YU:Cinestar_Action
-http://195.154.183.48:8000/live/miguel/miguel/3076.ts
-#EXTINF:-1,EX-YU:SK3_HD
-http://195.154.183.48:8000/live/miguel/miguel/3068.ts
-#EXTINF:-1,EX-YU:SK2_HD
-http://195.154.183.48:8000/live/miguel/miguel/3069.ts
-#EXTINF:-1,EX-YU:SK1_HD
-http://195.154.183.48:8000/live/miguel/miguel/3070.ts
-#EXTINF:-1,EX-YU:NATIONAL_GEOGRAPHIC
-http://195.154.183.48:8000/live/miguel/miguel/3055.ts
-#EXTINF:-1,EX-YU:HISTORY_CHANNEL
-http://195.154.183.48:8000/live/miguel/miguel/3056.ts
-#EXTINF:-1,EX-YU:HBO_COMEDY
-http://195.154.183.48:8000/live/miguel/miguel/3071.ts
-#EXTINF:-1,EX-YU:HBO_ADRIA
-http://195.154.183.48:8000/live/miguel/miguel/3057.ts
-#EXTINF:-1,EX-YU:FOX_TV
-http://195.154.183.48:8000/live/miguel/miguel/3058.ts
-#EXTINF:-1,EX-YU:FOX_MOVIES
-http://195.154.183.48:8000/live/miguel/miguel/3059.ts
-#EXTINF:-1,EX-YU:FOX_LIFE
-http://195.154.183.48:8000/live/miguel/miguel/3060.ts
-#EXTINF:-1,EX-YU:FOX_CRIME
-http://195.154.183.48:8000/live/miguel/miguel/3061.ts
-#EXTINF:-1,EX-YU:EUROSPORT
-http://195.154.183.48:8000/live/miguel/miguel/3063.ts
-#EXTINF:-1,EX-YU:EUROSPORT_2
-http://195.154.183.48:8000/live/miguel/miguel/3062.ts
-#EXTINF:-1,EX-YU:DISCOVERY_CHANNEL
-http://195.154.183.48:8000/live/miguel/miguel/3064.ts
-#EXTINF:-1,EX-YU:ANIMAL_CHANNEL
-http://195.154.183.48:8000/live/miguel/miguel/3067.ts
-#EXTINF:-1,EX-YU:Arena_Sport_5_SR
-http://195.154.183.48:8000/live/miguel/miguel/3072.ts
-#EXTINF:-1,EX-YU:Arena_Sport5_HR
-http://195.154.183.48:8000/live/miguel/miguel/3079.ts
-#EXTINF:-1,EX-YU:Arena_Sport4_SR
-http://195.154.183.48:8000/live/miguel/miguel/3080.ts
-#EXTINF:-1,EX-YU:Arena_Sport4_HR
-http://195.154.183.48:8000/live/miguel/miguel/3081.ts
-#EXTINF:-1,EX-YU:Arena_Sport3_SR
-http://195.154.183.48:8000/live/miguel/miguel/3082.ts
-#EXTINF:-1,EX-YU:Arena_Sport3_HR
-http://195.154.183.48:8000/live/miguel/miguel/3083.ts
-#EXTINF:-1,EX-YU:Arena_Sport2_SR
-http://195.154.183.48:8000/live/miguel/miguel/3084.ts
-#EXTINF:-1,EX-YU:Arena_Sport2_HR
-http://195.154.183.48:8000/live/miguel/miguel/3085.ts
-#EXTINF:-1,EX-YU:Arena_Sport1_SR
-http://195.154.183.48:8000/live/miguel/miguel/3086.ts
-#EXTINF:-1,EX-YU:Arena_Sport1_HR
-http://195.154.183.48:8000/live/miguel/miguel/3087.ts
-#EXTINF:-1,Pink 1
-http://195.154.183.48:8000/live/miguel/miguel/3101.ts
-#EXTINF:-1,Pink 2
-http://195.154.183.48:8000/live/miguel/miguel/3102.ts
-#EXTINF:-1,Pink 3
-http://195.154.183.48:8000/live/miguel/miguel/3103.ts
-#EXTINF:-1,Pink Action
-http://195.154.183.48:8000/live/miguel/miguel/3108.ts
-#EXTINF:-1,Pink Bh
-http://195.154.183.48:8000/live/miguel/miguel/3104.ts
-#EXTINF:-1,Pink Comedy
-http://195.154.183.48:8000/live/miguel/miguel/3112.ts
-#EXTINF:-1,Pink Crime & Mistery
-http://195.154.183.48:8000/live/miguel/miguel/3115.ts
-#EXTINF:-1,Pink Extra
-http://195.154.183.48:8000/live/miguel/miguel/3120.ts
-#EXTINF:-1,Pink Fantasy
-http://195.154.183.48:8000/live/miguel/miguel/3124.ts
-#EXTINF:-1,Pink Film
-http://195.154.183.48:8000/live/miguel/miguel/3109.ts
-#EXTINF:-1,Pink Folk 1
-http://195.154.183.48:8000/live/miguel/miguel/3110.ts
-#EXTINF:-1,Pink Kids
-http://195.154.183.48:8000/live/miguel/miguel/3119.ts
-#EXTINF:-1,Pink Horror
-http://195.154.183.48:8000/live/miguel/miguel/3125.ts
-#EXTINF:-1,Pink Kuvar
-http://195.154.183.48:8000/live/miguel/miguel/3114.ts
-#EXTINF:-1,Pink M
-http://195.154.183.48:8000/live/miguel/miguel/3106.ts
-#EXTINF:-1,Pink Music
-http://195.154.183.48:8000/live/miguel/miguel/3121.ts
-#EXTINF:-1,Pink Pedia
-http://195.154.183.48:8000/live/miguel/miguel/3117.ts
-#EXTINF:-1,Pink Plus
-http://195.154.183.48:8000/live/miguel/miguel/3105.ts
-#EXTINF:-1,Pink Premium
-http://195.154.183.48:8000/live/miguel/miguel/3111.ts
-#EXTINF:-1,Pink Reality
-http://195.154.183.48:8000/live/miguel/miguel/3126.ts
-#EXTINF:-1,Pink Romance
-http://195.154.183.48:8000/live/miguel/miguel/3122.ts
-#EXTINF:-1,Pink Serije
-http://195.154.183.48:8000/live/miguel/miguel/3113.ts
-#EXTINF:-1,Pink Soap
-http://195.154.183.48:8000/live/miguel/miguel/3107.ts
-#EXTINF:-1,Pink Thriller
-http://195.154.183.48:8000/live/miguel/miguel/3118.ts
-#EXTINF:-1,Pink Western
-http://195.154.183.48:8000/live/miguel/miguel/3116.ts
-#EXTINF:-1,Pink Zabava
-http://195.154.183.48:8000/live/miguel/miguel/3123.ts
-#EXTINF:-1,—–SPAIN—-
-http://195.154.183.48:8000/live/miguel/miguel/3571.ts
-#EXTINF:-1,—–UNITED KINGDOM—-
-http://195.154.183.48:8000/live/miguel/miguel/3711.ts
-#EXTINF:-1,UK:Sky Movies Premiere HD
-http://195.154.183.48:8000/live/miguel/miguel/3720.ts
-#EXTINF:-1,UK:Sky Movies Comedy HD
-http://195.154.183.48:8000/live/miguel/miguel/3719.ts
-#EXTINF:-1,UK: True Movies 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/3713.ts
-#EXTINF:-1,UK: True Movies 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/3712.ts
-#EXTINF:-1,UK: Sky Sports 5
-http://195.154.183.48:8000/live/miguel/miguel/3732.ts
-#EXTINF:-1,UK: Sky Sports 4
-http://195.154.183.48:8000/live/miguel/miguel/3731.ts
-#EXTINF:-1,UK: Sky Sports 3
-http://195.154.183.48:8000/live/miguel/miguel/3730.ts
-#EXTINF:-1,UK: Sky Sports 2
-http://195.154.183.48:8000/live/miguel/miguel/3729.ts
-#EXTINF:-1,UK: Sky Sports 1
-http://195.154.183.48:8000/live/miguel/miguel/3728.ts
-#EXTINF:-1,UK: Sky Movies Thriller HD
-http://195.154.183.48:8000/live/miguel/miguel/3717.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://195.154.183.48:8000/live/miguel/miguel/3715.ts
-#EXTINF:-1,UK: Sky Movies Scifi / Horror HD
-http://195.154.183.48:8000/live/miguel/miguel/3721.ts
-#EXTINF:-1,UK: Sky Movies Family HD
-http://195.154.183.48:8000/live/miguel/miguel/3716.ts
-#EXTINF:-1,UK: Sky Movies Drama HD
-http://195.154.183.48:8000/live/miguel/miguel/3718.ts
-#EXTINF:-1,UK: Sky Movies Action HD
-http://195.154.183.48:8000/live/miguel/miguel/3714.ts
-#EXTINF:-1,UK: Discovery Turbo HD
-http://195.154.183.48:8000/live/miguel/miguel/3723.ts
-#EXTINF:-1,UK: Discovery Science HD
-http://195.154.183.48:8000/live/miguel/miguel/3725.ts
-#EXTINF:-1,UK: Discovery Investigation HD
-http://195.154.183.48:8000/live/miguel/miguel/3727.ts
-#EXTINF:-1,UK: Discovery History HD
-http://195.154.183.48:8000/live/miguel/miguel/3724.ts
-#EXTINF:-1,UK: Discovery Channel HD
-http://195.154.183.48:8000/live/miguel/miguel/3726.ts
-#EXTINF:-1,UK: Animal Planet HD
-http://195.154.183.48:8000/live/miguel/miguel/3722.ts
-#EXTINF:-1,TR:LIG_TV_1
-http://195.154.183.48:8000/live/miguel/miguel/3137.ts
-#EXTINF:-1,TR:LIG_TV_2 HD
-http://195.154.183.48:8000/live/miguel/miguel/3138.ts
-#EXTINF:-1,TR:LIG_TV_3
-http://195.154.183.48:8000/live/miguel/miguel/3139.ts
-#EXTINF:-1,TR:LIG_TV_4
-http://195.154.183.48:8000/live/miguel/miguel/3140.ts
-#EXTINF:-1,—–France—-
-http://195.154.183.48:8000/live/miguel/miguel/3587.ts
-#EXTINF:-1,—–Portugal—-
-http://195.154.183.48:8000/live/miguel/miguel/3629.ts
-#EXTINF:-1,—–Polska—-
-http://195.154.183.48:8000/live/miguel/miguel/3634.ts
-#EXTINF:-1,PL:TVP1
-http://195.154.183.48:8000/live/miguel/miguel/3636.ts
-#EXTINF:-1,PL: TVP 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/3635.ts
-#EXTINF:-1,PL: VIVA Polska
-http://195.154.183.48:8000/live/miguel/miguel/3637.ts
-#EXTINF:-1,PL: VH1
-http://195.154.183.48:8000/live/miguel/miguel/3638.ts
-#EXTINF:-1,PL: TVP SPORT
-http://195.154.183.48:8000/live/miguel/miguel/3639.ts
-#EXTINF:-1,PL: TVP SERIALE
-http://195.154.183.48:8000/live/miguel/miguel/3640.ts
-#EXTINF:-1,PL: TVN Turbo
-http://195.154.183.48:8000/live/miguel/miguel/3641.ts
-#EXTINF:-1,PL: TVN Style
-http://195.154.183.48:8000/live/miguel/miguel/3642.ts
-#EXTINF:-1,PL: TVN Meteo Active
-http://195.154.183.48:8000/live/miguel/miguel/3643.ts
-#EXTINF:-1,PL: TVN 24 Biznes i Swiat
-http://195.154.183.48:8000/live/miguel/miguel/3644.ts
-#EXTINF:-1,PL: TVN 24
-http://195.154.183.48:8000/live/miguel/miguel/3645.ts
-#EXTINF:-1,PL: TVN
-http://195.154.183.48:8000/live/miguel/miguel/3646.ts
-#EXTINF:-1,PL: TV6
-http://195.154.183.48:8000/live/miguel/miguel/3647.ts
-#EXTINF:-1,PL: TV Trwam
-http://195.154.183.48:8000/live/miguel/miguel/3648.ts
-#EXTINF:-1,PL: TV PULS
-http://195.154.183.48:8000/live/miguel/miguel/3649.ts
-#EXTINF:-1,PL: TV 4
-http://195.154.183.48:8000/live/miguel/miguel/3650.ts
-#EXTINF:-1,PL: TNT
-http://195.154.183.48:8000/live/miguel/miguel/3651.ts
-#EXTINF:-1,PL: TLC
-http://195.154.183.48:8000/live/miguel/miguel/3652.ts
-#EXTINF:-1,PL: Polsat Sport News
-http://195.154.183.48:8000/live/miguel/miguel/3653.ts
-#EXTINF:-1,PL: Polsat Sport Extra HD
-http://195.154.183.48:8000/live/miguel/miguel/3654.ts
-#EXTINF:-1,PL: Polsat Sport
-http://195.154.183.48:8000/live/miguel/miguel/3655.ts
-#EXTINF:-1,PL: Polsat Romans
-http://195.154.183.48:8000/live/miguel/miguel/3656.ts
-#EXTINF:-1,PL: Polsat Play
-http://195.154.183.48:8000/live/miguel/miguel/3657.ts
-#EXTINF:-1,PL: Polsat News 2
-http://195.154.183.48:8000/live/miguel/miguel/3658.ts
-#EXTINF:-1,PL: Polsat News
-http://195.154.183.48:8000/live/miguel/miguel/3659.ts
-#EXTINF:-1,PL: Polsat Jim Jam
-http://195.154.183.48:8000/live/miguel/miguel/3660.ts
-#EXTINF:-1,PL: Polsat HD
-http://195.154.183.48:8000/live/miguel/miguel/3661.ts
-#EXTINF:-1,PL: Polsat Film
-http://195.154.183.48:8000/live/miguel/miguel/3662.ts
-#EXTINF:-1,PL: Polsat Cafe
-http://195.154.183.48:8000/live/miguel/miguel/3663.ts
-#EXTINF:-1,PL: Polsat 2
-http://195.154.183.48:8000/live/miguel/miguel/3664.ts
-#EXTINF:-1,PL: Polsat
-http://195.154.183.48:8000/live/miguel/miguel/3665.ts
-#EXTINF:-1,PL: Polonia 1
-http://195.154.183.48:8000/live/miguel/miguel/3666.ts
-#EXTINF:-1,PL: Polo TV
-http://195.154.183.48:8000/live/miguel/miguel/3667.ts
-#EXTINF:-1,PL: Planete
-http://195.154.183.48:8000/live/miguel/miguel/3668.ts
-#EXTINF:-1,PL: ORANGE SPORT
-http://195.154.183.48:8000/live/miguel/miguel/3669.ts
-#EXTINF:-1,PL: nSport
-http://195.154.183.48:8000/live/miguel/miguel/3670.ts
-#EXTINF:-1,PL: Nickelodeon
-http://195.154.183.48:8000/live/miguel/miguel/3671.ts
-#EXTINF:-1,PL: Nick Jr Polska
-http://195.154.183.48:8000/live/miguel/miguel/3672.ts
-#EXTINF:-1,PL: NATIONAL GEO
-http://195.154.183.48:8000/live/miguel/miguel/3673.ts
-#EXTINF:-1,PL: Nat Geo Wild
-http://195.154.183.48:8000/live/miguel/miguel/3674.ts
-#EXTINF:-1,PL: MTV ROCKS
-http://195.154.183.48:8000/live/miguel/miguel/3675.ts
-#EXTINF:-1,PL: MTV Polska
-http://195.154.183.48:8000/live/miguel/miguel/3676.ts
-#EXTINF:-1,PL: MTV Live HD
-http://195.154.183.48:8000/live/miguel/miguel/3677.ts
-#EXTINF:-1,PL: MiniMini
-http://195.154.183.48:8000/live/miguel/miguel/3678.ts
-#EXTINF:-1,PL: KINO POLSKA
-http://195.154.183.48:8000/live/miguel/miguel/3679.ts
-#EXTINF:-1,PL: History (0)
-http://195.154.183.48:8000/live/miguel/miguel/3680.ts
-#EXTINF:-1,PL: FOX HD
-http://195.154.183.48:8000/live/miguel/miguel/3681.ts
-#EXTINF:-1,PL: Fox Comedy HD
-http://195.154.183.48:8000/live/miguel/miguel/3682.ts
-#EXTINF:-1,PL: FOX COMEDY
-http://195.154.183.48:8000/live/miguel/miguel/3683.ts
-#EXTINF:-1,PL: Filmbox Premium
-http://195.154.183.48:8000/live/miguel/miguel/3684.ts
-#EXTINF:-1,PL: Filmbox Family
-http://195.154.183.48:8000/live/miguel/miguel/3685.ts
-#EXTINF:-1,PL: Filmbox Action
-http://195.154.183.48:8000/live/miguel/miguel/3686.ts
-#EXTINF:-1,PL: Filmbox
-http://195.154.183.48:8000/live/miguel/miguel/3687.ts
-#EXTINF:-1,PL: Disney XD
-http://195.154.183.48:8000/live/miguel/miguel/3688.ts
-#EXTINF:-1,PL: Disney HD
-http://195.154.183.48:8000/live/miguel/miguel/3689.ts
-#EXTINF:-1,PL: Discovery Science
-http://195.154.183.48:8000/live/miguel/miguel/3690.ts
-#EXTINF:-1,PL: Discovery Life
-http://195.154.183.48:8000/live/miguel/miguel/3691.ts
-#EXTINF:-1,PL: Discovery ID
-http://195.154.183.48:8000/live/miguel/miguel/3692.ts
-#EXTINF:-1,PL: Discovery
-http://195.154.183.48:8000/live/miguel/miguel/3693.ts
-#EXTINF:-1,PL: Comedy Central Polska
-http://195.154.183.48:8000/live/miguel/miguel/3694.ts
-#EXTINF:-1,PL: CC Family
-http://195.154.183.48:8000/live/miguel/miguel/3695.ts
-#EXTINF:-1,PL: CBS Reality
-http://195.154.183.48:8000/live/miguel/miguel/3696.ts
-#EXTINF:-1,PL: CBS Drama
-http://195.154.183.48:8000/live/miguel/miguel/3697.ts
-#EXTINF:-1,PL: Boomerang
-http://195.154.183.48:8000/live/miguel/miguel/3698.ts
-#EXTINF:-1,PL: AXN White
-http://195.154.183.48:8000/live/miguel/miguel/3699.ts
-#EXTINF:-1,PL: AXN SPIN HD
-http://195.154.183.48:8000/live/miguel/miguel/3700.ts
-#EXTINF:-1,PL: AXN HD
-http://195.154.183.48:8000/live/miguel/miguel/3701.ts
-#EXTINF:-1,PL: AXN Black
-http://195.154.183.48:8000/live/miguel/miguel/3702.ts
-#EXTINF:-1,PL: AXN
-http://195.154.183.48:8000/live/miguel/miguel/3703.ts
-#EXTINF:-1,CTH STADIUM 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/4092.ts
-#EXTINF:-1,CTH STADIUM 2 HD
-http://195.154.183.48:8000/live/miguel/miguel/4093.ts
-#EXTINF:-1,CTH STADIUM 3 HD
-http://195.154.183.48:8000/live/miguel/miguel/4094.ts
-#EXTINF:-1,CTH STADIUM 4 HD
-http://195.154.183.48:8000/live/miguel/miguel/4095.ts
-#EXTINF:-1,CTH STADIUM 5 HD
-http://195.154.183.48:8000/live/miguel/miguel/4096.ts
-#EXTINF:-1,CTH STADIUM 6 HD
-http://195.154.183.48:8000/live/miguel/miguel/4097.ts
-#EXTINF:-1,USA: Versus HD
-http://195.154.183.48:8000/live/miguel/miguel/4110.ts
-#EXTINF:-1,USA: NFL NOW
-http://195.154.183.48:8000/live/miguel/miguel/4111.ts
-#EXTINF:-1,Astro Supersport 1
-http://195.154.183.48:8000/live/miguel/miguel/4106.ts
-#EXTINF:-1,Astro Supersport 2
-http://195.154.183.48:8000/live/miguel/miguel/4107.ts
-#EXTINF:-1,Astro Supersport 3
-http://195.154.183.48:8000/live/miguel/miguel/4108.ts
-#EXTINF:-1,Astro Supersport 4
-http://195.154.183.48:8000/live/miguel/miguel/4109.ts
-#EXTINF:-1,SportTV 1 HD
-http://195.154.183.48:8000/live/miguel/miguel/4098.ts
-#EXTINF:-1,SportTV2 HD
-http://195.154.183.48:8000/live/miguel/miguel/4099.ts
-#EXTINF:-1,SportTV 3 HD
-http://195.154.183.48:8000/live/miguel/miguel/4100.ts
-#EXTINF:-1,SportTV 4 HD
-http://195.154.183.48:8000/live/miguel/miguel/4101.ts
-#EXTINF:-1,SportTV 5 HD
-http://195.154.183.48:8000/live/miguel/miguel/4102.ts
-#EXTINF:-1,TR: Lig tv
-http://195.154.183.48:8000/live/miguel/miguel/4103.ts
-#EXTINF:-1,TR: Lig tv 2
-http://195.154.183.48:8000/live/miguel/miguel/4104.ts
-#EXTINF:-1,TR: Lig tv 3
-http://195.154.183.48:8000/live/miguel/miguel/4105.ts
+#EXTINF:0,- http://62.210.104.34/live/majed/majed/2229.ts
+#EXTINF:0,Rai_1_HD
+http://62.210.104.34/live/majed/majed/2230.ts
+#EXTINF:0,Rai_2_HD
+http://62.210.104.34/live/majed/majed/2231.ts
+#EXTINF:0,Rai_3_HD
+http://62.210.104.34/live/majed/majed/2232.ts
+#EXTINF:0,Rete_4_HD
+http://62.210.104.34/live/majed/majed/2233.ts
+#EXTINF:0,Canale_5_HD
+http://62.210.104.34/live/majed/majed/2234.ts
+#EXTINF:0,Italia_1_HD
+http://62.210.104.34/live/majed/majed/2235.ts
+#EXTINF:0,La_7_HD
+http://62.210.104.34/live/majed/majed/2236.ts
+#EXTINF:0,La_7d
+http://62.210.104.34/live/majed/majed/2237.ts
+#EXTINF:0,La_5
+http://62.210.104.34/live/majed/majed/2238.ts
+#EXTINF:0,- http://62.210.104.34/live/majed/majed/2239.ts
+#EXTINF:0,Sky_Cinema_1_HD
+http://62.210.104.34/live/majed/majed/2240.ts
+#EXTINF:0,Sky_Cinema_+1_HD
+http://62.210.104.34/live/majed/majed/2241.ts
+#EXTINF:0,Sky_Cinema_+24_HD
+http://62.210.104.34/live/majed/majed/2242.ts
+#EXTINF:0,Sky_Cinema_Hits_HD
+http://62.210.104.34/live/majed/majed/2243.ts
+#EXTINF:0,Sky_Cinema_Family_HD
+http://62.210.104.34/live/majed/majed/2244.ts
+#EXTINF:0,SKY_Cinema_Family_+1_HD
+http://62.210.104.34/live/majed/majed/2245.ts
+#EXTINF:0,Sky_Cinema_Passion_HD
+http://62.210.104.34/live/majed/majed/2246.ts
+#EXTINF:0,Sky_Cinema_Comedy_HD
+http://62.210.104.34/live/majed/majed/2247.ts
+#EXTINF:0,Sky_Cinema_Max_HD
+http://62.210.104.34/live/majed/majed/2248.ts
+#EXTINF:0,Sky_Cinema_Max_1_HD
+http://62.210.104.34/live/majed/majed/2249.ts
+#EXTINF:0,Sky_Cinema_Cult_HD
+http://62.210.104.34/live/majed/majed/2250.ts
+#EXTINF:0,Sky_Cinema_Classic_HD
+http://62.210.104.34/live/majed/majed/2251.ts
+#EXTINF:0,Sky_Cinema_3D
+http://62.210.104.34/live/majed/majed/2252.ts
+#EXTINF:0,Paramount_Channel
+http://62.210.104.34/live/majed/majed/2980.ts
+#EXTINF:0,-http://62.210.104.34/live/majed/majed/2253.ts
+#EXTINF:0,Sky_Uno_HD
+http://62.210.104.34/live/majed/majed/2254.ts
+#EXTINF:0,Fox_HD
+http://62.210.104.34/live/majed/majed/2255.ts
+#EXTINF:0,Fox_Life_HD
+http://62.210.104.34/live/majed/majed/2257.ts
+#EXTINF:0,Fox_Comedy_HD
+http://62.210.104.34/live/majed/majed/2258.ts
+#EXTINF:0,Fox_Crime_HD
+http://62.210.104.34/live/majed/majed/2259.ts
+#EXTINF:0,Sky_Atlantic_HD
+http://62.210.104.34/live/majed/majed/2260.ts
+#EXTINF:0,CI_Crime_Investigation_HD
+http://62.210.104.34/live/majed/majed/2261.ts
+#EXTINF:0,Fox_Animation_HD
+http://62.210.104.34/live/majed/majed/2262.ts
+#EXTINF:0,AXN_HD
+http://62.210.104.34/live/majed/majed/2264.ts
+#EXTINF:0,AXN_Sci-Fi
+http://62.210.104.34/live/majed/majed/2266.ts
+#EXTINF:0,Cielo
+http://62.210.104.34/live/majed/majed/2267.ts
+#EXTINF:0,Real_Time
+http://62.210.104.34/live/majed/majed/2269.ts
+#EXTINF:0,Explora_HD
+http://62.210.104.34/live/majed/majed/2270.ts
+#EXTINF:0,Frisbee
+http://62.210.104.34/live/majed/majed/2271.ts
+#EXTINF:0,------ http://62.210.104.34/live/majed/majed/2272.ts
+#EXTINF:0,Sky_Sport_24_HD
+http://62.210.104.34/live/majed/majed/2274.ts
+#EXTINF:0,Sky_Sport_1_HD
+http://62.210.104.34/live/majed/majed/2276.ts
+#EXTINF:0,SKY_Sport_2_HD
+http://62.210.104.34/live/majed/majed/2278.ts
+#EXTINF:0,Sky_Sport_3_HD
+http://62.210.104.34/live/majed/majed/2280.ts
+#EXTINF:0,Fox_Sports_HD
+http://62.210.104.34/live/majed/majed/2281.ts
+#EXTINF:0,Eurosport_1_HD
+http://62.210.104.34/live/majed/majed/2283.ts
+#EXTINF:0,Sky_Formula_1_HD
+http://62.210.104.34/live/majed/majed/2284.ts
+#EXTINF:0,Sky_Moto_GP_HD
+http://62.210.104.34/live/majed/majed/2285.ts
+#EXTINF:0,Eurosport_2_HD
+http://62.210.104.34/live/majed/majed/2286.ts
+#EXTINF:0,Super_tennis_HD
+http://62.210.104.34/live/majed/majed/2287.ts
+#EXTINF:0,Rai_Sport_1
+http://62.210.104.34/live/majed/majed/2288.ts
+#EXTINF:0,Rai_Sport_2
+http://62.210.104.34/live/majed/majed/2289.ts
+#EXTINF:0,Sport_Italia
+http://62.210.104.34/live/majed/majed/2290.ts
+#EXTINF:0,BIKE_Channel_HD
+http://62.210.104.34/live/majed/majed/2291.ts
+#EXTINF:0,Poker_Italia_24
+http://62.210.104.34/live/majed/majed/2929.ts
+#EXTINF:0,------ http://62.210.104.34/live/majed/majed/2292.ts
+#EXTINF:0,Sky_Supercalcio_HD
+http://62.210.104.34/live/majed/majed/2294.ts
+#EXTINF:0,SKY_Supercalcio
+http://62.210.104.34/live/majed/majed/2295.ts
+#EXTINF:0,Sky_Calcio_1_HD
+http://62.210.104.34/live/majed/majed/2297.ts
+#EXTINF:0,Sky_Calcio_2_HD
+http://62.210.104.34/live/majed/majed/2299.ts
+#EXTINF:0,Sky_Calcio_3_HD
+http://62.210.104.34/live/majed/majed/2301.ts
+#EXTINF:0,Sky_Calcio_4_HD
+http://62.210.104.34/live/majed/majed/2303.ts
+#EXTINF:0,Sky_Calcio_5_HD
+http://62.210.104.34/live/majed/majed/2305.ts
+#EXTINF:0,Sky_Calcio_6_HD
+http://62.210.104.34/live/majed/majed/2306.ts
+#EXTINF:0,SKY_Calcio_7_HD
+http://62.210.104.34/live/majed/majed/2307.ts
+#EXTINF:0,SKY_Calcio_8_HD
+http://62.210.104.34/live/majed/majed/2308.ts
+#EXTINF:0,SKY_Calcio_9_HD
+http://62.210.104.34/live/majed/majed/2309.ts
+#EXTINF:0,SKY_Calcio_10_HD
+http://62.210.104.34/live/majed/majed/2310.ts
+#EXTINF:0,SKY_Calcio_13_HD
+http://62.210.104.34/live/majed/majed/2313.ts
+#EXTINF:0,Juventus_Channel
+http://62.210.104.34/live/majed/majed/2314.ts
+#EXTINF:0,Inter_Channel
+http://62.210.104.34/live/majed/majed/2315.ts
+#EXTINF:0,Milan_channel
+http://62.210.104.34/live/majed/majed/2316.ts
+#EXTINF:0,Roma_Channel
+http://62.210.104.34/live/majed/majed/2317.ts
+#EXTINF:0,----- http://62.210.104.34/live/majed/majed/2318.ts
+#EXTINF:0,NatGeo_People_HD
+http://62.210.104.34/live/majed/majed/2319.ts
+#EXTINF:0,Nat_Geographic_HD
+http://62.210.104.34/live/majed/majed/2320.ts
+#EXTINF:0,Discovery_Sci_HD
+http://62.210.104.34/live/majed/majed/2321.ts
+#EXTINF:0,Discovery_Channel_HD
+http://62.210.104.34/live/majed/majed/2322.ts
+#EXTINF:0,Nat_Geo_People_HD
+http://62.210.104.34/live/majed/majed/2323.ts
+#EXTINF:0,Nat_Geo_Wild_HD
+http://62.210.104.34/live/majed/majed/2324.ts
+#EXTINF:0,Discovery_Trave _Living_HD
+http://62.210.104.34/live/majed/majed/2325.ts
+#EXTINF:0,Focus
+http://62.210.104.34/live/majed/majed/2326.ts
+#EXTINF:0,DMAX
+http://62.210.104.34/live/majed/majed/2328.ts
+#EXTINF:0,Gambero_Rosso_HD
+http://62.210.104.34/live/majed/majed/2329.ts
+#EXTINF:0,Caccia_e_Pesca
+http://62.210.104.34/live/majed/majed/2330.ts
+#EXTINF:0,Animal_Planet
+http://62.210.104.34/live/majed/majed/2333.ts
+#EXTINF:0,Alice
+http://62.210.104.34/live/majed/majed/2334.ts
+#EXTINF:0,Sky_History_HD
+http://62.210.104.34/live/majed/majed/2335.ts
+#EXTINF:0,Sky_Arte_HD
+http://62.210.104.34/live/majed/majed/2336.ts
+#EXTINF:0,MarcoPolo
+http://62.210.104.34/live/majed/majed/2337.ts
+#EXTINF:0,Premium_Discovery_Investigation
+http://62.210.104.34/live/majed/majed/2338.ts
+#EXTINF:0,Fine_Living
+http://62.210.104.34/live/majed/majed/2339.ts
+#EXTINF:0,LaEFFE
+http://62.210.104.34/live/majed/majed/2340.ts
+#EXTINF:0,----- http://62.210.104.34/live/majed/majed/2341.ts
+#EXTINF:0,Disney_XD
+http://62.210.104.34/live/majed/majed/2342.ts
+#EXTINF:0,K2
+http://62.210.104.34/live/majed/majed/2343.ts
+#EXTINF:0,Cartoon_Network
+http://62.210.104.34/live/majed/majed/2344.ts
+#EXTINF:0,Super
+http://62.210.104.34/live/majed/majed/2345.ts
+#EXTINF:0,Cartoonito
+http://62.210.104.34/live/majed/majed/2346.ts
+#EXTINF:0,Boing
+http://62.210.104.34/live/majed/majed/2347.ts
+#EXTINF:0,Rai_Gulp
+http://62.210.104.34/live/majed/majed/2348.ts
+#EXTINF:0,Rai_Yoyo
+http://62.210.104.34/live/majed/majed/2349.ts
+#EXTINF:0,Premium_Disney_Channel
+http://62.210.104.34/live/majed/majed/2350.ts
+#EXTINF:0,Premium_Disney_Channel_1
+http://62.210.104.34/live/majed/majed/2351.ts
+#EXTINF:0,Premium_Disney_Junior
+http://62.210.104.34/live/majed/majed/2352.ts
+#EXTINF:0,Nick_Junior
+http://62.210.104.34/live/majed/majed/2353.ts
+#EXTINF:0,------- http://62.210.104.34/live/majed/majed/2355.ts
+#EXTINF:0,Sky_Tg_24_HD
+http://62.210.104.34/live/majed/majed/2356.ts
+#EXTINF:0,Tg_Com_24
+http://62.210.104.34/live/majed/majed/2357.ts
+#EXTINF:0,Rai_News_24
+http://62.210.104.34/live/majed/majed/2358.ts
+#EXTINF:0,Mediaset_Extra
+http://62.210.104.34/live/majed/majed/2359.ts
+#EXTINF:0,TG_Norba_24
+http://62.210.104.34/live/majed/majed/2360.ts
+#EXTINF:0,Rai_Premium
+http://62.210.104.34/live/majed/majed/2362.ts
+#EXTINF:0,Rai_Movie
+http://62.210.104.34/live/majed/majed/2363.ts
+#EXTINF:0,Rai_4
+http://62.210.104.34/live/majed/majed/2364.ts
+#EXTINF:0,Rai_5
+http://62.210.104.34/live/majed/majed/2365.ts
+#EXTINF:0,Mtv_IT
+http://62.210.104.34/live/majed/majed/2366.ts
+#EXTINF:0,RSI_La1_HD
+http://62.210.104.34/live/majed/majed/2367.ts
+#EXTINF:0,RSI_La_2_HD
+http://62.210.104.34/live/majed/majed/2368.ts
+#EXTINF:0,Mediaset_Italia_2
+http://62.210.104.34/live/majed/majed/2374.ts
+#EXTINF:0,Iris
+http://62.210.104.34/live/majed/majed/2375.ts
+#EXTINF:0,Giallo
+http://62.210.104.34/live/majed/majed/2376.ts
+#EXTINF:0,Videolina
+http://62.210.104.34/live/majed/majed/2377.ts
+#EXTINF:0,TeleMilano
+http://62.210.104.34/live/majed/majed/2379.ts
+#EXTINF:0,Sardegna_1
+http://62.210.104.34/live/majed/majed/2380.ts
+#EXTINF:0,Canale_8
+http://62.210.104.34/live/majed/majed/2381.ts
+#EXTINF:0,Trentino_TV
+http://62.210.104.34/live/majed/majed/2383.ts
+#EXTINF:0,TelePavia
+http://62.210.104.34/live/majed/majed/2384.ts
+#EXTINF:0,------ http://62.210.104.34/live/majed/majed/2389.ts
+#EXTINF:0,Premium_Cinema_HD
+http://62.210.104.34/live/majed/majed/2390.ts
+#EXTINF:0,Premium_Cinema _24
+http://62.210.104.34/live/majed/majed/2391.ts
+#EXTINF:0,Premium_Cinema_2_HD
+http://62.210.104.34/live/majed/majed/2392.ts
+#EXTINF:0,Premium_Cinema_2_24
+http://62.210.104.34/live/majed/majed/2393.ts
+#EXTINF:0,Premium_Action_HD
+http://62.210.104.34/live/majed/majed/2394.ts
+#EXTINF:0,Premium_Action_24
+http://62.210.104.34/live/majed/majed/2395.ts
+#EXTINF:0,Premium_Crime_HD
+http://62.210.104.34/live/majed/majed/2396.ts
+#EXTINF:0,Premium_Crime_24
+http://62.210.104.34/live/majed/majed/2397.ts
+#EXTINF:0,Premium_Cinema_Energy
+http://62.210.104.34/live/majed/majed/2398.ts
+#EXTINF:0,Premium_Cinema_Emotion
+http://62.210.104.34/live/majed/majed/2399.ts
+#EXTINF:0,Premium_Cinema_Comedy
+http://62.210.104.34/live/majed/majed/2400.ts
+#EXTINF:0,Premium_Studio_Universal
+http://62.210.104.34/live/majed/majed/2401.ts
+#EXTINF:0,Premium_Joy_24
+http://62.210.104.34/live/majed/majed/2402.ts
+#EXTINF:0,Top_Crime
+http://62.210.104.34/live/majed/majed/2403.ts
+#EXTINF:0,Premium_Stories
+http://62.210.104.34/live/majed/majed/2404.ts
+#EXTINF:0,Premium_Stories _24
+http://62.210.104.34/live/majed/majed/2405.ts
+#EXTINF:0,Premium_Sport_HD
+http://62.210.104.34/live/majed/majed/2406.ts
+#EXTINF:0,Premium_Calcio_HD
+http://62.210.104.34/live/majed/majed/2407.ts
+#EXTINF:0,Premium_Calcio_1_HD
+http://62.210.104.34/live/majed/majed/2408.ts
+#EXTINF:0,Premium_Calcio_1
+http://62.210.104.34/live/majed/majed/2409.ts
+#EXTINF:0,Premium_Calcio_2
+http://62.210.104.34/live/majed/majed/2410.ts
+#EXTINF:0,Premium_Calcio_3
+http://62.210.104.34/live/majed/majed/2411.ts
+#EXTINF:0,Premium_Calcio_4
+http://62.210.104.34/live/majed/majed/2412.ts
+#EXTINF:0,Premium_Calcio_5
+http://62.210.104.34/live/majed/majed/2413.ts
+#EXTINF:0,Premium_Calcio_6
+http://62.210.104.34/live/majed/majed/2414.ts
+#EXTINF:0,Premium_Calcio_7
+http://62.210.104.34/live/majed/majed/2415.ts
+#EXTINF:0,------ http://62.210.104.34/live/majed/majed/2416.ts
+#EXTINF:0,Radio_105_TV
+http://62.210.104.34/live/majed/majed/2418.ts
+#EXTINF:0,m2o
+http://62.210.104.34/live/majed/majed/2419.ts
+#EXTINF:0,DeeJay_TV
+http://62.210.104.34/live/majed/majed/2422.ts
+#EXTINF:0,Radio_Montecarlo_TV
+http://62.210.104.34/live/majed/majed/2424.ts
+#EXTINF:0,Virgin_Radio_TV
+http://62.210.104.34/live/majed/majed/2425.ts
+#EXTINF:0,Radio_Italia_TV
+http://62.210.104.34/live/majed/majed/2427.ts
+#EXTINF:0,------ http://62.210.104.34/live/majed/majed/2428.ts
+#EXTINF:0,Sky_PrimaFila_1
+http://62.210.104.34/live/majed/majed/2217.ts
+#EXTINF:0,Sky_PrimaFila_2
+http://62.210.104.34/live/majed/majed/2218.ts
+#EXTINF:0,Sky_PrimaFila_3
+http://62.210.104.34/live/majed/majed/2219.ts
+#EXTINF:0,Sky_PrimaFila_4
+http://62.210.104.34/live/majed/majed/2220.ts
+#EXTINF:0,Sky_PrimaFila_5
+http://62.210.104.34/live/majed/majed/2221.ts
+#EXTINF:0,Sky_PrimaFila_6
+http://62.210.104.34/live/majed/majed/2222.ts
+#EXTINF:0,Sky_PrimaFila_7
+http://62.210.104.34/live/majed/majed/2223.ts
+#EXTINF:0,Sky_PrimaFila_8
+http://62.210.104.34/live/majed/majed/2224.ts
+#EXTINF:0,Sky_PrimaFila_9
+http://62.210.104.34/live/majed/majed/2225.ts
+#EXTINF:0,Sky_PrimaFila_10
+http://62.210.104.34/live/majed/majed/2226.ts
+#EXTINF:0,Sky_PrimaFila_11
+http://62.210.104.34/live/majed/majed/2227.ts
+#EXTINF:0,Sky_PrimaFila_12
+http://62.210.104.34/live/majed/majed/2228.ts
+#EXTINF:0,Sky_PrimaFila_13
+http://62.210.104.34/live/majed/majed/2783.ts
+#EXTINF:0,Sky_PrimaFila_14
+http://62.210.104.34/live/majed/majed/2784.ts
+#EXTINF:0,Sky_PrimaFila_15
+http://62.210.104.34/live/majed/majed/2785.ts
+#EXTINF:0,------ http://62.210.104.34/live/majed/majed/2808.ts
+#EXTINF:0,Sky PrimaFila 1 VOD
+http://62.210.104.34/movie/majed/majed/2787.mkv
+#EXTINF:0,Sky PrimaFila 3 VOD
+http://62.210.104.34/movie/majed/majed/2788.mkv
+#EXTINF:0,Sky PrimaFila 5 VOD
+http://62.210.104.34/movie/majed/majed/2789.mkv
+#EXTINF:0,Sky PrimaFila 7 VOD
+http://62.210.104.34/movie/majed/majed/2790.mkv
+#EXTINF:0,Sky PrimaFila 9 VOD
+http://62.210.104.34/movie/majed/majed/2791.mkv
+#EXTINF:0,SKY PRIMAFILA 11 VOD
+http://62.210.104.34/movie/majed/majed/2792.mkv
+#EXTINF:0,SKY PRIMAFILA 13 VOD
+http://62.210.104.34/movie/majed/majed/2793.mkv
+#EXTINF:0,------ http://62.210.104.34/live/majed/majed/5753.ts
+#EXTINF:0,Alias season 05 Ep 01 Italien
+http://62.210.104.34/movie/majed/majed/4510.mp4
+#EXTINF:0,Alias season 05 Ep 02 Italien
+http://62.210.104.34/movie/majed/majed/4511.mp4
+#EXTINF:0,Alias season 05 Ep 03 Italien
+http://62.210.104.34/movie/majed/majed/4512.mp4
+#EXTINF:0,Alias season 05 Ep 04 Italien
+http://62.210.104.34/movie/majed/majed/4513.mp4
+#EXTINF:0,Alias season 05 Ep 05 Italien
+http://62.210.104.34/movie/majed/majed/4514.mp4
+#EXTINF:0,Alias season 05 Ep 06 Italien
+http://62.210.104.34/movie/majed/majed/4515.mp4
+#EXTINF:0,Alias season 05 Ep 07 Italien
+http://62.210.104.34/movie/majed/majed/4516.mp4
+#EXTINF:0,Alias season 05 Ep 08 Italien
+http://62.210.104.34/movie/majed/majed/4517.mp4
+#EXTINF:0,Alias season 05 Ep 09 Italien
+http://62.210.104.34/movie/majed/majed/4518.mp4
+#EXTINF:0,Alias season 05 Ep 10 Italien
+http://62.210.104.34/movie/majed/majed/4519.mp4
+#EXTINF:0,Alias season 05 Ep 11 Italien
+http://62.210.104.34/movie/majed/majed/4520.mp4
+#EXTINF:0,Alias season 05 Ep 12 Italien
+http://62.210.104.34/movie/majed/majed/4521.mp4
+#EXTINF:0,Alias season 05 Ep 13 Italien
+http://62.210.104.34/movie/majed/majed/4522.mp4
+#EXTINF:0,Alias season 05 Ep 14 Italien
+http://62.210.104.34/movie/majed/majed/4523.mp4
+#EXTINF:0,Alias season 05 Ep 15 Italien
+http://62.210.104.34/movie/majed/majed/4524.mp4
+#EXTINF:0,Alias season 05 Ep 16 Italien
+http://62.210.104.34/movie/majed/majed/4525.mp4
+#EXTINF:0,Alias season 05 Ep 17 Italien
+http://62.210.104.34/movie/majed/majed/4526.mp4
+#EXTINF:0,Allegiance S01 Episodio 01
+http://62.210.104.34/movie/majed/majed/4527.mp4
+#EXTINF:0,Allegiance S01 Episodio  02
+http://62.210.104.34/movie/majed/majed/4528.mp4
+#EXTINF:0,Allegiance S01 Episodio  03
+http://62.210.104.34/movie/majed/majed/4529.mp4
+#EXTINF:0,Allegiance S01 Episodio  04
+http://62.210.104.34/movie/majed/majed/4530.mp4
+#EXTINF:0,Allegiance S01 Episodio  05
+http://62.210.104.34/movie/majed/majed/4531.mp4
+#EXTINF:0,Allegiance S01 Episodio  06
+http://62.210.104.34/movie/majed/majed/4532.mp4
+#EXTINF:0,Allegiance S01 Episodio  07
+http://62.210.104.34/movie/majed/majed/4533.mp4
+#EXTINF:0,Allegiance S01 Episodio  08
+http://62.210.104.34/movie/majed/majed/4534.mp4
+#EXTINF:0,Allegiance S01 Episodio  09
+http://62.210.104.34/movie/majed/majed/4535.mp4
+#EXTINF:0,Allegiance S01 Episodio  10
+http://62.210.104.34/movie/majed/majed/4536.mp4
+#EXTINF:0,Allegiance S01 Episodio  11
+http://62.210.104.34/movie/majed/majed/4537.mp4
+#EXTINF:0,Allegiance S01 Episodio  12
+http://62.210.104.34/movie/majed/majed/4538.mp4
+#EXTINF:0,Allegiance S01 Episodio  13
+http://62.210.104.34/movie/majed/majed/4539.mp4
+#EXTINF:0,Aquarius1_ Ep 01 Italien
+http://62.210.104.34/movie/majed/majed/4540.mp4
+#EXTINF:0,Aquarius1_ Ep 02 Italien
+http://62.210.104.34/movie/majed/majed/4541.mp4
+#EXTINF:0,Aquarius1_ Ep 03 Italien
+http://62.210.104.34/movie/majed/majed/4542.mp4
+#EXTINF:0,Aquarius1_ Ep 04 Italien
+http://62.210.104.34/movie/majed/majed/4543.mp4
+#EXTINF:0,Aquarius1_ Ep 05 Italien
+http://62.210.104.34/movie/majed/majed/4544.mp4
+#EXTINF:0,Aquarius1_ Ep 06 Italien
+http://62.210.104.34/movie/majed/majed/4545.mp4
+#EXTINF:0,Aquarius1_ Ep 07 Italien
+http://62.210.104.34/movie/majed/majed/4546.mp4
+#EXTINF:0,Aquarius1_ Ep 08 Italien
+http://62.210.104.34/movie/majed/majed/4547.mp4
+#EXTINF:0,Aquarius1_ Ep 09 Italien
+http://62.210.104.34/movie/majed/majed/4548.mp4
+#EXTINF:0,Aquarius1_ Ep 10 Italien
+http://62.210.104.34/movie/majed/majed/4549.mp4
+#EXTINF:0,Aquarius1_ Ep 11 Italien
+http://62.210.104.34/movie/majed/majed/4550.mp4
+#EXTINF:0,Aquarius1_ Ep 12 Italien
+http://62.210.104.34/movie/majed/majed/4551.mp4
+#EXTINF:0,Aquarius1_ Ep 13 Italien
+http://62.210.104.34/movie/majed/majed/4552.mp4
+#EXTINF:0,Arrow Season 1 Episode 01
+http://62.210.104.34/movie/majed/majed/4553.mp4
+#EXTINF:0,Arrow Season 1 Episode 02
+http://62.210.104.34/movie/majed/majed/4554.mp4
+#EXTINF:0,Arrow Season 1 Episode 03
+http://62.210.104.34/movie/majed/majed/4555.mp4
+#EXTINF:0,Arrow Season 1 Episode 04
+http://62.210.104.34/movie/majed/majed/4556.mp4
+#EXTINF:0,Arrow Season 1 Episode 05
+http://62.210.104.34/movie/majed/majed/4557.mp4
+#EXTINF:0,Arrow Season 1 Episode 06
+http://62.210.104.34/movie/majed/majed/4558.mp4
+#EXTINF:0,Arrow Season 1 Episode 07
+http://62.210.104.34/movie/majed/majed/4559.mp4
+#EXTINF:0,Arrow Season 1 Episode 08
+http://62.210.104.34/movie/majed/majed/4560.mp4
+#EXTINF:0,Arrow Season 1 Episode 09
+http://62.210.104.34/movie/majed/majed/4561.mp4
+#EXTINF:0,Arrow Season 1 Episode 10
+http://62.210.104.34/movie/majed/majed/4562.mp4
+#EXTINF:0,Arrow Season 1 Episode 11
+http://62.210.104.34/movie/majed/majed/4563.mp4
+#EXTINF:0,Arrow Season 1 Episode 12
+http://62.210.104.34/movie/majed/majed/4564.mp4
+#EXTINF:0,Arrow Season 1 Episode 13
+http://62.210.104.34/movie/majed/majed/4565.mp4
+#EXTINF:0,Arrow Season 1 Episode 14
+http://62.210.104.34/movie/majed/majed/4566.mp4
+#EXTINF:0,Arrow Season 1 Episode 15
+http://62.210.104.34/movie/majed/majed/4567.mp4
+#EXTINF:0,Arrow Season 1 Episode 16
+http://62.210.104.34/movie/majed/majed/4568.mp4
+#EXTINF:0,Arrow Season 1 Episode 17
+http://62.210.104.34/movie/majed/majed/4569.mp4
+#EXTINF:0,Arrow Season 1 Episode 18
+http://62.210.104.34/movie/majed/majed/4570.mp4
+#EXTINF:0,Arrow Season 1 Episode 19
+http://62.210.104.34/movie/majed/majed/4571.mp4
+#EXTINF:0,Arrow Season 1 Episode 20
+http://62.210.104.34/movie/majed/majed/4572.mp4
+#EXTINF:0,Arrow Season 1 Episode 21
+http://62.210.104.34/movie/majed/majed/4573.mp4
+#EXTINF:0,Arrow Season 1 Episode 22
+http://62.210.104.34/movie/majed/majed/4574.mp4
+#EXTINF:0,Arrow Season 1 Episode 23
+http://62.210.104.34/movie/majed/majed/4575.mp4
+#EXTINF:0,Arrow Season 2 Episode 01
+http://62.210.104.34/movie/majed/majed/4576.mp4
+#EXTINF:0,Arrow Season 2 Episode 02
+http://62.210.104.34/movie/majed/majed/4577.mp4
+#EXTINF:0,Arrow Season 2 Episode 03
+http://62.210.104.34/movie/majed/majed/4578.mp4
+#EXTINF:0,Arrow Season 2 Episode 04
+http://62.210.104.34/movie/majed/majed/4579.mp4
+#EXTINF:0,Arrow Season 2 Episode 05
+http://62.210.104.34/movie/majed/majed/4580.mp4
+#EXTINF:0,Arrow Season 2 Episode 06
+http://62.210.104.34/movie/majed/majed/4581.mp4
+#EXTINF:0,Arrow Season 2 Episode 07
+http://62.210.104.34/movie/majed/majed/4582.mp4
+#EXTINF:0,Arrow Season 2 Episode 08
+http://62.210.104.34/movie/majed/majed/4583.mp4
+#EXTINF:0,Arrow Season 2 Episode 09
+http://62.210.104.34/movie/majed/majed/4584.mp4
+#EXTINF:0,Arrow Season 2 Episode 10
+http://62.210.104.34/movie/majed/majed/4585.mp4
+#EXTINF:0,Arrow Season 2 Episode 11
+http://62.210.104.34/movie/majed/majed/4586.mp4
+#EXTINF:0,Arrow Season 2 Episode 12
+http://62.210.104.34/movie/majed/majed/4587.mp4
+#EXTINF:0,Arrow Season 2 Episode 13
+http://62.210.104.34/movie/majed/majed/4588.mp4
+#EXTINF:0,Arrow Season 2 Episode 14
+http://62.210.104.34/movie/majed/majed/4589.mp4
+#EXTINF:0,Arrow Season 2 Episode 15
+http://62.210.104.34/movie/majed/majed/4590.mp4
+#EXTINF:0,Arrow Season 2 Episode 16
+http://62.210.104.34/movie/majed/majed/4591.mp4
+#EXTINF:0,Arrow Season 2 Episode 17
+http://62.210.104.34/movie/majed/majed/4592.mp4
+#EXTINF:0,Arrow Season 2 Episode 18
+http://62.210.104.34/movie/majed/majed/4593.mp4
+#EXTINF:0,Arrow Season 2 Episode 19
+http://62.210.104.34/movie/majed/majed/4594.mp4
+#EXTINF:0,Arrow Season 2 Episode 20
+http://62.210.104.34/movie/majed/majed/4595.mp4
+#EXTINF:0,Arrow Season 2 Episode 21
+http://62.210.104.34/movie/majed/majed/4596.mp4
+#EXTINF:0,Arrow Season 2 Episode 22
+http://62.210.104.34/movie/majed/majed/4597.mp4
+#EXTINF:0,Arrow Season 2 Episode 23
+http://62.210.104.34/movie/majed/majed/4598.mp4
+#EXTINF:0,Arrow Season 3 Episode 01
+http://62.210.104.34/movie/majed/majed/4599.mp4
+#EXTINF:0,Arrow Season 3 Episode 02
+http://62.210.104.34/movie/majed/majed/4600.mp4
+#EXTINF:0,Arrow Season 3 Episode 03
+http://62.210.104.34/movie/majed/majed/4601.mp4
+#EXTINF:0,Arrow Season 3 Episode 04
+http://62.210.104.34/movie/majed/majed/4602.mp4
+#EXTINF:0,Arrow Season 3 Episode 05
+http://62.210.104.34/movie/majed/majed/4603.mp4
+#EXTINF:0,Arrow Season 3 Episode 06
+http://62.210.104.34/movie/majed/majed/4604.mp4
+#EXTINF:0,Arrow Season 3 Episode 07
+http://62.210.104.34/movie/majed/majed/4605.mp4
+#EXTINF:0,Arrow Season 3 Episode 08
+http://62.210.104.34/movie/majed/majed/4606.mp4
+#EXTINF:0,Arrow Season 3 Episode 09
+http://62.210.104.34/movie/majed/majed/4607.mp4
+#EXTINF:0,Arrow Season 3 Episode 10
+http://62.210.104.34/movie/majed/majed/4608.mp4
+#EXTINF:0,Arrow Season 3 Episode 11
+http://62.210.104.34/movie/majed/majed/4609.mp4
+#EXTINF:0,Arrow Season 3 Episode 12
+http://62.210.104.34/movie/majed/majed/4610.mp4
+#EXTINF:0,Arrow Season 3 Episode 13
+http://62.210.104.34/movie/majed/majed/4611.mp4
+#EXTINF:0,Arrow Season 3 Episode 14
+http://62.210.104.34/movie/majed/majed/4612.mp4
+#EXTINF:0,Arrow Season 3 Episode 15
+http://62.210.104.34/movie/majed/majed/4613.mp4
+#EXTINF:0,Arrow Season 3 Episode 16
+http://62.210.104.34/movie/majed/majed/4614.mp4
+#EXTINF:0,Arrow Season 3 Episode 17
+http://62.210.104.34/movie/majed/majed/4615.mp4
+#EXTINF:0,Arrow Season 3 Episode 18
+http://62.210.104.34/movie/majed/majed/4616.mp4
+#EXTINF:0,Arrow Season 3 Episode 19
+http://62.210.104.34/movie/majed/majed/4617.mp4
+#EXTINF:0,Arrow Season 3 Episode 20
+http://62.210.104.34/movie/majed/majed/4618.mp4
+#EXTINF:0,Arrow Season 3 Episode 21
+http://62.210.104.34/movie/majed/majed/4619.mp4
+#EXTINF:0,Arrow Season 3 Episode 22
+http://62.210.104.34/movie/majed/majed/4620.mp4
+#EXTINF:0,Arrow Season 3 Episode 23
+http://62.210.104.34/movie/majed/majed/4621.mp4
+#EXTINF:0,Arrow Episode 01
+http://62.210.104.34/movie/majed/majed/4622.mkv
+#EXTINF:0,Arrow Episode 02
+http://62.210.104.34/movie/majed/majed/4623.mp4
+#EXTINF:0,Arrow Episode 03
+http://62.210.104.34/movie/majed/majed/4624.mp4
+#EXTINF:0,Arrow Episode 04
+http://62.210.104.34/movie/majed/majed/4625.mp4
+#EXTINF:0,Arrow Episode 05
+http://62.210.104.34/movie/majed/majed/4626.mp4
+#EXTINF:0,Arrow Episode 06
+http://62.210.104.34/movie/majed/majed/4627.mp4
+#EXTINF:0,Arrow Episode 07
+http://62.210.104.34/movie/majed/majed/4628.mp4
+#EXTINF:0,Arrow Episode 08
+http://62.210.104.34/movie/majed/majed/4629.mp4
+#EXTINF:0,Arrow Episode 09
+http://62.210.104.34/movie/majed/majed/4630.mp4
+#EXTINF:0,Arrow Episode 10
+http://62.210.104.34/movie/majed/majed/4631.mp4
+#EXTINF:0,Arrow Episode 11
+http://62.210.104.34/movie/majed/majed/4632.mp4
+#EXTINF:0,Arrow Episode 12
+http://62.210.104.34/movie/majed/majed/4633.mp4
+#EXTINF:0,Arrow Episode 13
+http://62.210.104.34/movie/majed/majed/4634.mp4
+#EXTINF:0,Arrow Episode 14
+http://62.210.104.34/movie/majed/majed/4635.mp4
+#EXTINF:0,Arrow Episode 15
+http://62.210.104.34/movie/majed/majed/4636.mp4
+#EXTINF:0,Arrow Episode 16
+http://62.210.104.34/movie/majed/majed/4637.mp4
+#EXTINF:0,Arrow Episode 17
+http://62.210.104.34/movie/majed/majed/4638.mp4
+#EXTINF:0,Arrow Episode 18
+http://62.210.104.34/movie/majed/majed/4639.mp4
+#EXTINF:0,Arrow Episode 19
+http://62.210.104.34/movie/majed/majed/4640.mp4
+#EXTINF:0,Arrow Episode 20
+http://62.210.104.34/movie/majed/majed/4641.mp4
+#EXTINF:0,Arrow Episode 21
+http://62.210.104.34/movie/majed/majed/4642.mp4
+#EXTINF:0,Arrow Episode 22
+http://62.210.104.34/movie/majed/majed/4643.mp4
+#EXTINF:0,Arrow Episode 23
+http://62.210.104.34/movie/majed/majed/4644.mp4
+#EXTINF:0,Breaking Bad S1 Episode 01 Ita
+http://62.210.104.34/movie/majed/majed/4645.mp4
+#EXTINF:0,Breaking Bad S1 Episode 02 Ita
+http://62.210.104.34/movie/majed/majed/4646.mp4
+#EXTINF:0,Breaking Bad S1 Episode 03 Ita
+http://62.210.104.34/movie/majed/majed/4647.mp4
+#EXTINF:0,Breaking Bad S1 Episode 04 Ita
+http://62.210.104.34/movie/majed/majed/4648.mp4
+#EXTINF:0,Breaking Bad S1 Episode 05 Ita
+http://62.210.104.34/movie/majed/majed/4649.mp4
+#EXTINF:0,Breaking Bad S1 Episode 06 Ita
+http://62.210.104.34/movie/majed/majed/4650.mp4
+#EXTINF:0,Breaking Bad S1 Episode 07 Ita
+http://62.210.104.34/movie/majed/majed/4651.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 01
+http://62.210.104.34/movie/majed/majed/4652.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 02
+http://62.210.104.34/movie/majed/majed/4653.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 03
+http://62.210.104.34/movie/majed/majed/4654.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 04
+http://62.210.104.34/movie/majed/majed/4655.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 05
+http://62.210.104.34/movie/majed/majed/4656.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 06
+http://62.210.104.34/movie/majed/majed/4657.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 07
+http://62.210.104.34/movie/majed/majed/4658.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 08
+http://62.210.104.34/movie/majed/majed/4659.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 09
+http://62.210.104.34/movie/majed/majed/4660.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 10
+http://62.210.104.34/movie/majed/majed/4661.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 11
+http://62.210.104.34/movie/majed/majed/4662.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 12
+http://62.210.104.34/movie/majed/majed/4663.mp4
+#EXTINF:0,Breaking Bad S02 Episodio 13
+http://62.210.104.34/movie/majed/majed/4664.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 01
+http://62.210.104.34/movie/majed/majed/4665.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 02
+http://62.210.104.34/movie/majed/majed/4666.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 03
+http://62.210.104.34/movie/majed/majed/4667.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 04
+http://62.210.104.34/movie/majed/majed/4668.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 05
+http://62.210.104.34/movie/majed/majed/4669.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 06
+http://62.210.104.34/movie/majed/majed/4670.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 07
+http://62.210.104.34/movie/majed/majed/4671.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 08
+http://62.210.104.34/movie/majed/majed/4672.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 09
+http://62.210.104.34/movie/majed/majed/4673.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 10
+http://62.210.104.34/movie/majed/majed/4674.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 11
+http://62.210.104.34/movie/majed/majed/4675.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 12
+http://62.210.104.34/movie/majed/majed/4676.mp4
+#EXTINF:0,Breaking Bad S03 Episodio 13
+http://62.210.104.34/movie/majed/majed/4677.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 01
+http://62.210.104.34/movie/majed/majed/4678.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 02
+http://62.210.104.34/movie/majed/majed/4679.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 03
+http://62.210.104.34/movie/majed/majed/4680.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 04
+http://62.210.104.34/movie/majed/majed/4681.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 05
+http://62.210.104.34/movie/majed/majed/4682.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 06
+http://62.210.104.34/movie/majed/majed/4683.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 07
+http://62.210.104.34/movie/majed/majed/4684.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 08
+http://62.210.104.34/movie/majed/majed/4685.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 09
+http://62.210.104.34/movie/majed/majed/4686.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 10
+http://62.210.104.34/movie/majed/majed/4687.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 11
+http://62.210.104.34/movie/majed/majed/4688.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 12
+http://62.210.104.34/movie/majed/majed/4689.mp4
+#EXTINF:0,Breaking Bad S04 Episodio 13
+http://62.210.104.34/movie/majed/majed/4690.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 01
+http://62.210.104.34/movie/majed/majed/4691.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 02
+http://62.210.104.34/movie/majed/majed/4692.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 03
+http://62.210.104.34/movie/majed/majed/4693.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 04
+http://62.210.104.34/movie/majed/majed/4694.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 05
+http://62.210.104.34/movie/majed/majed/4695.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 06
+http://62.210.104.34/movie/majed/majed/4696.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 07
+http://62.210.104.34/movie/majed/majed/4697.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 08
+http://62.210.104.34/movie/majed/majed/4698.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 09
+http://62.210.104.34/movie/majed/majed/4699.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 10
+http://62.210.104.34/movie/majed/majed/4700.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 11
+http://62.210.104.34/movie/majed/majed/4701.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 12
+http://62.210.104.34/movie/majed/majed/4702.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 13
+http://62.210.104.34/movie/majed/majed/4703.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 14
+http://62.210.104.34/movie/majed/majed/4704.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 15
+http://62.210.104.34/movie/majed/majed/4705.mp4
+#EXTINF:0,Breaking Bad S05 Episodio 16
+http://62.210.104.34/movie/majed/majed/4706.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 01 Ita
+http://62.210.104.34/movie/majed/majed/4707.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 02 Ita
+http://62.210.104.34/movie/majed/majed/4708.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 03 Ita
+http://62.210.104.34/movie/majed/majed/4709.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 04 Ita
+http://62.210.104.34/movie/majed/majed/4710.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 05 Ita
+http://62.210.104.34/movie/majed/majed/4711.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 06 Ita
+http://62.210.104.34/movie/majed/majed/4712.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 07 Ita
+http://62.210.104.34/movie/majed/majed/4713.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 08 Ita
+http://62.210.104.34/movie/majed/majed/4714.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 09 Ita
+http://62.210.104.34/movie/majed/majed/4715.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 10 Ita
+http://62.210.104.34/movie/majed/majed/4716.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 11 Ita
+http://62.210.104.34/movie/majed/majed/4717.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 12 Ita
+http://62.210.104.34/movie/majed/majed/4718.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 13 Ita
+http://62.210.104.34/movie/majed/majed/4719.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 14 Ita
+http://62.210.104.34/movie/majed/majed/4720.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 15 Ita
+http://62.210.104.34/movie/majed/majed/4721.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 16 Ita
+http://62.210.104.34/movie/majed/majed/4722.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 17 Ita
+http://62.210.104.34/movie/majed/majed/4723.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 18 Ita
+http://62.210.104.34/movie/majed/majed/4724.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 19 Ita
+http://62.210.104.34/movie/majed/majed/4725.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 20 Ita
+http://62.210.104.34/movie/majed/majed/4726.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 21 Ita
+http://62.210.104.34/movie/majed/majed/4727.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 22 Ita
+http://62.210.104.34/movie/majed/majed/4728.mp4
+#EXTINF:0,Chicago Fire S03 Episodes 23 Ita
+http://62.210.104.34/movie/majed/majed/4729.mp4
+#EXTINF:0,Chicago Fire S04 Episode 01 Ita
+http://62.210.104.34/movie/majed/majed/4730.mp4
+#EXTINF:0,Chicago Fire S04 Episode 02 Ita
+http://62.210.104.34/movie/majed/majed/4731.mp4
+#EXTINF:0,Chicago Fire S04 Episode 03 Ita
+http://62.210.104.34/movie/majed/majed/4732.mp4
+#EXTINF:0,Chicago Fire S04 Episode 04 Ita
+http://62.210.104.34/movie/majed/majed/4733.mp4
+#EXTINF:0,Chicago Fire S04 Episode 05 Ita
+http://62.210.104.34/movie/majed/majed/4734.mp4
+#EXTINF:0,Continuum 4 Ep01 Ita
+http://62.210.104.34/movie/majed/majed/4735.mp4
+#EXTINF:0,Continuum 4 Ep02 Ita
+http://62.210.104.34/movie/majed/majed/4736.mp4
+#EXTINF:0,Continuum 4 Ep03 Ita
+http://62.210.104.34/movie/majed/majed/4737.mp4
+#EXTINF:0,Continuum 4 Ep04 Ita
+http://62.210.104.34/movie/majed/majed/4738.mp4
+#EXTINF:0,Continuum 4 Ep05 Ita
+http://62.210.104.34/movie/majed/majed/4739.mp4
+#EXTINF:0,Continuum 4 Ep06 Ita
+http://62.210.104.34/movie/majed/majed/4740.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 01 Ita
+http://62.210.104.34/movie/majed/majed/4741.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 02 Ita
+http://62.210.104.34/movie/majed/majed/4742.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 03 Ita
+http://62.210.104.34/movie/majed/majed/4743.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 04 Ita
+http://62.210.104.34/movie/majed/majed/4744.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 05 Ita
+http://62.210.104.34/movie/majed/majed/4745.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 06 Ita
+http://62.210.104.34/movie/majed/majed/4746.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 07 Ita
+http://62.210.104.34/movie/majed/majed/4747.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 08 Ita
+http://62.210.104.34/movie/majed/majed/4748.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 09 Ita
+http://62.210.104.34/movie/majed/majed/4749.mp4
+#EXTINF:0,Da Vincis Demons 3 Episode 10 Ita
+http://62.210.104.34/movie/majed/majed/4750.mp4
+#EXTINF:0,Fargo Season 01 Episode 01
+http://62.210.104.34/movie/majed/majed/4751.mp4
+#EXTINF:0,Fargo Season 01 Episode 02
+http://62.210.104.34/movie/majed/majed/4752.mp4
+#EXTINF:0,Fargo Season 01 Episode 03
+http://62.210.104.34/movie/majed/majed/4753.mp4
+#EXTINF:0,Fargo Season 01 Episode 4
+http://62.210.104.34/movie/majed/majed/4754.mp4
+#EXTINF:0,Fargo Season 01 Episode 05
+http://62.210.104.34/movie/majed/majed/4755.mp4
+#EXTINF:0,Fargo Season 01 Episode 06
+http://62.210.104.34/movie/majed/majed/4756.mp4
+#EXTINF:0,Fargo Season 01 Episode 07
+http://62.210.104.34/movie/majed/majed/4757.mp4
+#EXTINF:0,Fargo Season 01 Episode 08
+http://62.210.104.34/movie/majed/majed/4758.mp4
+#EXTINF:0,Fargo Season 01 Episode 09
+http://62.210.104.34/movie/majed/majed/4759.mp4
+#EXTINF:0,Fargo Season 01 Episode 10
+http://62.210.104.34/movie/majed/majed/4760.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 01 Italien
+http://62.210.104.34/movie/majed/majed/4761.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 02 Italien
+http://62.210.104.34/movie/majed/majed/4762.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 03 Italien
+http://62.210.104.34/movie/majed/majed/4763.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 04 Italien
+http://62.210.104.34/movie/majed/majed/4764.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 05 Italien
+http://62.210.104.34/movie/majed/majed/4765.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 06 Italien
+http://62.210.104.34/movie/majed/majed/4766.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 07 Italien
+http://62.210.104.34/movie/majed/majed/4767.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 08 Italien
+http://62.210.104.34/movie/majed/majed/4768.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 09 Italien
+http://62.210.104.34/movie/majed/majed/4769.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 10 Italien
+http://62.210.104.34/movie/majed/majed/4770.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 11 Italien
+http://62.210.104.34/movie/majed/majed/4771.mp4
+#EXTINF:0,Gomorra La Serie 1_ Episode 12 Italien
+http://62.210.104.34/movie/majed/majed/4772.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 01 Italien
+http://62.210.104.34/movie/majed/majed/4773.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 02 Italien
+http://62.210.104.34/movie/majed/majed/4774.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 03 Italien
+http://62.210.104.34/movie/majed/majed/4775.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 04 Italien
+http://62.210.104.34/movie/majed/majed/4776.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 05 Italien
+http://62.210.104.34/movie/majed/majed/4777.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 06 Italien
+http://62.210.104.34/movie/majed/majed/4778.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 07 Italien
+http://62.210.104.34/movie/majed/majed/4779.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 08 Italien
+http://62.210.104.34/movie/majed/majed/4780.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 09 Italien
+http://62.210.104.34/movie/majed/majed/4781.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 10 Italien
+http://62.210.104.34/movie/majed/majed/4782.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 11 Italien
+http://62.210.104.34/movie/majed/majed/4783.mp4
+#EXTINF:0,Gomorra La Serie 2_ Episode 12 Italien
+http://62.210.104.34/movie/majed/majed/4784.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 01 Ita
+http://62.210.104.34/movie/majed/majed/4785.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 02 Ita
+http://62.210.104.34/movie/majed/majed/4786.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 03 Ita
+http://62.210.104.34/movie/majed/majed/4787.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 04 Ita
+http://62.210.104.34/movie/majed/majed/4788.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 05 Ita
+http://62.210.104.34/movie/majed/majed/4789.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 06 Ita
+http://62.210.104.34/movie/majed/majed/4790.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 07 Ita
+http://62.210.104.34/movie/majed/majed/4791.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 08 Ita
+http://62.210.104.34/movie/majed/majed/4792.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 09 Ita
+http://62.210.104.34/movie/majed/majed/4793.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 10 Ita
+http://62.210.104.34/movie/majed/majed/4794.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 11 Ita
+http://62.210.104.34/movie/majed/majed/4795.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 12 Ita
+http://62.210.104.34/movie/majed/majed/4796.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 13 Ita
+http://62.210.104.34/movie/majed/majed/4797.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 14 Ita
+http://62.210.104.34/movie/majed/majed/4798.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 15 Ita
+http://62.210.104.34/movie/majed/majed/4799.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 16 Ita
+http://62.210.104.34/movie/majed/majed/4800.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 17 Ita
+http://62.210.104.34/movie/majed/majed/4801.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 18 Ita
+http://62.210.104.34/movie/majed/majed/4802.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 19 Ita
+http://62.210.104.34/movie/majed/majed/4803.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 20 Ita
+http://62.210.104.34/movie/majed/majed/4804.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 21 Ita
+http://62.210.104.34/movie/majed/majed/4805.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 22 Ita
+http://62.210.104.34/movie/majed/majed/4806.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 23 Ita
+http://62.210.104.34/movie/majed/majed/4807.mp4
+#EXTINF:0,Greys Anatomy S12 episodes 24 Ita
+http://62.210.104.34/movie/majed/majed/4808.mp4
+#EXTINF:0,I Soprano S01 Episode 01 Ita
+http://62.210.104.34/movie/majed/majed/4809.mp4
+#EXTINF:0,I Soprano S01 Episode 02 Ita
+http://62.210.104.34/movie/majed/majed/4810.mp4
+#EXTINF:0,I Soprano S01 Episode 03 Ita
+http://62.210.104.34/movie/majed/majed/4811.mp4
+#EXTINF:0,I Soprano S01 Episode 04 Ita
+http://62.210.104.34/movie/majed/majed/4812.mp4
+#EXTINF:0,I Soprano S01 Episode 05 Ita
+http://62.210.104.34/movie/majed/majed/4813.mp4
+#EXTINF:0,I Soprano S01 Episode 06 Ita
+http://62.210.104.34/movie/majed/majed/4814.mp4
+#EXTINF:0,I Soprano S01 Episode 07 Ita
+http://62.210.104.34/movie/majed/majed/4815.mp4
+#EXTINF:0,I Soprano S01 Episode 08 Ita
+http://62.210.104.34/movie/majed/majed/4816.mp4
+#EXTINF:0,I Soprano S01 Episode 09 Ita
+http://62.210.104.34/movie/majed/majed/4817.mp4
+#EXTINF:0,I Soprano S01 Episode 10 Ita
+http://62.210.104.34/movie/majed/majed/4818.mp4
+#EXTINF:0,I Soprano S01 Episode 11 Ita
+http://62.210.104.34/movie/majed/majed/4819.mp4
+#EXTINF:0,I Soprano S01 Episode 12 Ita
+http://62.210.104.34/movie/majed/majed/4820.mp4
+#EXTINF:0,I Soprano S01 Episode 13 Ita
+http://62.210.104.34/movie/majed/majed/4821.mp4
+#EXTINF:0,I Soprano S02 Episode 01 Ita
+http://62.210.104.34/movie/majed/majed/4822.mp4
+#EXTINF:0,I Soprano S02 Episode 02 Ita
+http://62.210.104.34/movie/majed/majed/4823.mp4
+#EXTINF:0,I Soprano S02 Episode 03 Ita
+http://62.210.104.34/movie/majed/majed/4824.mp4
+#EXTINF:0,I Soprano S02 Episode 04 Ita
+http://62.210.104.34/movie/majed/majed/4825.mp4
+#EXTINF:0,I Soprano S02 Episode 05 Ita
+http://62.210.104.34/movie/majed/majed/4826.mp4
+#EXTINF:0,I Soprano S02 Episode 06 Ita
+http://62.210.104.34/movie/majed/majed/4827.mp4
+#EXTINF:0,I Soprano S02 Episode 07 Ita
+http://62.210.104.34/movie/majed/majed/4828.mp4
+#EXTINF:0,I Soprano S02 Episode 08 Ita
+http://62.210.104.34/movie/majed/majed/4829.mp4
+#EXTINF:0,I Soprano S02 Episode 09 Ita
+http://62.210.104.34/movie/majed/majed/4830.mp4
+#EXTINF:0,I Soprano S02 Episode 10 Ita
+http://62.210.104.34/movie/majed/majed/4831.mp4
+#EXTINF:0,I Soprano S02 Episode 11 Ita
+http://62.210.104.34/movie/majed/majed/4832.mp4
+#EXTINF:0,I Soprano S02 Episode 12 Ita
+http://62.210.104.34/movie/majed/majed/4833.mp4
+#EXTINF:0,I Soprano S02 Episode 13 Ita
+http://62.210.104.34/movie/majed/majed/4834.mp4
+#EXTINF:0,I Soprano S03 Episode 01 Ita
+http://62.210.104.34/movie/majed/majed/4835.mp4
+#EXTINF:0,I Soprano S03 Episode 02 Ita
+http://62.210.104.34/movie/majed/majed/4836.mp4
+#EXTINF:0,I Soprano S03 Episode 03 Ita
+http://62.210.104.34/movie/majed/majed/4837.mp4
+#EXTINF:0,I Soprano S03 Episode 04 Ita
+http://62.210.104.34/movie/majed/majed/4838.mp4
+#EXTINF:0,I Soprano S03 Episode 05 Ita
+http://62.210.104.34/movie/majed/majed/4839.mp4
+#EXTINF:0,I Soprano S03 Episode 06 Ita
+http://62.210.104.34/movie/majed/majed/4840.mp4
+#EXTINF:0,I Soprano S03 Episode 07 Ita
+http://62.210.104.34/movie/majed/majed/4841.mp4
+#EXTINF:0,I Soprano S03 Episode 08 Ita
+http://62.210.104.34/movie/majed/majed/4842.mp4
+#EXTINF:0,I Soprano S03 Episode 09 Ita
+http://62.210.104.34/movie/majed/majed/4843.mp4
+#EXTINF:0,I Soprano S03 Episode 10 Ita
+http://62.210.104.34/movie/majed/majed/4844.mp4
+#EXTINF:0,I Soprano S03 Episode 11 Ita
+http://62.210.104.34/movie/majed/majed/4845.mp4
+#EXTINF:0,I Soprano S03 Episode 12 Ita
+http://62.210.104.34/movie/majed/majed/4846.mp4
+#EXTINF:0,I Soprano S03 Episode 13 Ita
+http://62.210.104.34/movie/majed/majed/4847.mp4
+#EXTINF:0,I Soprano S04 Episode 01 Ita
+http://62.210.104.34/movie/majed/majed/4848.mp4
+#EXTINF:0,I Soprano S04 Episode 02 Ita
+http://62.210.104.34/movie/majed/majed/4849.mp4
+#EXTINF:0,I Soprano S04 Episode 03 Ita
+http://62.210.104.34/movie/majed/majed/4850.mp4
+#EXTINF:0,I Soprano S04 Episode 04 Ita
+http://62.210.104.34/movie/majed/majed/4851.mp4
+#EXTINF:0,I Soprano S04 Episode 05 Ita
+http://62.210.104.34/movie/majed/majed/4852.mp4
+#EXTINF:0,I Soprano S04 Episode 06 Ita
+http://62.210.104.34/movie/majed/majed/4853.mp4
+#EXTINF:0,I Soprano S04 Episode 07 Ita
+http://62.210.104.34/movie/majed/majed/4854.mp4
+#EXTINF:0,I Soprano S04 Episode 08 Ita
+http://62.210.104.34/movie/majed/majed/4855.mp4
+#EXTINF:0,I Soprano S04 Episode 09 Ita
+http://62.210.104.34/movie/majed/majed/4856.mp4
+#EXTINF:0,I Soprano S04 Episode 10 Ita
+http://62.210.104.34/movie/majed/majed/4857.mp4
+#EXTINF:0,I Soprano S04 Episode 11 Ita
+http://62.210.104.34/movie/majed/majed/4858.mp4
+#EXTINF:0,I Soprano S04 Episode 12 Ita
+http://62.210.104.34/movie/majed/majed/4859.mp4
+#EXTINF:0,I Soprano S04 Episode 13 Ita
+http://62.210.104.34/movie/majed/majed/4860.mp4
+#EXTINF:0,I Soprano S05 Episode 01 Ita
+http://62.210.104.34/movie/majed/majed/4861.mp4
+#EXTINF:0,I Soprano S05 Episode 02 Ita
+http://62.210.104.34/movie/majed/majed/4862.mp4
+#EXTINF:0,I Soprano S05 Episode 03 Ita
+http://62.210.104.34/movie/majed/majed/4863.mp4
+#EXTINF:0,I Soprano S05 Episode 04 Ita
+http://62.210.104.34/movie/majed/majed/4864.mp4
+#EXTINF:0,I Soprano S05 Episode 05 Ita
+http://62.210.104.34/movie/majed/majed/4865.mp4
+#EXTINF:0,I Soprano S05 Episode 06 Ita
+http://62.210.104.34/movie/majed/majed/4866.mp4
+#EXTINF:0,I Soprano S05 Episode 07 Ita
+http://62.210.104.34/movie/majed/majed/4867.mp4
+#EXTINF:0,I Soprano S05 Episode 08 Ita
+http://62.210.104.34/movie/majed/majed/4868.mp4
+#EXTINF:0,I Soprano S05 Episode 09 Ita
+http://62.210.104.34/movie/majed/majed/4869.mp4
+#EXTINF:0,I Soprano S05 Episode 10 Ita
+http://62.210.104.34/movie/majed/majed/4870.mp4
+#EXTINF:0,I Soprano S05 Episode 11 Ita
+http://62.210.104.34/movie/majed/majed/4871.mp4
+#EXTINF:0,I Soprano S05 Episode 12 Ita
+http://62.210.104.34/movie/majed/majed/4872.mp4
+#EXTINF:0,I Soprano S05 Episode 13 Ita
+http://62.210.104.34/movie/majed/majed/4873.mp4
+#EXTINF:0,I Soprano S06 Episode 01 Ita
+http://62.210.104.34/movie/majed/majed/4874.mp4
+#EXTINF:0,I Soprano S06 Episode 02 Ita
+http://62.210.104.34/movie/majed/majed/4875.mp4
+#EXTINF:0,I Soprano S06 Episode 03 Ita
+http://62.210.104.34/movie/majed/majed/4876.mp4
+#EXTINF:0,I Soprano S06 Episode 04 Ita
+http://62.210.104.34/movie/majed/majed/4877.mp4
+#EXTINF:0,I Soprano S06 Episode 05 Ita
+http://62.210.104.34/movie/majed/majed/4878.mp4
+#EXTINF:0,I Soprano S06 Episode 06 Ita
+http://62.210.104.34/movie/majed/majed/4879.mp4
+#EXTINF:0,I Soprano S06 Episode 07 Ita
+http://62.210.104.34/movie/majed/majed/4880.mp4
+#EXTINF:0,I Soprano S06 Episode 08 Ita
+http://62.210.104.34/movie/majed/majed/4881.mp4
+#EXTINF:0,I Soprano S06 Episode 09 Ita
+http://62.210.104.34/movie/majed/majed/4882.mp4
+#EXTINF:0,I Soprano S06 Episode 10 Ita
+http://62.210.104.34/movie/majed/majed/4883.mp4
+#EXTINF:0,I Soprano S06 Episode 11 Ita
+http://62.210.104.34/movie/majed/majed/4884.mp4
+#EXTINF:0,I Soprano S06 Episode 12 Ita
+http://62.210.104.34/movie/majed/majed/4885.mp4
+#EXTINF:0,I Soprano S06 Episode 13 Ita
+http://62.210.104.34/movie/majed/majed/4886.mp4
+#EXTINF:0,I Soprano S06 Episode 14 Ita
+http://62.210.104.34/movie/majed/majed/4887.mp4
+#EXTINF:0,I Soprano S06 Episode 15 Ita
+http://62.210.104.34/movie/majed/majed/4888.mp4
+#EXTINF:0,I Soprano S06 Episode 16 Ita
+http://62.210.104.34/movie/majed/majed/4889.mp4
+#EXTINF:0,I Soprano S06 Episode 17 Ita
+http://62.210.104.34/movie/majed/majed/4890.mp4
+#EXTINF:0,I Soprano S06 Episode 18 Ita
+http://62.210.104.34/movie/majed/majed/4891.mp4
+#EXTINF:0,I Soprano S06 Episode 19 Ita
+http://62.210.104.34/movie/majed/majed/4892.mp4
+#EXTINF:0,I Soprano S06 Episode 20 Ita
+http://62.210.104.34/movie/majed/majed/4893.mp4
+#EXTINF:0,I Soprano S06 Episode 21 Ita
+http://62.210.104.34/movie/majed/majed/4894.mp4
+#EXTINF:0,Il Clan dei Camorristi S01Episodio 01
+http://62.210.104.34/movie/majed/majed/4895.mp4
+#EXTINF:0,Il Clan dei Camorristi S01Episodio 02
+http://62.210.104.34/movie/majed/majed/4896.mp4
+#EXTINF:0,Il Clan dei Camorristi S01Episodio 03
+http://62.210.104.34/movie/majed/majed/4897.mp4
+#EXTINF:0,Il Clan dei Camorristi S01Episodio 04
+http://62.210.104.34/movie/majed/majed/4898.mp4
+#EXTINF:0,Il Clan dei Camorristi S01Episodio 05
+http://62.210.104.34/movie/majed/majed/4899.mp4
+#EXTINF:0,Il Clan dei Camorristi S01Episodio 06
+http://62.210.104.34/movie/majed/majed/4900.mp4
+#EXTINF:0,Il Clan dei Camorristi S01Episodio 07
+http://62.210.104.34/movie/majed/majed/4901.mp4
+#EXTINF:0,Il Clan dei Camorristi S01Episodio 08
+http://62.210.104.34/movie/majed/majed/4902.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 01
+http://62.210.104.34/movie/majed/majed/4903.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 02
+http://62.210.104.34/movie/majed/majed/4904.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 03
+http://62.210.104.34/movie/majed/majed/4905.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 04
+http://62.210.104.34/movie/majed/majed/4906.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 05
+http://62.210.104.34/movie/majed/majed/4907.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 06
+http://62.210.104.34/movie/majed/majed/4908.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 07
+http://62.210.104.34/movie/majed/majed/4909.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 08
+http://62.210.104.34/movie/majed/majed/4910.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 09
+http://62.210.104.34/movie/majed/majed/4911.mp4
+#EXTINF:0,Il Trono Di Spade S01 Episodio 10
+http://62.210.104.34/movie/majed/majed/4912.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 01
+http://62.210.104.34/movie/majed/majed/4913.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 02
+http://62.210.104.34/movie/majed/majed/4914.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 03
+http://62.210.104.34/movie/majed/majed/4915.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 04
+http://62.210.104.34/movie/majed/majed/4916.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 05
+http://62.210.104.34/movie/majed/majed/4917.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 06
+http://62.210.104.34/movie/majed/majed/4918.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 07
+http://62.210.104.34/movie/majed/majed/4919.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 08
+http://62.210.104.34/movie/majed/majed/4920.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 09
+http://62.210.104.34/movie/majed/majed/4921.mp4
+#EXTINF:0,Il Trono Di Spade S02 Episodio 10
+http://62.210.104.34/movie/majed/majed/4922.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 01
+http://62.210.104.34/movie/majed/majed/4923.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 02
+http://62.210.104.34/movie/majed/majed/4924.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 03
+http://62.210.104.34/movie/majed/majed/4925.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 04
+http://62.210.104.34/movie/majed/majed/4926.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 05
+http://62.210.104.34/movie/majed/majed/4927.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 06
+http://62.210.104.34/movie/majed/majed/4928.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 07
+http://62.210.104.34/movie/majed/majed/4929.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 08
+http://62.210.104.34/movie/majed/majed/4930.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 09
+http://62.210.104.34/movie/majed/majed/4931.mp4
+#EXTINF:0,Il Trono Di Spade S03 Episodio 10
+http://62.210.104.34/movie/majed/majed/4932.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 01
+http://62.210.104.34/movie/majed/majed/4933.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 02
+http://62.210.104.34/movie/majed/majed/4934.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 03
+http://62.210.104.34/movie/majed/majed/4935.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 04
+http://62.210.104.34/movie/majed/majed/4936.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 05
+http://62.210.104.34/movie/majed/majed/4937.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 06
+http://62.210.104.34/movie/majed/majed/4938.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 07
+http://62.210.104.34/movie/majed/majed/4939.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 08
+http://62.210.104.34/movie/majed/majed/4940.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 09
+http://62.210.104.34/movie/majed/majed/4941.mp4
+#EXTINF:0,Il Trono Di Spade S04 Episodio 10
+http://62.210.104.34/movie/majed/majed/4942.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 01
+http://62.210.104.34/movie/majed/majed/4943.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 02
+http://62.210.104.34/movie/majed/majed/4944.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 03
+http://62.210.104.34/movie/majed/majed/4945.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 04
+http://62.210.104.34/movie/majed/majed/4946.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 05
+http://62.210.104.34/movie/majed/majed/4947.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 06
+http://62.210.104.34/movie/majed/majed/4948.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 07
+http://62.210.104.34/movie/majed/majed/4949.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 08
+http://62.210.104.34/movie/majed/majed/4950.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 09
+http://62.210.104.34/movie/majed/majed/4951.mp4
+#EXTINF:0,Il Trono Di Spade S05 Episodio 10
+http://62.210.104.34/movie/majed/majed/4952.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 01
+http://62.210.104.34/movie/majed/majed/4953.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 02
+http://62.210.104.34/movie/majed/majed/4954.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 03
+http://62.210.104.34/movie/majed/majed/4955.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 04
+http://62.210.104.34/movie/majed/majed/4956.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 05
+http://62.210.104.34/movie/majed/majed/4957.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 06
+http://62.210.104.34/movie/majed/majed/4958.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 07
+http://62.210.104.34/movie/majed/majed/4959.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 08
+http://62.210.104.34/movie/majed/majed/4960.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 09
+http://62.210.104.34/movie/majed/majed/4961.mp4
+#EXTINF:0,Il Trono Di Spade S06 Episodio 10
+http://62.210.104.34/movie/majed/majed/4962.mp4
+#EXTINF:0,L Onore E Il Rispetto S01 Episodio 01
+http://62.210.104.34/movie/majed/majed/4976.mp4
+#EXTINF:0,L Onore E Il Rispetto S01 Episodio 02
+http://62.210.104.34/movie/majed/majed/4977.mp4
+#EXTINF:0,L Onore E Il Rispetto S01 Episodio 03
+http://62.210.104.34/movie/majed/majed/4978.mp4
+#EXTINF:0,L Onore E Il Rispetto S01 Episodio 04
+http://62.210.104.34/movie/majed/majed/4979.mp4
+#EXTINF:0,L Onore E Il Rispetto S01 Episodio 05
+http://62.210.104.34/movie/majed/majed/4980.mp4
+#EXTINF:0,L Onore E Il Rispetto S01 Episodio 06
+http://62.210.104.34/movie/majed/majed/4981.mp4
+#EXTINF:0,L Onore E Il Rispetto S02 Episodio 01
+http://62.210.104.34/movie/majed/majed/4982.mp4
+#EXTINF:0,L Onore E Il Rispetto S02 Episodio 02
+http://62.210.104.34/movie/majed/majed/4983.mp4
+#EXTINF:0,L Onore E Il Rispetto S02 Episodio 03
+http://62.210.104.34/movie/majed/majed/4984.mp4
+#EXTINF:0,L Onore E Il Rispetto S02 Episodio 04
+http://62.210.104.34/movie/majed/majed/4985.mp4
+#EXTINF:0,L Onore E Il Rispetto S02 Episodio 05
+http://62.210.104.34/movie/majed/majed/4986.mp4
+#EXTINF:0,L Onore E Il Rispetto S02 Episodio 06
+http://62.210.104.34/movie/majed/majed/4987.mp4
+#EXTINF:0,L Onore E Il Rispetto S03 Episodio 01
+http://62.210.104.34/movie/majed/majed/4988.mp4
+#EXTINF:0,L Onore E Il Rispetto S03 Episodio 02
+http://62.210.104.34/movie/majed/majed/4989.mp4
+#EXTINF:0,L Onore E Il Rispetto S03 Episodio 03
+http://62.210.104.34/movie/majed/majed/4990.mp4
+#EXTINF:0,L Onore E Il Rispetto S03 Episodio 04
+http://62.210.104.34/movie/majed/majed/4991.mp4
+#EXTINF:0,L Onore E Il Rispetto S03 Episodio 05
+http://62.210.104.34/movie/majed/majed/4992.mp4
+#EXTINF:0,L Onore E Il Rispetto S03 Episodio 06
+http://62.210.104.34/movie/majed/majed/4993.mp4
+#EXTINF:0,L Onore E Il Rispetto S04 Episodio 01
+http://62.210.104.34/movie/majed/majed/4994.mp4
+#EXTINF:0,L Onore E Il Rispetto S04 Episodio 02
+http://62.210.104.34/movie/majed/majed/4995.mp4
+#EXTINF:0,L Onore E Il Rispetto S04 Episodio 03
+http://62.210.104.34/movie/majed/majed/4996.mp4
+#EXTINF:0,L Onore E Il Rispetto S04 Episodio 04
+http://62.210.104.34/movie/majed/majed/4997.mp4
+#EXTINF:0,L Onore E Il Rispetto S04 Episodio 05
+http://62.210.104.34/movie/majed/majed/4998.mp4
+#EXTINF:0,L Onore E Il Rispetto S04 Episodio 06
+http://62.210.104.34/movie/majed/majed/4999.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 01
+http://62.210.104.34/movie/majed/majed/5000.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 02
+http://62.210.104.34/movie/majed/majed/5001.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 03
+http://62.210.104.34/movie/majed/majed/5002.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 04
+http://62.210.104.34/movie/majed/majed/5003.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 05
+http://62.210.104.34/movie/majed/majed/5004.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 06
+http://62.210.104.34/movie/majed/majed/5005.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 07
+http://62.210.104.34/movie/majed/majed/5006.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 08
+http://62.210.104.34/movie/majed/majed/5007.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 09
+http://62.210.104.34/movie/majed/majed/5008.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 10
+http://62.210.104.34/movie/majed/majed/5009.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 11
+http://62.210.104.34/movie/majed/majed/5010.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 12
+http://62.210.104.34/movie/majed/majed/5011.mp4
+#EXTINF:0,Marvels Daredevil S01 Episodio 13
+http://62.210.104.34/movie/majed/majed/5012.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 01
+http://62.210.104.34/movie/majed/majed/5013.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 02
+http://62.210.104.34/movie/majed/majed/5014.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 03
+http://62.210.104.34/movie/majed/majed/5015.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 04
+http://62.210.104.34/movie/majed/majed/5016.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 05
+http://62.210.104.34/movie/majed/majed/5017.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 06
+http://62.210.104.34/movie/majed/majed/5018.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 07
+http://62.210.104.34/movie/majed/majed/5019.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 08
+http://62.210.104.34/movie/majed/majed/5020.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 09
+http://62.210.104.34/movie/majed/majed/5021.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 10
+http://62.210.104.34/movie/majed/majed/5022.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 11
+http://62.210.104.34/movie/majed/majed/5023.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 12
+http://62.210.104.34/movie/majed/majed/5024.mp4
+#EXTINF:0,Marvels Daredevil S02 Episodio 13
+http://62.210.104.34/movie/majed/majed/5025.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 01
+http://62.210.104.34/movie/majed/majed/5026.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 02
+http://62.210.104.34/movie/majed/majed/5027.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 03
+http://62.210.104.34/movie/majed/majed/5028.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 04
+http://62.210.104.34/movie/majed/majed/5029.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 05
+http://62.210.104.34/movie/majed/majed/5030.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 06
+http://62.210.104.34/movie/majed/majed/5031.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 07
+http://62.210.104.34/movie/majed/majed/5032.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 08
+http://62.210.104.34/movie/majed/majed/5033.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 09
+http://62.210.104.34/movie/majed/majed/5034.mp4
+#EXTINF:0,Mr Robot Season 1 Episode 10
+http://62.210.104.34/movie/majed/majed/5035.mp4
+#EXTINF:0,Narcos S01 Episodio 01
+http://62.210.104.34/movie/majed/majed/5036.mp4
+#EXTINF:0,Narcos S01 Episodio 02
+http://62.210.104.34/movie/majed/majed/5037.mp4
+#EXTINF:0,Narcos S01 Episodio 03
+http://62.210.104.34/movie/majed/majed/5038.mp4
+#EXTINF:0,Narcos S01 Episodio 04
+http://62.210.104.34/movie/majed/majed/5039.mp4
+#EXTINF:0,Narcos S01 Episodio 05
+http://62.210.104.34/movie/majed/majed/5040.mp4
+#EXTINF:0,Narcos S01 Episodio 06
+http://62.210.104.34/movie/majed/majed/5041.mp4
+#EXTINF:0,Narcos S01 Episodio 07
+http://62.210.104.34/movie/majed/majed/5042.mp4
+#EXTINF:0,Narcos S01 Episodio 08
+http://62.210.104.34/movie/majed/majed/5043.mp4
+#EXTINF:0,Narcos S01 Episodio 09
+http://62.210.104.34/movie/majed/majed/5044.mp4
+#EXTINF:0,Narcos S01 Episodio 10
+http://62.210.104.34/movie/majed/majed/5045.mp4
+#EXTINF:0,Prison Break S01 Episodio 01
+http://62.210.104.34/movie/majed/majed/5046.mp4
+#EXTINF:0,Prison Break S01 Episodio 02
+http://62.210.104.34/movie/majed/majed/5047.mp4
+#EXTINF:0,Prison Break S01 Episodio 03
+http://62.210.104.34/movie/majed/majed/5048.mp4
+#EXTINF:0,Prison Break S01 Episodio 04
+http://62.210.104.34/movie/majed/majed/5049.mp4
+#EXTINF:0,Prison Break S01 Episodio 05
+http://62.210.104.34/movie/majed/majed/5050.mp4
+#EXTINF:0,Prison Break S01 Episodio 06
+http://62.210.104.34/movie/majed/majed/5051.mp4
+#EXTINF:0,Prison Break S01 Episodio 07
+http://62.210.104.34/movie/majed/majed/5052.mp4
+#EXTINF:0,Prison Break S01 Episodio 08
+http://62.210.104.34/movie/majed/majed/5053.mp4
+#EXTINF:0,Prison Break S01 Episodio 09
+http://62.210.104.34/movie/majed/majed/5054.mp4
+#EXTINF:0,Prison Break S01 Episodio 10
+http://62.210.104.34/movie/majed/majed/5055.mp4
+#EXTINF:0,Prison Break S01 Episodio 11
+http://62.210.104.34/movie/majed/majed/5056.mp4
+#EXTINF:0,Prison Break S01 Episodio 12
+http://62.210.104.34/movie/majed/majed/5057.mp4
+#EXTINF:0,Prison Break S01 Episodio 13
+http://62.210.104.34/movie/majed/majed/5058.mp4
+#EXTINF:0,Prison Break S01 Episodio 14
+http://62.210.104.34/movie/majed/majed/5059.mp4
+#EXTINF:0,Prison Break S01 Episodio 15
+http://62.210.104.34/movie/majed/majed/5060.mp4
+#EXTINF:0,Prison Break S01 Episodio 16
+http://62.210.104.34/movie/majed/majed/5061.mp4
+#EXTINF:0,Prison Break S01 Episodio 17
+http://62.210.104.34/movie/majed/majed/5062.mp4
+#EXTINF:0,Prison Break S01 Episodio 18
+http://62.210.104.34/movie/majed/majed/5063.mp4
+#EXTINF:0,Prison Break S01 Episodio 19
+http://62.210.104.34/movie/majed/majed/5064.mp4
+#EXTINF:0,Prison Break S01 Episodio 20
+http://62.210.104.34/movie/majed/majed/5065.mp4
+#EXTINF:0,Prison Break S01 Episodio 21
+http://62.210.104.34/movie/majed/majed/5066.mp4
+#EXTINF:0,Prison Break S01 Episodio 22
+http://62.210.104.34/movie/majed/majed/5067.mp4
+#EXTINF:0,Prison Break S02 Episodio 01
+http://62.210.104.34/movie/majed/majed/5068.mp4
+#EXTINF:0,Prison Break S02 Episodio 02
+http://62.210.104.34/movie/majed/majed/5069.mp4
+#EXTINF:0,Prison Break S02 Episodio 03
+http://62.210.104.34/movie/majed/majed/5070.mp4
+#EXTINF:0,Prison Break S02 Episodio 04
+http://62.210.104.34/movie/majed/majed/5071.mp4
+#EXTINF:0,Prison Break S02 Episodio 05
+http://62.210.104.34/movie/majed/majed/5072.mp4
+#EXTINF:0,Prison Break S02 Episodio 06
+http://62.210.104.34/movie/majed/majed/5073.mp4
+#EXTINF:0,Prison Break S02 Episodio 07
+http://62.210.104.34/movie/majed/majed/5074.mp4
+#EXTINF:0,Prison Break S02 Episodio 08
+http://62.210.104.34/movie/majed/majed/5075.mp4
+#EXTINF:0,Prison Break S02 Episodio 09
+http://62.210.104.34/movie/majed/majed/5076.mp4
+#EXTINF:0,Prison Break S02 Episodio 10
+http://62.210.104.34/movie/majed/majed/5077.mp4
+#EXTINF:0,Prison Break S02 Episodio 11
+http://62.210.104.34/movie/majed/majed/5078.mp4
+#EXTINF:0,Prison Break S02 Episodio 12
+http://62.210.104.34/movie/majed/majed/5079.mp4
+#EXTINF:0,Prison Break S02 Episodio 13
+http://62.210.104.34/movie/majed/majed/5080.mp4
+#EXTINF:0,Prison Break S02 Episodio 14
+http://62.210.104.34/movie/majed/majed/5081.mp4
+#EXTINF:0,Prison Break S02 Episodio 15
+http://62.210.104.34/movie/majed/majed/5082.mp4
+#EXTINF:0,Prison Break S02 Episodio 16
+http://62.210.104.34/movie/majed/majed/5083.mp4
+#EXTINF:0,Prison Break S02 Episodio 17
+http://62.210.104.34/movie/majed/majed/5084.mp4
+#EXTINF:0,Prison Break S02 Episodio 18
+http://62.210.104.34/movie/majed/majed/5085.mp4
+#EXTINF:0,Prison Break S02 Episodio 19
+http://62.210.104.34/movie/majed/majed/5086.mp4
+#EXTINF:0,Prison Break S02 Episodio 20
+http://62.210.104.34/movie/majed/majed/5087.mp4
+#EXTINF:0,Prison Break S02 Episodio 21
+http://62.210.104.34/movie/majed/majed/5088.mp4
+#EXTINF:0,Prison Break S02 Episodio 22
+http://62.210.104.34/movie/majed/majed/5089.mp4
+#EXTINF:0,Prison Break S03 Episodio 01
+http://62.210.104.34/movie/majed/majed/5090.mp4
+#EXTINF:0,Prison Break S03 Episodio 02
+http://62.210.104.34/movie/majed/majed/5091.mp4
+#EXTINF:0,Prison Break S03 Episodio 03
+http://62.210.104.34/movie/majed/majed/5092.mp4
+#EXTINF:0,Prison Break S03 Episodio 04
+http://62.210.104.34/movie/majed/majed/5093.mp4
+#EXTINF:0,Prison Break S03 Episodio 05
+http://62.210.104.34/movie/majed/majed/5094.mp4
+#EXTINF:0,Prison Break S03 Episodio 06
+http://62.210.104.34/movie/majed/majed/5095.mp4
+#EXTINF:0,Prison Break S03 Episodio 07
+http://62.210.104.34/movie/majed/majed/5096.mp4
+#EXTINF:0,Prison Break S03 Episodio 08
+http://62.210.104.34/movie/majed/majed/5097.mp4
+#EXTINF:0,Prison Break S03 Episodio 09
+http://62.210.104.34/movie/majed/majed/5098.mp4
+#EXTINF:0,Prison Break S03 Episodio 10
+http://62.210.104.34/movie/majed/majed/5099.mp4
+#EXTINF:0,Prison Break S03 Episodio 11
+http://62.210.104.34/movie/majed/majed/5100.mp4
+#EXTINF:0,Prison Break S03 Episodio 12
+http://62.210.104.34/movie/majed/majed/5101.mp4
+#EXTINF:0,Prison Break S03 Episodio 13
+http://62.210.104.34/movie/majed/majed/5102.mp4
+#EXTINF:0,Prison Break S04 Episodio 01
+http://62.210.104.34/movie/majed/majed/5103.mp4
+#EXTINF:0,Prison Break S04 Episodio 02
+http://62.210.104.34/movie/majed/majed/5104.mp4
+#EXTINF:0,Prison Break S04 Episodio 03
+http://62.210.104.34/movie/majed/majed/5105.mp4
+#EXTINF:0,Prison Break S04 Episodio 04
+http://62.210.104.34/movie/majed/majed/5106.mp4
+#EXTINF:0,Prison Break S04 Episodio 05
+http://62.210.104.34/movie/majed/majed/5107.mp4
+#EXTINF:0,Prison Break S04 Episodio 06
+http://62.210.104.34/movie/majed/majed/5108.mp4
+#EXTINF:0,Prison Break S04 Episodio 07
+http://62.210.104.34/movie/majed/majed/5109.mp4
+#EXTINF:0,Prison Break S04 Episodio 08
+http://62.210.104.34/movie/majed/majed/5110.mp4
+#EXTINF:0,Prison Break S04 Episodio 09
+http://62.210.104.34/movie/majed/majed/5111.mp4
+#EXTINF:0,Prison Break S04 Episodio 10
+http://62.210.104.34/movie/majed/majed/5112.mp4
+#EXTINF:0,Prison Break S04 Episodio 11
+http://62.210.104.34/movie/majed/majed/5113.mp4
+#EXTINF:0,Prison Break S04 Episodio 12
+http://62.210.104.34/movie/majed/majed/5114.mp4
+#EXTINF:0,Prison Break S04 Episodio 13
+http://62.210.104.34/movie/majed/majed/5115.mp4
+#EXTINF:0,Prison Break S04 Episodio 14
+http://62.210.104.34/movie/majed/majed/5116.mp4
+#EXTINF:0,Prison Break S04 Episodio 15
+http://62.210.104.34/movie/majed/majed/5117.mp4
+#EXTINF:0,Prison Break S04 Episodio 16
+http://62.210.104.34/movie/majed/majed/5118.mp4
+#EXTINF:0,Prison Break S04 Episodio 17
+http://62.210.104.34/movie/majed/majed/5119.mp4
+#EXTINF:0,Prison Break S04 Episodio 18
+http://62.210.104.34/movie/majed/majed/5120.mp4
+#EXTINF:0,Prison Break S04 Episodio 19
+http://62.210.104.34/movie/majed/majed/5121.mp4
+#EXTINF:0,Prison Break S04 Episodio 20
+http://62.210.104.34/movie/majed/majed/5122.mp4
+#EXTINF:0,Prison Break S04 Episodio 21
+http://62.210.104.34/movie/majed/majed/5123.mp4
+#EXTINF:0,Prison Break S04 Episodio 22
+http://62.210.104.34/movie/majed/majed/5124.mp4
+#EXTINF:0,Prison Break S04 Episodio 23
+http://62.210.104.34/movie/majed/majed/5125.mp4
