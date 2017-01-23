@@ -1,507 +1,415 @@
-#EXTM3U
-#EXTINF:0,Rai1 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/38.ts
-#EXTINF:0,Rai2 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/37.ts
-#EXTINF:0,Rai3 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/36.ts
-#EXTINF:0,Rete 4 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/34.ts
-#EXTINF:0,Canale 5 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/93.ts
-#EXTINF:0,Italia 1 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/78.ts
-#EXTINF:0,La7
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/201.ts
-#EXTINF:0,RSI LA 1 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/195.ts
-#EXTINF:0,RSI LA 2 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/196.ts
-#EXTINF:0,La5
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/77.ts
-#EXTINF:0,Iris
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/79.ts
-#EXTINF:0,Rai 4
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/233.ts
-#EXTINF:0,Rai 5
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/230.ts
-#EXTINF:0,Rai Sport 1 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/222.ts
-#EXTINF:0,Videolina
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/214.ts
-#EXTINF:0,---- MEDIASET PREMIUM ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/105.ts
-#EXTINF:0,Premium Cinema HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/58.ts
-#EXTINF:0,Premium Cinema 2 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/61.ts
-#EXTINF:0,Premium Cinema +24
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/247.ts
-#EXTINF:0,Premium Cinema 2 +24
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/213.ts
-#EXTINF:0,Premium Cinema Energy HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/50.ts
-#EXTINF:0,Premium Emotion
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/51.ts
-#EXTINF:0,Premium Action HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/212.ts
-#EXTINF:0,Premium Action +24
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/210.ts
-#EXTINF:0,Premium Comedy
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/57.ts
-#EXTINF:0,Premium Joi
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/43.ts
-#EXTINF:0,Premium Stories
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/42.ts
-#EXTINF:0,Premium Studio Universal
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/40.ts
-#EXTINF:0,Premium TopCrime
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/39.ts
-#EXTINF:0,Premium Investigation Discovery
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/55.ts
-#EXTINF:0,Premium Crime HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/211.ts
-#EXTINF:0,Premium Italiadue
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/44.ts
-#EXTINF:0,Premium Fine Living
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/46.ts
-#EXTINF:0,Premium Extra
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/47.ts
-#EXTINF:0,Premium Sport Italia
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/41.ts
-#EXTINF:0,Premium Eurosport
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/49.ts
-#EXTINF:0,Premium Eurosport 2
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/48.ts
-#EXTINF:0,Premium Sport HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/62.ts
-#EXTINF:0,Premium Sport 2 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/63.ts
-#EXTINF:0,Premium Calcio HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1434.ts
-#EXTINF:0,Premium Calcio
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/70.ts
-#EXTINF:0,Premium Calcio 1
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/69.ts
-#EXTINF:0,Premium Calcio 2
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/68.ts
-#EXTINF:0,Premium Calcio 3
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/67.ts
-#EXTINF:0,Premium Calcio 4
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/94.ts
-#EXTINF:0,Premium Calcio 5
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/66.ts
-#EXTINF:0,Premium Calcio 6
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/65.ts
-#EXTINF:0,Premium Calcio 7
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/64.ts
-#EXTINF:0,---- SKY INTRATTENIMENTO ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/99.ts
-#EXTINF:0,Sky Uno Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1459.ts
-#EXTINF:0,Sky Uno HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1.ts
-#EXTINF:0,SKY Uno SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/257.ts
-#EXTINF:0,Sky Atlantic HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/32.ts
-#EXTINF:0,Sky Atlantic SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/261.ts
-#EXTINF:0,Fox Life HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/83.ts
-#EXTINF:0,Fox Life SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/262.ts
-#EXTINF:0,Fox HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/84.ts
-#EXTINF:0,Fox SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/263.ts
-#EXTINF:0,Fox Animation HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/87.ts
-#EXTINF:0,Fox Animation SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/312.ts
-#EXTINF:0,Fox Comedy HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/86.ts
-#EXTINF:0,Fox Comedy SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/313.ts
-#EXTINF:0,Fox Crime HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/85.ts
-#EXTINF:0,Fox Crime SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/264.ts
-#EXTINF:0,Crime Inv HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/91.ts
-#EXTINF:0,Crime Inv SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/265.ts
-#EXTINF:0,MTV HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/207.ts
-#EXTINF:0,AXN HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/95.ts
-#EXTINF:0,AXN SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/266.ts
-#EXTINF:0,AXN Sci-Fi
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/282.ts
-#EXTINF:0,Cielo HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/92.ts
-#EXTINF:0,Realtime HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/35.ts
-#EXTINF:0,DMAX HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/202.ts
-#EXTINF:0,DMAX SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/267.ts
-#EXTINF:0,Classica HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/203.ts
-#EXTINF:0,---- SKY CINEMA ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/98.ts
-#EXTINF:0,Sky 3D
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/231.ts
-#EXTINF:0,Sky Cinema 1 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1443.ts
-#EXTINF:0,Sky Cinema 1 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/22.ts
-#EXTINF:0,Sky Cinema 1 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/268.ts
-#EXTINF:0,Sky Cinema +24 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1445.ts
-#EXTINF:0,Sky Cinema +24 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/23.ts
-#EXTINF:0,Sky Cinema +24 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/269.ts
-#EXTINF:0,Sky Cinema Hits Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1446.ts
-#EXTINF:0,Sky Cinema Hits HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/17.ts
-#EXTINF:0,Sky Cinema Hits SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/270.ts
-#EXTINF:0,Sky Cinema Family Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1453.ts
-#EXTINF:0,Sky Cinema Family HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/18.ts
-#EXTINF:0,Sky Cinema Family SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/271.ts
-#EXTINF:0,Sky Cinema Passion Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1452.ts
-#EXTINF:0,Sky Cinema Passion HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/15.ts
-#EXTINF:0,Sky Cinema Passion SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/272.ts
-#EXTINF:0,Sky Cinema Comedy Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1458.ts
-#EXTINF:0,Sky Cinema Comedy HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/20.ts
-#EXTINF:0,Sky Cinema Comedy SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/273.ts
-#EXTINF:0,Sky Cinema Max Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1444.ts
-#EXTINF:0,Sky Cinema Max HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/16.ts
-#EXTINF:0,Sky Cinema Max SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/274.ts
-#EXTINF:0,Sky Cinema Cult Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1447.ts
-#EXTINF:0,Sky Cinema Cult HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/19.ts
-#EXTINF:0,Sky Cinema Cult SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/275.ts
-#EXTINF:0,Sky Cinema Classic Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1451.ts
-#EXTINF:0,Sky Cinema Classic HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/21.ts
-#EXTINF:0,Sky Cinema Classic SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/276.ts
-#EXTINF:0,---- PRIMAFILA  ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/107.ts
-#EXTINF:0,Primafila 1 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/165.ts
-#EXTINF:0,Primafila 2
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/166.ts
-#EXTINF:0,Primafila 3 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/167.ts
-#EXTINF:0,Primafila 4
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/168.ts
-#EXTINF:0,Primafila 5 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/169.ts
-#EXTINF:0,Primafila 6
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/170.ts
-#EXTINF:0,Primafila 7 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/171.ts
-#EXTINF:0,Primafila 8
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/172.ts
-#EXTINF:0,Primafila 9 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/173.ts
-#EXTINF:0,Primafila 10
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/174.ts
-#EXTINF:0,Primafila 11 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/175.ts
-#EXTINF:0,Primafila 12
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/176.ts
-#EXTINF:0,Primafila 13 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/177.ts
-#EXTINF:0,Primafila 14
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/178.ts
-#EXTINF:0,Primafila 15
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/179.ts
-#EXTINF:0,Primafila 16
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/180.ts
-#EXTINF:0,Primafila 17
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/181.ts
-#EXTINF:0,Primafila 18
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/182.ts
-#EXTINF:0,Primafila 19
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/183.ts
-#EXTINF:0,Primafila 1 HD On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/163.mkv
-#EXTINF:0,Primafila 2 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/154.avi
-#EXTINF:0,Primafila 3 HD On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/155.mkv
-#EXTINF:0,Primafila 4 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/156.avi
-#EXTINF:0,Primafila 5 HD On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/157.mkv
-#EXTINF:0,Primafila 6 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/158.avi
-#EXTINF:0,Primafila 7 HD On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/159.mkv
-#EXTINF:0,Primafila 8 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/160.avi
-#EXTINF:0,Primafila 9 HD On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/161.mkv
-#EXTINF:0,Primafila 10 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/144.avi
-#EXTINF:0,Primafila 11 HD On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/145.mkv
-#EXTINF:0,Primafila 12 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/146.avi
-#EXTINF:0,Primafila 13 HD On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/147.mkv
-#EXTINF:0,Primafila 14 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/148.avi
-#EXTINF:0,Primafila 15 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/149.avi
-#EXTINF:0,Primafila 16 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/150.mp4
-#EXTINF:0,Primafila 17 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/151.mp4
-#EXTINF:0,Primafila 18 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/152.mp4
-#EXTINF:0,Primafila 19 On_Demand
-http://cdnlive001.dp.ua:8080/movie/mwVSvGlJeu/O7g3XmUq6u/153.avi
-#EXTINF:0,---- SKY CULTURA ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/101.ts
-#EXTINF:0,Sky Arte Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1448.ts
-#EXTINF:0,Sky Arte HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/33.ts
-#EXTINF:0,Sky Arte SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/314.ts
-#EXTINF:0,Discovery Channel HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/90.ts
-#EXTINF:0,Discovery Channel SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/315.ts
-#EXTINF:0,National Geo HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/76.ts
-#EXTINF:0,National Geo SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/316.ts
-#EXTINF:0,Discovery Sci Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1460.ts
-#EXTINF:0,Discovery Sci HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/89.ts
-#EXTINF:0,Discovery Sci SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/317.ts
-#EXTINF:0,Discovery Travel & Living Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1461.ts
-#EXTINF:0,Discovery Travel & Living HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/204.ts
-#EXTINF:0,Discovery Travel & Living SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/318.ts
-#EXTINF:0,History HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/80.ts
-#EXTINF:0,History SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/319.ts
-#EXTINF:0,National Wild Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1462.ts
-#EXTINF:0,National Wild HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/74.ts
-#EXTINF:0,National Wild SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/320.ts
-#EXTINF:0,National Geo People Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1463.ts
-#EXTINF:0,National Geo People HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/75.ts
-#EXTINF:0,National Geo People SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/321.ts
-#EXTINF:0,Gambero Rosso HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/11.ts
-#EXTINF:0,Gambero Rosso SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/322.ts
-#EXTINF:0,---- SKY SPORT ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/100.ts
-#EXTINF:0,Sky Sport 24 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1457.ts
-#EXTINF:0,Sky Sport 24 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/8.ts
-#EXTINF:0,Sky Sport 24 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/277.ts
-#EXTINF:0,Sky Sport 1 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1449.ts
-#EXTINF:0,Sky Sport 1 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/10.ts
-#EXTINF:0,Sky Sport 1 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/278.ts
-#EXTINF:0,Sky Sport 2 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1454.ts
-#EXTINF:0,Sky Sport 2 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/9.ts
-#EXTINF:0,Sky Sport 2 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/279.ts
-#EXTINF:0,Sky Sport 3 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1455.ts
-#EXTINF:0,Sky Sport 3 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/7.ts
-#EXTINF:0,Sky Sport 3 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/280.ts
-#EXTINF:0,Sky Sport Mix HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1470.ts
-#EXTINF:0,Sky Sport Plus HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/4.ts
-#EXTINF:0,Sky Sport Plus SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/323.ts
-#EXTINF:0,Fox Sports HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/12.ts
-#EXTINF:0,Sky Sport F1 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1450.ts
-#EXTINF:0,Sky Sport F1 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/6.ts
-#EXTINF:0,Sky Sport F1 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/258.ts
-#EXTINF:0,Sky Sport Moto GP Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1456.ts
-#EXTINF:0,Sky Sport Moto GP
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/5.ts
-#EXTINF:0,Sky Sport Moto GP SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/281.ts
-#EXTINF:0,Sky Eurosport HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/13.ts
-#EXTINF:0,Sky Eurosport 2 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/14.ts
-#EXTINF:0,SuperTennis HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/208.ts
-#EXTINF:0,Bike Channel
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/325.ts
-#EXTINF:0,Sky Supercalcio HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/3.ts
-#EXTINF:0,Sky Calcio 1 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/31.ts
-#EXTINF:0,Sky Calcio 2 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/30.ts
-#EXTINF:0,Sky Calcio 3 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/29.ts
-#EXTINF:0,Sky Calcio 4 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/28.ts
-#EXTINF:0,Sky Calcio 5 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/27.ts
-#EXTINF:0,Sky Calcio 6 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/26.ts
-#EXTINF:0,Sky Calcio 7 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/25.ts
-#EXTINF:0,Sky Calcio 8 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/24.ts
-#EXTINF:0,Sky Calcio 1 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1435.ts
-#EXTINF:0,Sky Calcio 2 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1436.ts
-#EXTINF:0,Sky Calcio 3 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1437.ts
-#EXTINF:0,Sky Calcio 4 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1438.ts
-#EXTINF:0,Sky Calcio 5 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1439.ts
-#EXTINF:0,Sky Calcio 6 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1440.ts
-#EXTINF:0,Sky Calcio 7 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1441.ts
-#EXTINF:0,Sky Calcio 8 Full HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/1442.ts
-#EXTINF:0,Milan Channel
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/235.ts
-#EXTINF:0,Juventus TV
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/237.ts
-#EXTINF:0,Inter Channel
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/238.ts
-#EXTINF:0,Roma TV
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/232.ts
-#EXTINF:0,Lazio Style Channel
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/236.ts
-#EXTINF:0,Caccia e Pesca
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/239.ts
-#EXTINF:0,Pesca e Caccia
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/234.ts
-#EXTINF:0,Gazzetta TV
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/259.ts
-#EXTINF:0,---- SKY CALCIO SD ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/311.ts
-#EXTINF:0,Sky Supercalcio SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/324.ts
-#EXTINF:0,Sky Calcio 1 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/303.ts
-#EXTINF:0,Sky Calcio 2 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/304.ts
-#EXTINF:0,Sky Calcio 3 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/305.ts
-#EXTINF:0,Sky Calcio 4 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/306.ts
-#EXTINF:0,Sky Calcio 5 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/307.ts
-#EXTINF:0,Sky Calcio 6 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/308.ts
-#EXTINF:0,Sky Calcio 7 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/309.ts
-#EXTINF:0,Sky Calcio 8 SD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/310.ts
-#EXTINF:0,---- NEWS ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/103.ts
-#EXTINF:0,Sky Tg 24 HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/2.ts
-#EXTINF:0,Rai News 24
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/225.ts
-#EXTINF:0,Tgcom24
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/96.ts
-#EXTINF:0,---- MUSICA ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/227.ts
-#EXTINF:0,RTL 102.5
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/216.ts
-#EXTINF:0,Radio Italia TV
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/218.ts
-#EXTINF:0,Radio 105 TV
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/228.ts
-#EXTINF:0,Radio Montecarlo TV
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/217.ts
-#EXTINF:0,Virgin Radio TV
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/215.ts
-#EXTINF:0,Vevo TV 1
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/241.ts
-#EXTINF:0,Vevo TV 2
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/242.ts
-#EXTINF:0,Vevo TV 3
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/243.ts
-#EXTINF:0,---- Ragazzi - BAMBINI ----
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/102.ts
-#EXTINF:0,Cartoon Network
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/60.ts
-#EXTINF:0,Nickelodeon
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/249.ts
-#EXTINF:0,Boomerang
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/251.ts
-#EXTINF:0,Baby TV
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/252.ts
-#EXTINF:0,DisneyChannel HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/205.ts
-#EXTINF:0,Disney XD HD
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/206.ts
-#EXTINF:0,Premium Boing
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/71.ts
-#EXTINF:0,Premium Cartoonito
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/59.ts
-#EXTINF:0,Rai YoYo
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/219.ts
-#EXTINF:0,Rai Gulp
-http://cdnlive001.dp.ua:8080/live/mwVSvGlJeu/O7g3XmUq6u/226.ts
+ EXTM3U
+#EXTINF:-1,Rai 1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/16852.ts
+#EXTINF:-1,Rai 2 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6728.ts
+#EXTINF:-1,Rai 3 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6727.ts
+#EXTINF:-1,Rete 4 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6726.ts
+#EXTINF:-1,Canale 5 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6725.ts
+#EXTINF:-1,Italia 1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6724.ts
+#EXTINF:-1,La7 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6723.ts
+#EXTINF:-1,LA7d HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22141.ts
+#EXTINF:-1,RSI LA 1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6714.ts
+#EXTINF:-1,RSI LA 2 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/11841.ts
+#EXTINF:-1,==== INTRATTENIMENTO ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6803.ts
+#EXTINF:-1,Sky Uno HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6816.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15999.ts
+#EXTINF:-1,Dmax HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/11621.ts
+#EXTINF:-1,Fox Life HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6811.ts
+#EXTINF:-1,Fox HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6813.ts
+#EXTINF:-1,Fox +1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6812.ts
+#EXTINF:-1,Fox Crime HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6822.ts
+#EXTINF:-1,Fox Crime  +1
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/14881.ts
+#EXTINF:-1,Top Crime
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6820.ts
+#EXTINF:-1,LEI
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6806.ts
+#EXTINF:-1,Discovery Investigation
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/21614.ts
+#EXTINF:-1,Crime Investigation HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6821.ts
+#EXTINF:-1,Comedy Central
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/11827.ts
+#EXTINF:-1,Comedy Central +1
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22102.ts
+#EXTINF:-1,AXN Sci-Fy
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/7827.ts
+#EXTINF:-1,Fox Comedy HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6814.ts
+#EXTINF:-1,Fox Animation HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6809.ts
+#EXTINF:-1,Sky Atlantic HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6819.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/11839.ts
+#EXTINF:-1,Paramount Channel
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/12270.ts
+#EXTINF:-1,Real Time HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6808.ts
+#EXTINF:-1,Class Horse TV
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/16943.ts
+#EXTINF:-1,Laeffe HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6895.ts
+#EXTINF:-1,AXN HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6818.ts
+#EXTINF:-1,Rai News 24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6825.ts
+#EXTINF:-1,La 5
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/12269.ts
+#EXTINF:-1,GIALLO
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6804.ts
+#EXTINF:-1,Poker Italia 24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/11622.ts
+#EXTINF:-1,Classica
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22107.ts
+#EXTINF:-1,==== CULTURA ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6826.ts
+#EXTINF:-1,National Geographic  HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6844.ts
+#EXTINF:-1,National Geographic +1
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22106.ts
+#EXTINF:-1,NatGeo People HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6835.ts
+#EXTINF:-1,NatGeo Wild HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6834.ts
+#EXTINF:-1,NatGeo Wild +1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15729.ts
+#EXTINF:-1,Animal Planet
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/9330.ts
+#EXTINF:-1,Discovery Channel HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6833.ts
+#EXTINF:-1,Discovery Channel +1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15730.ts
+#EXTINF:-1,Discovery Sci HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6832.ts
+#EXTINF:-1,Discovery Travel & Living HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6841.ts
+#EXTINF:-1,History HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6843.ts
+#EXTINF:-1,History +1
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22103.ts
+#EXTINF:-1,Sky Arte HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6842.ts
+#EXTINF:-1,Focus
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6845.ts
+#EXTINF:-1,Alice
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6840.ts
+#EXTINF:-1,Gambero Rosso HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6839.ts
+#EXTINF:-1,Marco Polo
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6837.ts
+#EXTINF:-1,Cielo HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6836.ts
+#EXTINF:-1,CACCIA e Pesca
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6937.ts
+#EXTINF:-1,PESCA e Caccia
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6938.ts
+#EXTINF:-1,==== SKY SPORT HD ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6910.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6917.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/14973.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6914.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6913.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/7041.ts
+#EXTINF:-1,Sky Fox Sports HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6916.ts
+#EXTINF:-1,BIKE Channel HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/12083.ts
+#EXTINF:-1,Super Tennis HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6912.ts
+#EXTINF:-1,Eurosport 1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6930.ts
+#EXTINF:-1,Eurosport 2 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6929.ts
+#EXTINF:-1,EuroNews
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22142.ts
+#EXTINF:-1,WWE - MAIN EVENT
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22145.ts
+#EXTINF:-1,WWE - RAW
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22143.ts
+#EXTINF:-1,WWE - SMACKDOWN
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22144.ts
+#EXTINF:-1,WWE PPV  -  One Night Only
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22179.ts
+#EXTINF:-1,==== SKY F1-MOTO GP HD ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/21185.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6940.ts
+#EXTINF:-1,Sky Moto GP HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6941.ts
+#EXTINF:-1,==== SKY CALCIO HD ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6897.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6918.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/8799.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/8797.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/8801.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/8800.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/8796.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/8795.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/8794.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/8793.ts
+#EXTINF:-1,Top Calcio
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22487.ts
+#EXTINF:-1,Juventus Channel
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6932.ts
+#EXTINF:-1,Milan Channel
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6934.ts
+#EXTINF:-1,Inter Channel
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6933.ts
+#EXTINF:-1,Roma Channel
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/7964.ts
+#EXTINF:-1,Lazio channel
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/11620.ts
+#EXTINF:-1,==== NOTIZIARI ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15205.ts
+#EXTINF:-1,Sky TG 24 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6732.ts
+#EXTINF:-1,TgCom24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6731.ts
+#EXTINF:-1,====  PREMIUM CINEMA ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6879.ts
+#EXTINF:-1,Premium Cinema HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6888.ts
+#EXTINF:-1,Premium Cinema SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15108.ts
+#EXTINF:-1,Premium Cinema +24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6893.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6891.ts
+#EXTINF:-1,Premium Cinema 2 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15109.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6892.ts
+#EXTINF:-1,Premium Emotion
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6883.ts
+#EXTINF:-1,Premium Cinema Energy HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/21249.ts
+#EXTINF:-1,Premium Cinema Energy +24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6889.ts
+#EXTINF:-1,Premium Cinema Comedy
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6890.ts
+#EXTINF:-1,Studio Universal
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6700.ts
+#EXTINF:-1,Iris
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6712.ts
+#EXTINF:-1,Rai Movie
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6710.ts
+#EXTINF:-1,==== GENERALISTI ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6936.ts
+#EXTINF:-1,Premium Action HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6896.ts
+#EXTINF:-1,Premium Action +24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22236.ts
+#EXTINF:-1,Premium Crime HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6886.ts
+#EXTINF:-1,Premium Crime  +24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6887.ts
+#EXTINF:-1,Premium Joi
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6881.ts
+#EXTINF:-1,Premium Joi +24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/21248.ts
+#EXTINF:-1,Premium Stories
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6880.ts
+#EXTINF:-1,Premium Stories +24
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/14974.ts
+#EXTINF:-1,Rai Premium
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6711.ts
+#EXTINF:-1,Rai 4 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6708.ts
+#EXTINF:-1,Rai 5
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6695.ts
+#EXTINF:-1,Sportitalia
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6694.ts
+#EXTINF:-1,Mediaset Italia 2
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6715.ts
+#EXTINF:-1,Mediaset Extra
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/13954.ts
+#EXTINF:-1,==== Premium Sport-Calcio ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/19247.ts
+#EXTINF:-1,Premium Sport HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/7208.ts
+#EXTINF:-1,Premium Sport SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15338.ts
+#EXTINF:-1,Premium Sport 2 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/11618.ts
+#EXTINF:-1,Premium Sport 2
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/19246.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6927.ts
+#EXTINF:-1,Premium Calcio 1
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6928.ts
+#EXTINF:-1,Premium Calcio 2
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6925.ts
+#EXTINF:-1,Premium Calcio 3
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6924.ts
+#EXTINF:-1,Premium Calcio 4
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6923.ts
+#EXTINF:-1,Premium Calcio 5
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6922.ts
+#EXTINF:-1,Premium Calcio 6
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6921.ts
+#EXTINF:-1,Rai Sport 1
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6909.ts
+#EXTINF:-1,Rai Sport 2
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6908.ts
+#EXTINF:-1,==== CARTONI ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6942.ts
+#EXTINF:-1,Dark_Paw Patrol
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22259.ts
+#EXTINF:-1,Dark_Pippi:Calze.Lunghe
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/22235.ts
+#EXTINF:-1,Disney Channel HD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/10598.ts
+#EXTINF:-1,Disney Channel +1
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/16121.ts
+#EXTINF:-1,Cartoon Network
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6947.ts
+#EXTINF:-1,Boomerang
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/16212.ts
+#EXTINF:-1,Nick Junior
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/16213.ts
+#EXTINF:-1,Cartoonito
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6946.ts
+#EXTINF:-1,Disney Junior
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/7206.ts
+#EXTINF:-1,Nickelodeon
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18231.ts
+#EXTINF:-1,Easy Baby
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18228.ts
+#EXTINF:-1,Disney XD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6945.ts
+#EXTINF:-1,Dea kids
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/16115.ts
+#EXTINF:-1,Rai Gulp
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6950.ts
+#EXTINF:-1,Rai yoyo
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6943.ts
+#EXTINF:-1,Boing
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6948.ts
+#EXTINF:-1,K2
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6944.ts
+#EXTINF:-1,MAN-GA
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/7909.ts
+#EXTINF:-1,Frisbee
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6949.ts
+#EXTINF:-1,Super!
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/6699.ts
+#EXTINF:-1,Baby TV
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/12272.ts
+#EXTINF:-1,==== RAI-MEDIASET ADSL LENTA ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18152.ts
+#EXTINF:-1,Rai 1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18150.ts
+#EXTINF:-1,Rai 2 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18151.ts
+#EXTINF:-1,Rai 3 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18153.ts
+#EXTINF:-1,Rete 4 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18154.ts
+#EXTINF:-1,Canale 5 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18155.ts
+#EXTINF:-1,Italia 1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18156.ts
+#EXTINF:-1,RSI LA 1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18158.ts
+#EXTINF:-1,RSI LA 2 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18159.ts
+#EXTINF:-1,La7 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18157.ts
+#EXTINF:-1,==== SKY CINEMA ADSL LENTA ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15204.ts
+#EXTINF:-1,Sky Cinema 1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15178.ts
+#EXTINF:-1,Sky Cinema +1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15370.ts
+#EXTINF:-1,Sky Cinema Hits SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15181.ts
+#EXTINF:-1,Sky Cinema +24 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15186.ts
+#EXTINF:-1,Sky Cinema Family SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15182.ts
+#EXTINF:-1,Sky Cinema Family +1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15371.ts
+#EXTINF:-1,Sky Cinema Passion SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15179.ts
+#EXTINF:-1,Sky Cinema Comedy SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15184.ts
+#EXTINF:-1,Sky Cinema Max SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15180.ts
+#EXTINF:-1,Sky Cinema Max +1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15372.ts
+#EXTINF:-1,Sky Cinema Cult SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15183.ts
+#EXTINF:-1,Sky Cinema Classics SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15185.ts
+#EXTINF:-1,Sky 3D SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/21958.ts
+#EXTINF:-1,==== F1 E MOTO GP SD ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/19598.ts
+#EXTINF:-1,Sky Sport F1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18161.ts
+#EXTINF:-1,Sky Moto GP SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/18162.ts
+#EXTINF:-1,Sky Supercalcio SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15195.ts
+#EXTINF:-1,Sky Calcio 1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15196.ts
+#EXTINF:-1,Sky Calcio 2 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15197.ts
+#EXTINF:-1,Sky Calcio 3 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15198.ts
+#EXTINF:-1,Sky Calcio 4 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15199.ts
+#EXTINF:-1,Sky Calcio 5 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15200.ts
+#EXTINF:-1,Sky Calcio 6 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15201.ts
+#EXTINF:-1,Sky Calcio 7 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15202.ts
+#EXTINF:-1,Sky Calcio 8 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15203.ts
+#EXTINF:-1,==== SKY SPORT ADSL LENTA ====
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15206.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15188.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15189.ts
+#EXTINF:-1,Sky Sport 2 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15190.ts
+#EXTINF:-1,Sky Sport 3 SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15191.ts
+#EXTINF:-1,Sky Sport Plus SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15369.ts
+#EXTINF:-1,Fox Sport SD
+http://darklimitless.dyndns.org:19553/live/giovanni1/K7HUxpNYBY/15194.ts
