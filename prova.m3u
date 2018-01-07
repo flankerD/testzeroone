@@ -1,251 +1,1078 @@
- #EXTM3U
-#EXTINF:-1,######## Channels Italia ########
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/158.ts
-#EXTINF:-1,-=== TOP ITALIA ===-
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/165.ts
-#EXTINF:-1,RAI 1
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/1.ts
-#EXTINF:-1,RAI 2
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/2.ts
-#EXTINF:-1,RAI 3
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/3.ts
-#EXTINF:-1,Rai 4
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/162.ts
-#EXTINF:-1,IT : RAI 5
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/163.ts
-#EXTINF:-1,RAI NEWS 24
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/46.ts
-#EXTINF:-1,Rai Yoyo
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/157.ts
+#EXTINF:-1,Rai 1 Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1.ts
+#EXTINF:-1,Rai 1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9126.ts
+#EXTINF:-1,Rai 2 Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/2.ts
+#EXTINF:-1,Rai 2 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9127.ts
+#EXTINF:-1,Rai 3 Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/3.ts
+#EXTINF:-1,Rai 3 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9128.ts
 #EXTINF:-1,Rete 4 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/473.ts
-#EXTINF:-1,Italia 1 IT
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/564.ts
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4.ts
+#EXTINF:-1,Canale 5 Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/5.ts
 #EXTINF:-1,Canale 5 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/474.ts
-#EXTINF:-1,IT :Canale 7
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/263.ts
-#EXTINF:-1,IT : SKY TG24 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/49.ts
-#EXTINF:-1,La7
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/166.ts
-#EXTINF:-1,-=== SKY CINEMA ===-
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/519.ts
-#EXTINF:-1,Cinema 1 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/469.ts
-#EXTINF:-1,Sky fox Comedy HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/453.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/464.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/465.ts
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9129.ts
+#EXTINF:-1,Italia 1 Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/6.ts
+#EXTINF:-1,Italia 1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9130.ts
+#EXTINF:-1,La7 Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/12.ts
+#EXTINF:-1,RSI La1 Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9.ts
+#EXTINF:-1,RSI La2 Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/10.ts
+#EXTINF:-1,--- [ TOP ITALIA SD ] ---
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7158.ts
+#EXTINF:-1,Rai 1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7149.ts
+#EXTINF:-1,Rai 2
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7150.ts
+#EXTINF:-1,Rai 3
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7151.ts
+#EXTINF:-1,Rete 4
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7152.ts
+#EXTINF:-1,Canale 5
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7153.ts
+#EXTINF:-1,Italia 1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7154.ts
+#EXTINF:-1,Rai 4
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7155.ts
+#EXTINF:-1,Rai 5
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8033.ts
+#EXTINF:-1,RSI La1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7156.ts
+#EXTINF:-1,RSI La2
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7157.ts
+#EXTINF:-1,--- [ CINEMA ] ---
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/14.ts
+#EXTINF:-1,Mosaico Sky Cinema
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8604.ts
+#EXTINF:-1,Sky Cinema Uno Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7686.ts
+#EXTINF:-1,Sky Cinema Uno HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/15.ts
+#EXTINF:-1,Sky Cinema Uno +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/16.ts
+#EXTINF:-1,Sky Cinema Uno +24 Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/17.ts
+#EXTINF:-1,Sky Cinema Uno +24 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9071.ts
+#EXTINF:-1,Sky Cinema Christmas Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8359.ts
+#EXTINF:-1,Sky Cinema Christmas HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/18.ts
+#EXTINF:-1,Sky Cinema Christmas +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4755.ts
+#EXTINF:-1,Sky Cinema Family Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8369.ts
 #EXTINF:-1,Sky Cinema Family HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/467.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/559.ts
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/19.ts
+#EXTINF:-1,Sky Cinema Family +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/417.ts
+#EXTINF:-1,Sky Cinema Passion Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8370.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/20.ts
+#EXTINF:-1,Sky Cinema Passion +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4757.ts
+#EXTINF:-1,Sky Cinema Comedy Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8360.ts
 #EXTINF:-1,Sky Cinema Comedy HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/468.ts
-#EXTINF:-1,Sky Cinema classics
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/561.ts
-#EXTINF:-1,Sky Cinema + 24 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/560.ts
-#EXTINF:-1,Cinema Hits HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/466.ts
-#EXTINF:-1,Sky Cinema 3D
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/575.ts
-#EXTINF:-1,-=== PRIMAFILA ===-
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/361.ts
-#EXTINF:-1,Primafila 1 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/362.ts
-#EXTINF:-1,Primafila 2 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/363.ts
-#EXTINF:-1,Primafila 3 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/364.ts
-#EXTINF:-1,Primafila 4 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/365.ts
-#EXTINF:-1,Primafila 5 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/366.ts
-#EXTINF:-1,Primafila 6 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/367.ts
-#EXTINF:-1,Primafila 7 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/368.ts
-#EXTINF:-1,Primafila 8 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/369.ts
-#EXTINF:-1,Primafila 9 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/370.ts
-#EXTINF:-1,Primafila 10 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/371.ts
-#EXTINF:-1,Primafila 11 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/372.ts
-#EXTINF:-1,Primafila 12 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/373.ts
-#EXTINF:-1,Primafila 13 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/374.ts
-#EXTINF:-1,Primafila 14 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/375.ts
-#EXTINF:-1,Primafila 15 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/376.ts
-#EXTINF:-1,Primafila WWE
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/786.ts
-#EXTINF:-1,-=== SPORT ===-
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/377.ts
-#EXTINF:-1,Sky Sport 1
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/378.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/379.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/380.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/394.ts
-#EXTINF:-1,Sky Super Tennis
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/384.ts
-#EXTINF:-1,Sky Sports 24 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/381.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/383.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/382.ts
-#EXTINF:-1,Fox Sports (IT)
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/420.ts
-#EXTINF:-1,Eurosport HD IT
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/562.ts
-#EXTINF:-1,Eurosport 2 HD IT
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/563.ts
-#EXTINF:-1,Super_Tennis
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/470.ts
-#EXTINF:-1,Sport Italia
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/389.ts
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/21.ts
+#EXTINF:-1,Sky Cinema Comedy +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4756.ts
+#EXTINF:-1,Sky Cinema Cult Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8373.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/22.ts
+#EXTINF:-1,Sky Cinema Cult +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4758.ts
+#EXTINF:-1,Sky Cinema Max Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8358.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/23.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/421.ts
+#EXTINF:-1,Sky Cinema Classics Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8372.ts
+#EXTINF:-1,Sky Cinema Classics HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/274.ts
+#EXTINF:-1,Sky Cinema Classics +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4759.ts
+#EXTINF:-1,Sky 3D
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/289.ts
+#EXTINF:-1,--- [ CINEMA SD ] ---
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/3810.ts
+#EXTINF:-1,Sky Cinema Uno
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1642.ts
+#EXTINF:-1,Sky Cinema Uno +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1643.ts
+#EXTINF:-1,Sky Cinema Uno +24
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1644.ts
+#EXTINF:-1,Sky Cinema Christmas
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1645.ts
+#EXTINF:-1,Sky Cinema Christmas +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8092.ts
+#EXTINF:-1,Sky Cinema Family
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1646.ts
+#EXTINF:-1,Sky Cinema Family +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1652.ts
+#EXTINF:-1,Sky Cinema Passion
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1647.ts
+#EXTINF:-1,Sky Cinema Passion +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8094.ts
+#EXTINF:-1,Sky Cinema Comedy
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1648.ts
+#EXTINF:-1,Sky Cinema Comedy +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8093.ts
+#EXTINF:-1,Sky Cinema Cult
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1649.ts
+#EXTINF:-1,Sky Cinema Cult +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8095.ts
+#EXTINF:-1,Sky Cinema Max
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1650.ts
+#EXTINF:-1,Sky Cinema Max +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1653.ts
+#EXTINF:-1,Sky Cinema Classics
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1651.ts
+#EXTINF:-1,Sky Cinema Classics +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8096.ts
+#EXTINF:-1,--- [ PS Live ] ---
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7408.ts
+#EXTINF:-1,PS Live 1 [I Griffin]
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7406.ts
+#EXTINF:-1,PS Live 2 [Futurama]
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7409.ts
+#EXTINF:-1,PS Live 3 [Peppa Pig]
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7974.ts
+#EXTINF:-1,PS Live 4 [Masha e Orso]
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/10241.ts
+#EXTINF:-1,PS Musica Live
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7510.ts
+#EXTINF:-1,--- [ INTRATTENIMENTO ] ---
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/24.ts
+#EXTINF:-1,Sky Uno Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8361.ts
 #EXTINF:-1,Sky Uno HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/448.ts
-#EXTINF:-1,Rai Sport 1
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/391.ts
-#EXTINF:-1,Rai Sport 2
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/392.ts
-#EXTINF:-1,Lazio channel
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/388.ts
-#EXTINF:-1,JUVE CH
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/386.ts
-#EXTINF:-1,Inter Channel
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/385.ts
-#EXTINF:-1,-=== SKY CALCIO ===-
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/393.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/395.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/396.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/397.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/398.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/399.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/400.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/401.ts
-#EXTINF:-1,-=== CULTURA ===-
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/430.ts
-#EXTINF:-1,Sky Disney Channel HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/540.ts
-#EXTINF:-1,Sky Discovery World
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/432.ts
-#EXTINF:-1,Sky Discovery Channel
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/431.ts
-#EXTINF:-1,NAT GEO WILD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/437.ts
-#EXTINF:-1,NAT GEO POEPLE
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/436.ts
-#EXTINF:-1,Sky Animal Planet
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/541.ts
-#EXTINF:-1,DMAX
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/438.ts
-#EXTINF:-1,FOCUS
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/439.ts
-#EXTINF:-1,History Channel HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/444.ts
-#EXTINF:-1,Discovery Travel and Living HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/434.ts
-#EXTINF:-1,National Geographic it
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/435.ts
-#EXTINF:-1,DiscoveryScience
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/433.ts
-#EXTINF:-1,Marcopolo
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/443.ts
-#EXTINF:-1,-=== INTRATTENIMENTO ===-
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/447.ts
-#EXTINF:-1,Top Crime
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/457.ts
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/25.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1655.ts
+#EXTINF:-1,Sky Atlantic Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8356.ts
 #EXTINF:-1,Sky Atlantic HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/449.ts
-#EXTINF:-1,REAL TIME
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/459.ts
-#EXTINF:-1,Alice
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/463.ts
-#EXTINF:-1,AXN HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/455.ts
-#EXTINF:-1,Cielo
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/461.ts
-#EXTINF:-1,Fine Living
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/460.ts
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/26.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1099.ts
+#EXTINF:-1,Fox Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8357.ts
+#EXTINF:-1,Fox HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/27.ts
+#EXTINF:-1,Fox +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/418.ts
+#EXTINF:-1,Fox Life Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8704.ts
 #EXTINF:-1,Fox Life HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/451.ts
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/28.ts
+#EXTINF:-1,Fox Life +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1786.ts
+#EXTINF:-1,Fox Crime Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8705.ts
 #EXTINF:-1,Fox Crime HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/452.ts
-#EXTINF:-1,Giallo
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/458.ts
-#EXTINF:-1,Gambero Rosso HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/462.ts
-#EXTINF:-1,-=== MEDIASET PREMIUM===-
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/402.ts
-#EXTINF:-1,Premium Studio Universal
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/416.ts
-#EXTINF:-1,Premium Stories
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/412.ts
-#EXTINF:-1,Premium Sport HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/421.ts
-#EXTINF:-1,Premium Joy
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/415.ts
-#EXTINF:-1,Premium Energy
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/414.ts
-#EXTINF:-1,Premium Emotion
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/413.ts
-#EXTINF:-1,Premium Comedy
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/411.ts
-#EXTINF:-1,premium Cinema HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/403.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/405.ts
-#EXTINF:-1,Premium Cinema 2 24 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/406.ts
-#EXTINF:-1,Premium Cinema 24
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/404.ts
-#EXTINF:-1,Premium BBC
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/417.ts
-#EXTINF:-1,Premium Action 24
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/408.ts
-#EXTINF:-1,Premium Crime HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/409.ts
-#EXTINF:-1,Premium Crime 24
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/410.ts
-#EXTINF:-1,Premium Action
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/407.ts
-#EXTINF:-1,Premium Calcio
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/422.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/423.ts
-#EXTINF:-1,Premium Calcio 2 HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/424.ts
-#EXTINF:-1,Premium Calcio 3
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/425.ts
-#EXTINF:-1,Premium Calcio 4
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/426.ts
-#EXTINF:-1,Premium Calcio 5
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/427.ts
-#EXTINF:-1,Premium Calcio 6
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/428.ts
-#EXTINF:-1,Premium Calcio 7
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/429.ts
-#EXTINF:-1,IT:RSI_La1_HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/1670.ts
-#EXTINF:-1,IT:RSI_La2_HD
-http://iptv.freecamtv.com:8000/live/py1bq5/itfreecamtv/1671.ts
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/29.ts
+#EXTINF:-1,Fox Crime Mystery
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/10611.ts
+#EXTINF:-1,Fox Crime +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/419.ts
+#EXTINF:-1,Fox Comedy Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8706.ts
+#EXTINF:-1,Fox Comedy HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/30.ts
+#EXTINF:-1,Fox Comedy +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4547.ts
+#EXTINF:-1,Fox Animation Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8707.ts
+#EXTINF:-1,Fox Animation HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/31.ts
+#EXTINF:-1,Fox Animation +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4553.ts
+#EXTINF:-1,Comedy Central Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9116.ts
+#EXTINF:-1,Comedy Central HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/34.ts
+#EXTINF:-1,Comedy Central +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4615.ts
+#EXTINF:-1,E! Entertainment
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/35.ts
+#EXTINF:-1,Paramount Channel HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/2354.ts
+#EXTINF:-1,Paramount Channel +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8089.ts
+#EXTINF:-1,MTV Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8864.ts
+#EXTINF:-1,MTV HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8865.ts
+#EXTINF:-1,cielo Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9123.ts
+#EXTINF:-1,cielo HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/36.ts
+#EXTINF:-1,cielo +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8087.ts
+#EXTINF:-1,Blaze Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8592.ts
+#EXTINF:-1,Blaze HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8456.ts
+#EXTINF:-1,Blaze +1 HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8458.ts
+#EXTINF:-1,MAN | GA
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/109.ts
+#EXTINF:-1,MAN | GA +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/4761.ts
+#EXTINF:-1,Ginx eSports HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/10612.ts
+#EXTINF:-1,GIALLO
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/37.ts
+#EXTINF:-1,LEI Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/8708.ts
+#EXTINF:-1,LEI HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/38.ts
+#EXTINF:-1,Real Time Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9124.ts
+#EXTINF:-1,Real Time HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/40.ts
+#EXTINF:-1,Real Time +1
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/1713.ts
+#EXTINF:-1,Dove TV Full HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9141.ts
+#EXTINF:-1,Dove TV HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/9142.ts
+#EXTINF:-1,laeffe
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/41.ts
+#EXTINF:-1,TV2000
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/42.ts
+#EXTINF:-1,La5
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/11.ts
+#EXTINF:-1,Sposa TV HD
+http://panelsystem.ru:2086/live/eziobenni/CVgVduzF/7525.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3598.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA1_2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3599.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3600.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3601.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA4
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3602.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA5
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3603.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA6
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3604.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA7
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3605.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA8
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3606.ts
+#EXTINF:-1,DE SPORT:BUNDESLIGA9
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3607.ts
+#EXTINF:-1,DE SPORT:SKY_EUROSPORT1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3596.ts
+#EXTINF:-1,DE SPORT:SKY_SPORT_NEWS_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3597.ts
+#EXTINF:-1,DE SPORT:SKY_SPORT1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3608.ts
+#EXTINF:-1,DE SPORT:SKY_SPORT2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3609.ts
+#EXTINF:-1,DE FILM:ROMANCE_TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3576.ts
+#EXTINF:-1,DE FILM:SKY_ACTION
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3587.ts
+#EXTINF:-1,DE FILM:SKY_ATLANTIC
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3588.ts
+#EXTINF:-1,DE FILM:SKY_CINEMA
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3589.ts
+#EXTINF:-1,DE FILM:SKY_CINEMA24
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3590.ts
+#EXTINF:-1,DE FILM:SKY_COMEDY
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3591.ts
+#EXTINF:-1,DE FILM:SKY_EMOTION
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3592.ts
+#EXTINF:-1,DE FILM:SKY_FOX
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3593.ts
+#EXTINF:-1,DE FILM:SKY_FOX_SERIES
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3571.ts
+#EXTINF:-1,DE FILM:SKY_HITS
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3594.ts
+#EXTINF:-1,DE FILM:SKY_NOSTALGIE
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3595.ts
+#EXTINF:-1,DE FILM:SKY_SELECT1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3578.ts
+#EXTINF:-1,DE FILM:SKY_SELECT2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3579.ts
+#EXTINF:-1,DE FILM:SKY_SELECT3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3580.ts
+#EXTINF:-1,DE FILM:SKY_SELECT4
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3581.ts
+#EXTINF:-1,DE FILM:SKY_SELECT5
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3582.ts
+#EXTINF:-1,DE FILM:SKY_SELECT6
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3583.ts
+#EXTINF:-1,DE FILM:SKY_SELECT7
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3584.ts
+#EXTINF:-1,DE FILM:SKY_SELECT8
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3585.ts
+#EXTINF:-1,DE FILM:SKY_SELECT9
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3586.ts
+#EXTINF:-1,DE FILM:SYFY_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3572.ts
+#EXTINF:-1,DE FILM:TNT_COMEDY
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3573.ts
+#EXTINF:-1,DE FILM:TNT_FILM_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3574.ts
+#EXTINF:-1,DE FILM:TNT_SERIE
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3575.ts
+#EXTINF:-1,DE FILM:UNIVERSAL
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3577.ts
+#EXTINF:-1,DE KINDER:SKY_DISNEY_CHANNEL
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3567.ts
+#EXTINF:-1,DE KINDER:SKY_DISNEY_CINEMAGIC
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3568.ts
+#EXTINF:-1,DE KINDER:SKY_DISNEY_JUNIOR
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3569.ts
+#EXTINF:-1,DE KINDER:SKY_DISNEY_XD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3570.ts
+#EXTINF:-1,DE LOCAL:13TH_STREET_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3610.ts
+#EXTINF:-1,DE LOCAL:ARTE_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3611.ts
+#EXTINF:-1,DE LOCAL:AUSTRIA24
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3612.ts
+#EXTINF:-1,DE LOCAL:BIBELTV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3621.ts
+#EXTINF:-1,DE LOCAL:DAS_ERSTE
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3640.ts
+#EXTINF:-1,DE LOCAL:KABEL1_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3622.ts
+#EXTINF:-1,DE LOCAL:KIKA_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3613.ts
+#EXTINF:-1,DE LOCAL:N-TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3614.ts
+#EXTINF:-1,DE LOCAL:N24 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3615.ts
+#EXTINF:-1,DE LOCAL:ORF1_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3616.ts
+#EXTINF:-1,DE LOCAL:ORF2_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3617.ts
+#EXTINF:-1,DE LOCAL:PRO7_FUN
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3628.ts
+#EXTINF:-1,DE LOCAL:PRO7_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3630.ts
+#EXTINF:-1,DE LOCAL:PRO7_MAXX_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3629.ts
+#EXTINF:-1,DE LOCAL:RTL_CRIME
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3625.ts
+#EXTINF:-1,DE LOCAL:RTL_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3635.ts
+#EXTINF:-1,DE LOCAL:RTL_LIVING
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3626.ts
+#EXTINF:-1,DE LOCAL:RTL_NITRO_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3627.ts
+#EXTINF:-1,DE LOCAL:RTL2_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3631.ts
+#EXTINF:-1,DE LOCAL:SAT1_GOLD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3632.ts
+#EXTINF:-1,DE LOCAL:SAT1_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3633.ts
+#EXTINF:-1,DE LOCAL:SIXX
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3618.ts
+#EXTINF:-1,DE LOCAL:SRF1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3619.ts
+#EXTINF:-1,DE LOCAL:SRF2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3620.ts
+#EXTINF:-1,DE LOCAL:SUPER_RTL_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3623.ts
+#EXTINF:-1,DE LOCAL:VOX_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3634.ts
+#EXTINF:-1,DE LOCAL:WDR
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3636.ts
+#EXTINF:-1,DE LOCAL:ZDF
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3639.ts
+#EXTINF:-1,DE LOCAL:ZDF_INFO
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3637.ts
+#EXTINF:-1,DE LOCAL:ZDF_NEO
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3638.ts
+#EXTINF:-1,DE LOCAL:ZEE_ONE
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3624.ts
+#EXTINF:-1,DE MUSIK:DELUX_MUSIK
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3561.ts
+#EXTINF:-1,DE MUSIK:MTV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3560.ts
+#EXTINF:-1,DE MUSIK:VIVA
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3562.ts
+#EXTINF:-1,DE DOKU:NAT_GEO_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3564.ts
+#EXTINF:-1,DE DOKU:NAT_GEO_WILD_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3563.ts
+#EXTINF:-1,DE DOKU:SKY_HISTORY_CHANNEL_HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3566.ts
+#EXTINF:-1,DE DOKU:SPIEGEL_GESCHICHTE
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3565.ts
+#EXTINF:-1,=======>   Italy   <=======
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3749.ts
+#EXTINF:-1,IT | Premium Calcio 1*
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3653.ts
+#EXTINF:-1,IT | Premium Calcio 2*
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3654.ts
+#EXTINF:-1,IT | Premium Calcio 3*
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3655.ts
+#EXTINF:-1,IT | Premium Calcio 4
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3656.ts
+#EXTINF:-1,IT | Premium Calcio 5*
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3657.ts
+#EXTINF:-1,IT: Sky Calcio 1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3719.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3720.ts
+#EXTINF:-1,IT: Sky Calcio 3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3721.ts
+#EXTINF:-1,IT: Sky Calcio 4
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3722.ts
+#EXTINF:-1,IT: Sky Calcio 5
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3723.ts
+#EXTINF:-1,IT: Sky Calcio 6
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3724.ts
+#EXTINF:-1,IT: Sky Calcio 7
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3725.ts
+#EXTINF:-1,IT : Premium Sport HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3693.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3716.ts
+#EXTINF:-1,IT : Sky Uno HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3694.ts
+#EXTINF:-1,IT | Alice
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3642.ts
+#EXTINF:-1,IT | Canale5 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3643.ts
+#EXTINF:-1,IT | Dmax HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3644.ts
+#EXTINF:-1,IT | Eurosport 1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3645.ts
+#EXTINF:-1,IT | Eurosport 2 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3646.ts
+#EXTINF:-1,IT | Fox Comedy HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3647.ts
+#EXTINF:-1,IT | Fox Crime HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3648.ts
+#EXTINF:-1,IT | Italia 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3649.ts
+#EXTINF:-1,IT | italia1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3650.ts
+#EXTINF:-1,IT | La7
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3651.ts
+#EXTINF:-1,IT | Mediaset Extra
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3652.ts
+#EXTINF:-1,IT | Premium Cinema
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3658.ts
+#EXTINF:-1,IT | Premium Cinema 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3660.ts
+#EXTINF:-1,IT | Premium Cinema Energy
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3659.ts
+#EXTINF:-1,IT | Premium Crime
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3661.ts
+#EXTINF:-1,IT | Premium Emotion
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3662.ts
+#EXTINF:-1,IT | Premium Joy
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3663.ts
+#EXTINF:-1,IT | Premium Stories
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3664.ts
+#EXTINF:-1,IT | Rai Movie
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3665.ts
+#EXTINF:-1,IT | Rai Premium
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3666.ts
+#EXTINF:-1,IT | Rai Sport1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3667.ts
+#EXTINF:-1,IT | Rai Sport2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3668.ts
+#EXTINF:-1,IT | Rai1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3669.ts
+#EXTINF:-1,IT | Rai2 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3670.ts
+#EXTINF:-1,IT | Rai3 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3671.ts
+#EXTINF:-1,IT | Rai4 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3672.ts
+#EXTINF:-1,IT | Rai5
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3673.ts
+#EXTINF:-1,IT | Rete4 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3674.ts
+#EXTINF:-1,IT | RSI La1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3675.ts
+#EXTINF:-1,IT | RSI La2 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3676.ts
+#EXTINF:-1,IT | Sky Cinema  1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3677.ts
+#EXTINF:-1,IT | Sky Cinema Classic HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3678.ts
+#EXTINF:-1,IT | Sky Cinema Comedy HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3679.ts
+#EXTINF:-1,IT | Sky Cinema Family HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3680.ts
+#EXTINF:-1,IT | Sky Cinema Max HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3681.ts
+#EXTINF:-1,IT | Sky Cinema Passion HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3682.ts
+#EXTINF:-1,IT | Sky Cinema1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3683.ts
+#EXTINF:-1,IT | SKY CINEMA24 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3684.ts
+#EXTINF:-1,IT | SKY F1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3685.ts
+#EXTINF:-1,IT | Sky Foxcrime HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3686.ts
+#EXTINF:-1,IT | Sky Moto GP HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3687.ts
+#EXTINF:-1,IT | Sky Sport 24 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3688.ts
+#EXTINF:-1,IT | Sky Sport F1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3689.ts
+#EXTINF:-1,IT | Sky Sport1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3690.ts
+#EXTINF:-1,IT | Sky Sport2 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3691.ts
+#EXTINF:-1,IT | Sky Sport3 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3692.ts
+#EXTINF:-1,IT: Animal Planet
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3696.ts
+#EXTINF:-1,IT: Canal 5 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3697.ts
+#EXTINF:-1,IT: Cartoonito
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3698.ts
+#EXTINF:-1,IT: Cielo
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3699.ts
+#EXTINF:-1,IT: Discovery HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3700.ts
+#EXTINF:-1,IT: Discovery Science HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3701.ts
+#EXTINF:-1,IT: Discovery Travel&Living HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3702.ts
+#EXTINF:-1,IT: Fox Crime HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3703.ts
+#EXTINF:-1,IT: FOX HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3704.ts
+#EXTINF:-1,IT: Fox Life HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3705.ts
+#EXTINF:-1,IT: FOX Sport HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3706.ts
+#EXTINF:-1,IT: Inter Channel
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3707.ts
+#EXTINF:-1,IT: Juventus TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3695.ts
+#EXTINF:-1,IT: Mediaset Extra
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3708.ts
+#EXTINF:-1,IT: Milan Channel
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3737.ts
+#EXTINF:-1,IT: Nat Geo Wild HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3709.ts
+#EXTINF:-1,IT: NATIONAL GEOGRAPHIC HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3710.ts
+#EXTINF:-1,IT: Pesca e Caccia
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3711.ts
+#EXTINF:-1,IT: Premium Action
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3712.ts
+#EXTINF:-1,IT: Premium Calcio
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3713.ts
+#EXTINF:-1,IT: Premium Comedy
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3714.ts
+#EXTINF:-1,IT: Premium Disney Junior
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3715.ts
+#EXTINF:-1,IT: Premium Studio Universal
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3717.ts
+#EXTINF:-1,IT: Rai Yoyo
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3718.ts
+#EXTINF:-1,IT: Sky Fox Comedy HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3726.ts
+#EXTINF:-1,IT: SKY Primafila 3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3727.ts
+#EXTINF:-1,IT: Sky Primafila 6
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3728.ts
+#EXTINF:-1,IT: Sky Primafila 7
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3729.ts
+#EXTINF:-1,IT: Sky Primafila 8
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3730.ts
+#EXTINF:-1,IT: SKY TG 24
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3731.ts
+#EXTINF:-1,IT: SPORT ITALIA
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3732.ts
+#EXTINF:-1,IT: Supercalcio HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3733.ts
+#EXTINF:-1,IT: Teleticino
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3747.ts
+#EXTINF:-1,IT: TOP CRIME
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3748.ts
+#EXTINF:-1,IT:CARTOON  NETWORK
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3734.ts
+#EXTINF:-1,IT:Discovery Focus
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3735.ts
+#EXTINF:-1,IT:Mediaset Iris
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3736.ts
+#EXTINF:-1,IT:Real Time
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3738.ts
+#EXTINF:-1,IT:SKY Cinema 3D
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3739.ts
+#EXTINF:-1,IT:Sky Primafila 10
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3740.ts
+#EXTINF:-1,IT:Sky Primafila 12
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3741.ts
+#EXTINF:-1,IT:Sky Primafila 13
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3742.ts
+#EXTINF:-1,IT:Sky Primafila 14
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3743.ts
+#EXTINF:-1,IT:Sky Primafila 5
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3744.ts
+#EXTINF:-1,IT:Sky Primafila 9
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3745.ts
+#EXTINF:-1,IT:Super Tennis
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3746.ts
+#EXTINF:-1,NL : 13th
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4651.ts
+#EXTINF:-1,NL : Animal Planet
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4652.ts
+#EXTINF:-1,NL : Boomerang
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4653.ts
+#EXTINF:-1,NL : Comedy Central
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4654.ts
+#EXTINF:-1,NL : Discovery Channel
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4655.ts
+#EXTINF:-1,NL : Disney Channel
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4656.ts
+#EXTINF:-1,NL : Film1 Action
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4657.ts
+#EXTINF:-1,NL : Film1 Comedy & Kids
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4658.ts
+#EXTINF:-1,NL : Film1 Premiere
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4659.ts
+#EXTINF:-1,NL : Film1 Spotlight
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4660.ts
+#EXTINF:-1,NL : Film1 SUNDANCE
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4661.ts
+#EXTINF:-1,NL : FOX Channel
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4662.ts
+#EXTINF:-1,NL : HBO
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4663.ts
+#EXTINF:-1,NL : HBO 3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4664.ts
+#EXTINF:-1,NL : HBO2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4665.ts
+#EXTINF:-1,NL : History
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4666.ts
+#EXTINF:-1,NL : Investigation Discovery
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4667.ts
+#EXTINF:-1,NL : JimJam
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4668.ts
+#EXTINF:-1,NL : National Geographic
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4670.ts
+#EXTINF:-1,NL : NET 5
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4669.ts
+#EXTINF:-1,NL : Nick Jr
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4671.ts
+#EXTINF:-1,NL : Nickelodeon
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4672.ts
+#EXTINF:-1,NL : NPO 1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4673.ts
+#EXTINF:-1,NL : NPO 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4674.ts
+#EXTINF:-1,NL : NPO 3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4675.ts
+#EXTINF:-1,NL : RTL 4
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4676.ts
+#EXTINF:-1,NL : RTL 5
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4677.ts
+#EXTINF:-1,NL : RTL 7
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4678.ts
+#EXTINF:-1,NL : RTL 8
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4679.ts
+#EXTINF:-1,NL : RTL lounge
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4680.ts
+#EXTINF:-1,NL : SBS 6
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4681.ts
+#EXTINF:-1,NL : SYFY
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4682.ts
+#EXTINF:-1,NL : TLC
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4683.ts
+#EXTINF:-1,NL : Veronica Disney XD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4684.ts
+#EXTINF:-1,NL : Ziggo Sport Extra1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4685.ts
+#EXTINF:-1,NL : Ziggo Sport Extra2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4686.ts
+#EXTINF:-1,NL : Ziggo Sport Golf
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4687.ts
+#EXTINF:-1,NL : Ziggo Sport Racing
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4688.ts
+#EXTINF:-1,NL : Ziggo Sport Select HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4689.ts
+#EXTINF:-1,NL : Ziggo Sport.Voetbal
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4690.ts
+#EXTINF:-1,NL: AT5
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5458.ts
+#EXTINF:-1,NL: AT5 HD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5457.ts
+#EXTINF:-1,NL: Cartoon Network
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5088.ts
+#EXTINF:-1,NL: Disney Junior
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5087.ts
+#EXTINF:-1,NL: Eurosport 1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5086.ts
+#EXTINF:-1,NL: Eurosport 1 FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4702.ts
+#EXTINF:-1,NL: Eurosport 2 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4701.ts
+#EXTINF:-1,NL: Film1 Premiere FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4700.ts
+#EXTINF:-1,NL: Fox Sports 1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4703.ts
+#EXTINF:-1,NL: Nat Geo Wild FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4697.ts
+#EXTINF:-1,NL: Nat Geo Wild HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5085.ts
+#EXTINF:-1,NL: National Geographic FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4696.ts
+#EXTINF:-1,NL: Net 5 FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4695.ts
+#EXTINF:-1,NL: NPO 1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4709.ts
+#EXTINF:-1,NL: NPO 2 FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4710.ts
+#EXTINF:-1,NL: NPO 3 FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4711.ts
+#EXTINF:-1,NL: NPO Politiek
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5307.ts
+#EXTINF:-1,NL: NPO Zapp Xtra
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5306.ts
+#EXTINF:-1,NL: RTL 4 FHD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4712.ts
+#EXTINF:-1,NL: RTL 5 FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4713.ts
+#EXTINF:-1,NL: RTL 7 FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4714.ts
+#EXTINF:-1,NL: RTL 8 FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4715.ts
+#EXTINF:-1,NL: RTL Z
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5565.ts
+#EXTINF:-1,NL: SBS 9
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4716.ts
+#EXTINF:-1,NL: SBS6 FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4694.ts
+#EXTINF:-1,NL: Sport 1 Voetbal
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4717.ts
+#EXTINF:-1,NL: Travel Channel HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5084.ts
+#EXTINF:-1,NL: Veronica / Disney XD FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4718.ts
+#EXTINF:-1,NL: Ziggo Sport Select FHD 1080
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4719.ts
+#EXTINF:-1,NL:24 KITCHEN
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3247.ts
+#EXTINF:-1,NL:ANIMAL PLANET
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3248.ts
+#EXTINF:-1,NL:BABY TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3249.ts
+#EXTINF:-1,NL:BOOMERANG
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3250.ts
+#EXTINF:-1,NL:CARTOON NETWORK
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3251.ts
+#EXTINF:-1,NL:CBS REALITY
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3252.ts
+#EXTINF:-1,NL:COMEDY CENTRAL FAMILY
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3253.ts
+#EXTINF:-1,NL:COMEDY CENTRAL NEDERLAND
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3254.ts
+#EXTINF:-1,NL:CRIME  INVESTIGATION NETWORK
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3255.ts
+#EXTINF:-1,NL:DISCOVERY CHANNEL NEDERLAND
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3256.ts
+#EXTINF:-1,NL:DISNEY CHANNEL NEDERLAND
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3257.ts
+#EXTINF:-1,NL:FILM 1 ACTION
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3258.ts
+#EXTINF:-1,NL:FILM 1 COMEDY  KIDS
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3259.ts
+#EXTINF:-1,NL:FILM 1 PREMIER HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3260.ts
+#EXTINF:-1,NL:FILM 1 SPOTLIGHT
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3261.ts
+#EXTINF:-1,NL:FILM 1 SUNDANCE
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3262.ts
+#EXTINF:-1,NL:FOX CHANNEL
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3263.ts
+#EXTINF:-1,NL:HISTORY HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3270.ts
+#EXTINF:-1,NL:INVESTIGATION DISCOVERY
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3271.ts
+#EXTINF:-1,NL:MOTORS TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3272.ts
+#EXTINF:-1,NL:NAT GEO WILD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3273.ts
+#EXTINF:-1,NL:NATIONAL GEO HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3274.ts
+#EXTINF:-1,NL:NET 5 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3275.ts
+#EXTINF:-1,NL:NPO 1 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3276.ts
+#EXTINF:-1,NL:NPO 2 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3277.ts
+#EXTINF:-1,NL:NPO 3 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3278.ts
+#EXTINF:-1,NL:NPO ZAPPELIN XTRA/HUMOR TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3279.ts
+#EXTINF:-1,NL:RTL 4 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3280.ts
+#EXTINF:-1,NL:RTL 5 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3281.ts
+#EXTINF:-1,NL:RTL 7 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3282.ts
+#EXTINF:-1,NL:RTL 8 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3283.ts
+#EXTINF:-1,NL:RTL LOUNGE
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3284.ts
+#EXTINF:-1,NL:RTL Z HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3285.ts
+#EXTINF:-1,NL:SBS 6 HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3286.ts
+#EXTINF:-1,NL:SBS 9
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3287.ts
+#EXTINF:-1,NL:FOX SPORT 1 EREDIVISIE HD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3264.ts
+#EXTINF:-1,EX YU: CINEMAX 1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4434.ts
+#EXTINF:-1,EX YU: CINEMAX-2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4433.ts
+#EXTINF:-1,EX YU: DOMA-TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4432.ts
+#EXTINF:-1,EX YU: Happy tv
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4426.ts
+#EXTINF:-1,EX YU: HBO 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4424.ts
+#EXTINF:-1,EX YU: HBO 3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4431.ts
+#EXTINF:-1,EX YU: HBO Adria
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4420.ts
+#EXTINF:-1,EX YU: HISTORY CHANNEL
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4430.ts
+#EXTINF:-1,EX YU: HRT 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4429.ts
+#EXTINF:-1,EX YU: HRT 3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4415.ts
+#EXTINF:-1,EX YU: HRT 4
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4425.ts
+#EXTINF:-1,EX YU: NOVA TV HR
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4427.ts
+#EXTINF:-1,EX YU: RTL
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4409.ts
+#EXTINF:-1,EX YU: RTL 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4428.ts
+#EXTINF:-1,EX_YU: ATV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5240.ts
+#EXTINF:-1,EX-YU : PINK 3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4421.ts
+#EXTINF:-1,EX-YU: Al Jazeera Balkan
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4403.ts
+#EXTINF:-1,EX-YU: ANIMAL PLANET
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4422.ts
+#EXTINF:-1,EX-YU: AXN
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5245.ts
+#EXTINF:-1,EX-YU: B92
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5455.ts
+#EXTINF:-1,EX-YU: BHT
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4423.ts
+#EXTINF:-1,EX-YU: BHT H
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4397.ts
+#EXTINF:-1,EX-YU: BN
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4416.ts
+#EXTINF:-1,EX-YU: BN Music
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4392.ts
+#EXTINF:-1,EX-YU: BN SAT
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4417.ts
+#EXTINF:-1,EX-YU: Cinestar Action
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4388.ts
+#EXTINF:-1,EX-YU: Cinestar Premier 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4419.ts
+#EXTINF:-1,EX-YU: Cinestar Premiere 1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4418.ts
+#EXTINF:-1,EX-YU: CMC
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4383.ts
+#EXTINF:-1,EX-YU: Discovery WORLD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4410.ts
+#EXTINF:-1,EX-YU: DM Sat
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4379.ts
+#EXTINF:-1,EX-YU: Eurosport 1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4414.ts
+#EXTINF:-1,EX-YU: Eurosport 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4413.ts
+#EXTINF:-1,EX-YU: FACE TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4411.ts
+#EXTINF:-1,EX-YU: Federalna TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4404.ts
+#EXTINF:-1,EX-YU: Fightbox
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4407.ts
+#EXTINF:-1,EX-YU: FilmBox Extra
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4408.ts
+#EXTINF:-1,EX-YU: FOX
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4412.ts
+#EXTINF:-1,EX-YU: Fox Crime
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4406.ts
+#EXTINF:-1,EX-YU: Fox Life
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4405.ts
+#EXTINF:-1,EX-YU: Fox Movies
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4398.ts
+#EXTINF:-1,EX-YU: GRAND TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4402.ts
+#EXTINF:-1,EX-YU: Grand TV 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5557.ts
+#EXTINF:-1,EX-YU: Happy Parovi
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5128.ts
+#EXTINF:-1,EX-YU: Happy Parovi TV 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5127.ts
+#EXTINF:-1,EX-YU: HAYAT
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4401.ts
+#EXTINF:-1,EX-YU: HAYAT FOLK
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4400.ts
+#EXTINF:-1,EX-YU: HAYAT PLUS
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4399.ts
+#EXTINF:-1,EX-YU: HRT 1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4393.ts
+#EXTINF:-1,EX-YU: KCN 1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4396.ts
+#EXTINF:-1,EX-YU: KCN 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4395.ts
+#EXTINF:-1,EX-YU: KCN 3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4394.ts
+#EXTINF:-1,EX-YU: KLASIK TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4389.ts
+#EXTINF:-1,EX-YU: LOV I RIBOLOV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4391.ts
+#EXTINF:-1,EX-YU: MGM
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4390.ts
+#EXTINF:-1,EX-YU: Mini TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4381.ts
+#EXTINF:-1,EX-YU: Mini TV HR
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4382.ts
+#EXTINF:-1,EX-YU: MRT 1 (local)
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4384.ts
+#EXTINF:-1,EX-YU: MRT 2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4386.ts
+#EXTINF:-1,EX-YU: MRTV 3 MK
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4385.ts
+#EXTINF:-1,EX-YU: MTV Adria
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4387.ts
+#EXTINF:-1,EX-YU: MTV Igman
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4380.ts
+#EXTINF:-1,EX-YU: N1 Bosna
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4321.ts
+#EXTINF:-1,EX-YU: Nat Geo Wild
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4320.ts
+#EXTINF:-1,EX-YU: National Geographic
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4377.ts
+#EXTINF:-1,EX-YU: Nickelodeon
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4376.ts
+#EXTINF:-1,EX-YU: NOVA RS pub
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4375.ts
+#EXTINF:-1,EX-YU: NOVA TV HR
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4374.ts
+#EXTINF:-1,EX-YU: OBN
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/4373.ts
+#EXTINF:-1,XX: Venus
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/5250.ts
+#EXTINF:-1,XX:BRAZZERS_TV
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3099.ts
+#EXTINF:-1,XX:DORCELCLUB
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3093.ts
+#EXTINF:-1,XX:EROTIC1
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3086.ts
+#EXTINF:-1,XX:EROTIC2
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3087.ts
+#EXTINF:-1,XX:EROTIC3
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3088.ts
+#EXTINF:-1,XX:EROTIC4
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3089.ts
+#EXTINF:-1,XX:EROTIC5
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3090.ts
+#EXTINF:-1,XX:EROTIC6
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3091.ts
+#EXTINF:-1,XX:EROTIC8
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3092.ts
+#EXTINF:-1,XX:HUSTLERHD
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3094.ts
+#EXTINF:-1,XX:NUBILES_CASTING
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3095.ts
+#EXTINF:-1,XX:PASSIEXX
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3096.ts
+#EXTINF:-1,XX:REDLIGHT
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3097.ts
+#EXTINF:-1,XX:VENUS
+http://tvconnectx.com:25461/live/SJ9nnnUyJ/Sx6lh23g9W/3098.ts
+#EXTINF:-1,XX - Sasha Grey
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1371.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 1 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1370.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 10 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1369.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 2 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1368.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 3 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1367.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 4 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1366.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 5 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1365.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 6 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1364.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 7 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1363.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 8 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1362.ts
+#EXTINF:-1,XX: ADULT HOTCLUB 9 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1361.ts
+#EXTINF:-1,XX: Babes 1
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1360.ts
+#EXTINF:-1,XX: Babes 2
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1359.ts
+#EXTINF:-1,XX: Babes 3
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1358.ts
+#EXTINF:-1,XX: BRAZZERS
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1357.ts
+#EXTINF:-1,XX: DAUGHTER SWAP
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1356.ts
+#EXTINF:-1,XX: EROTIC 1
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1355.ts
+#EXTINF:-1,XX: EROTIC 2
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1354.ts
+#EXTINF:-1,XX: EROTIC 3
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1353.ts
+#EXTINF:-1,XX: FRENCHLOVER
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1352.ts
+#EXTINF:-1,XX: KS XX TV 1 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1351.ts
+#EXTINF:-1,XX: KS XX TV 2 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1350.ts
+#EXTINF:-1,XX: KS XX TV 3 HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1349.ts
+#EXTINF:-1,XX: Lethal Hardcore
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1348.ts
+#EXTINF:-1,XX: Maiden van Holland
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1347.ts
+#EXTINF:-1,XX: ORGY CHANNEL
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1346.ts
+#EXTINF:-1,XX: PRIVATE HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1345.ts
+#EXTINF:-1,XX: RK HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1344.ts
+#EXTINF:-1,XX:  X HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1343.ts
+#EXTINF:-1,XX: VENUS HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1342.ts
+#EXTINF:-1,XX: XXL HD
+http://cinevip.cineiptv.com:25461/live/adalberto/12345/1341.ts
