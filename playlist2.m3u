@@ -1,584 +1,224 @@
  EXTM3U
 #EXTM3U
-#EXTINF:0,IT: Rai 1 HD
-http://51.255.76.67:1557/live/9999/9999/1034.ts
-#EXTINF:0,IT: RAI 2 HD
-http://51.255.76.67:1557/live/9999/9999/1035.ts
-#EXTINF:0,IT: RAI 3 HD
-http://51.255.76.67:1557/live/9999/9999/1036.ts
-#EXTINF:0,IT: Rai 4 HD
-http://51.255.76.67:1557/live/9999/9999/1651.ts
-#EXTINF:0,IT: Rai 5 HD
-http://51.255.76.67:1557/live/9999/9999/3535.ts
-#EXTINF:0,IT: Rai 1
-http://51.255.76.67:1557/live/9999/9999/3532.ts
-#EXTINF:0,IT: Rai 2
-http://51.255.76.67:1557/live/9999/9999/3533.ts
-#EXTINF:0,IT: Rai 3
-http://51.255.76.67:1557/live/9999/9999/3534.ts
-#EXTINF:0,IT: Rai 4
-http://51.255.76.67:1557/live/9999/9999/2012.ts
-#EXTINF:0,IT: Rai 5
-http://51.255.76.67:1557/live/9999/9999/2013.ts
-#EXTINF:0,IT: Rai Premium
-http://51.255.76.67:1557/live/9999/9999/2015.ts
-#EXTINF:0,IT: Rai Movie
-http://51.255.76.67:1557/live/9999/9999/1652.ts
-#EXTINF:0,IT: Rai Scuola
-http://51.255.76.67:1557/live/9999/9999/3415.ts
-#EXTINF:0,IT: Rai Nettuno
-http://51.255.76.67:1557/live/9999/9999/4625.ts
-#EXTINF:0,IT: Italia 1 HD
-http://51.255.76.67:1557/live/9999/9999/3413.ts
-#EXTINF:0,IT: Italia 1
-http://51.255.76.67:1557/live/9999/9999/3538.ts
-#EXTINF:0,IT: Italia 2 HD
-http://51.255.76.67:1557/live/9999/9999/3432.ts
-#EXTINF:0,IT: CANALE 5 HD
-http://51.255.76.67:1557/live/9999/9999/2011.ts
-#EXTINF:0,IT: Canale 5
-http://51.255.76.67:1557/live/9999/9999/3536.ts
-#EXTINF:0,IT: Rete 4 HD
-http://51.255.76.67:1557/live/9999/9999/2526.ts
-#EXTINF:0,IT: Rete 4
-http://51.255.76.67:1557/live/9999/9999/3537.ts
-#EXTINF:0,IT: Mediaset Extra
-http://51.255.76.67:1557/live/9999/9999/3431.ts
-#EXTINF:0,IT: IRIS
-http://51.255.76.67:1557/live/9999/9999/2025.ts
-#EXTINF:0,IT: Cielo
-http://51.255.76.67:1557/live/9999/9999/2024.ts
-#EXTINF:0,IT: LA5
-http://51.255.76.67:1557/live/9999/9999/3430.ts
-#EXTINF:0,IT: Canale 7 Gold
-http://51.255.76.67:1557/live/9999/9999/3443.ts
-#EXTINF:0,IT: TV8
-http://51.255.76.67:1557/live/9999/9999/3618.ts
-#EXTINF:0,IT: Canale 8
-http://51.255.76.67:1557/live/9999/9999/3621.ts
-#EXTINF:0,IT: La 7 HD
-http://51.255.76.67:1557/live/9999/9999/3421.ts
-#EXTINF:0,IT: LA 7D
-http://51.255.76.67:1557/live/9999/9999/2021.ts
-#EXTINF:0,>>>>>Cartoni<<<<<
-http://51.255.76.67:1557/live/9999/9999/3895.ts
-#EXTINF:0,IT: Rai Gulp
-http://51.255.76.67:1557/live/9999/9999/2016.ts
-#EXTINF:0,IT: Rai Yoyo
-http://51.255.76.67:1557/live/9999/9999/3414.ts
-#EXTINF:0,IT: Boing
-http://51.255.76.67:1557/live/9999/9999/3427.ts
-#EXTINF:0,IT: K2
-http://51.255.76.67:1557/live/9999/9999/2027.ts
-#EXTINF:0,IT: Cartoonito
-http://51.255.76.67:1557/live/9999/9999/3439.ts
-#EXTINF:0,IT: Frisbee
-http://51.255.76.67:1557/live/9999/9999/3425.ts
-#EXTINF:0,IT: Super!
-http://51.255.76.67:1557/live/9999/9999/2026.ts
-#EXTINF:0,IT: MAN-GA
-http://51.255.76.67:1557/live/9999/9999/3429.ts
-#EXTINF:0,IT: Disney XD
-http://51.255.76.67:1557/live/9999/9999/3437.ts
-#EXTINF:0,IT: Disney Channel HD
-http://51.255.76.67:1557/live/9999/9999/3438.ts
-#EXTINF:0,IT: Cartoon Network
-http://51.255.76.67:1557/live/9999/9999/2028.ts
-#EXTINF:0,IT: Masha e Orso Channel IT
-http://51.255.76.67:1557/live/9999/9999/3622.ts
-#EXTINF:0,IT: Premium Cartoon Network
-http://51.255.76.67:1557/live/9999/9999/2068.ts
-#EXTINF:0,>>>>>Sky Cinema<<<<<
-http://51.255.76.67:1557/live/9999/9999/4219.ts
-#EXTINF:0,IT: Sky Cinema 3D
-http://51.255.76.67:1557/live/9999/9999/3624.ts
-#EXTINF:0,IT: Sky Cinema 1 HD
-http://51.255.76.67:1557/live/9999/9999/1066.ts
-#EXTINF:0,IT: Sky Cinema UNO +1 HD
-http://51.255.76.67:1557/live/9999/9999/1064.ts
-#EXTINF:0,IT: Sky Cinema 1 +24 HD
-http://51.255.76.67:1557/live/9999/9999/1065.ts
-#EXTINF:0,IT: Sky Cinema Collection HD
-http://51.255.76.67:1557/live/9999/9999/3610.ts
-#EXTINF:0,IT: Sky Cinema Family HD
-http://51.255.76.67:1557/live/9999/9999/2041.ts
-#EXTINF:0,IT: Sky Cinema Family +1 HD
-http://51.255.76.67:1557/live/9999/9999/3620.ts
-#EXTINF:0,IT: Sky Cinema Comedy HD
-http://51.255.76.67:1557/live/9999/9999/2045.ts
-#EXTINF:0,IT: Sky Cinema Max HD
-http://51.255.76.67:1557/live/9999/9999/1063.ts
-#EXTINF:0,IT: Sky Cinema Max +1 HD
-http://51.255.76.67:1557/live/9999/9999/3539.ts
-#EXTINF:0,IT: Sky Cinema Passion HD
-http://51.255.76.67:1557/live/9999/9999/3410.ts
-#EXTINF:0,IT: Sky Cinema Cult HD
-http://51.255.76.67:1557/live/9999/9999/3444.ts
-#EXTINF:0,IT: Sky Cinema Classic HD
-http://51.255.76.67:1557/live/9999/9999/3433.ts
-#EXTINF:0,IT: Sky Cinema Comedy SD
-http://51.255.76.67:1557/live/9999/9999/3434.ts
-#EXTINF:0,IT: Sky Cinema PassionHD
-http://51.255.76.67:1557/live/9999/9999/1072.ts
-#EXTINF:0,IT: Sky Cinema Passion SD
-http://51.255.76.67:1557/live/9999/9999/2131.ts
-#EXTINF:0,IT: Sky Cinema MaxHD
-http://51.255.76.67:1557/live/9999/9999/1654.ts
-#EXTINF:0,IT: Sky Cinema Max SD
-http://51.255.76.67:1557/live/9999/9999/3436.ts
-#EXTINF:0,IT: Sky Cinema Cult SD
-http://51.255.76.67:1557/live/9999/9999/3612.ts
-#EXTINF:0,IT: Sky Cinema Classic SD
-http://51.255.76.67:1557/live/9999/9999/2040.ts
-#EXTINF:0,IT: Sky Atlantic HD
-http://51.255.76.67:1557/live/9999/9999/2046.ts
-#EXTINF:0,IT: Sky Uno HD
-http://51.255.76.67:1557/live/9999/9999/3446.ts
-#EXTINF:0,IT: Fox HD
-http://51.255.76.67:1557/live/9999/9999/2051.ts
-#EXTINF:0,IT: Fox LIfe HD
-http://51.255.76.67:1557/live/9999/9999/3617.ts
-#EXTINF:0,IT: FOX CRIME HD ITA
-http://51.255.76.67:1557/live/9999/9999/3616.ts
-#EXTINF:0,IT: FOX ANIMATION
-http://51.255.76.67:1557/live/9999/9999/3441.ts
-#EXTINF:0,IT: Fox Comedy HD
-http://51.255.76.67:1557/live/9999/9999/3447.ts
-#EXTINF:0,IT: AXN HD
-http://51.255.76.67:1557/live/9999/9999/3614.ts
-#EXTINF:0,IT: Paramount Channel Ita HD
-http://51.255.76.67:1557/live/9999/9999/3619.ts
-#EXTINF:0,>>>>>Premium Cinema<<<<<
-http://51.255.76.67:1557/live/9999/9999/4220.ts
-#EXTINF:0,IT: Premium Cinema 1 HD
-http://51.255.76.67:1557/live/9999/9999/3613.ts
-#EXTINF:0,IT: Premium Cinema HD (ENG)
-http://51.255.76.67:1557/live/9999/9999/1022.ts
-#EXTINF:0,IT: Premium Cinema
-http://51.255.76.67:1557/live/9999/9999/1019.ts
-#EXTINF:0,IT: Premium Cinema 24 HD
-http://51.255.76.67:1557/live/9999/9999/2129.ts
-#EXTINF:0,IT: Premium Cinema 24
-http://51.255.76.67:1557/live/9999/9999/1020.ts
-#EXTINF:0,IT: Premium Cinema 2 HD
-http://51.255.76.67:1557/live/9999/9999/1021.ts
-#EXTINF:0,IT: Premium Cinema 2 24 HD
-http://51.255.76.67:1557/live/9999/9999/2130.ts
-#EXTINF:0,IT: Premium Action HD
-http://51.255.76.67:1557/live/9999/9999/1017.ts
-#EXTINF:0,IT: Premium Action 24 HD
-http://51.255.76.67:1557/live/9999/9999/2132.ts
-#EXTINF:0,IT: Premium Comedy HD
-http://51.255.76.67:1557/live/9999/9999/2128.ts
-#EXTINF:0,IT: Premium Comedy
-http://51.255.76.67:1557/live/9999/9999/1023.ts
-#EXTINF:0,IT: Premium Energy HD
-http://51.255.76.67:1557/live/9999/9999/2124.ts
-#EXTINF:0,IT: Premium Energy +1
-http://51.255.76.67:1557/live/9999/9999/1026.ts
-#EXTINF:0,IT: Premium Emotion HD
-http://51.255.76.67:1557/live/9999/9999/2125.ts
-#EXTINF:0,IT: Premium Emotion
-http://51.255.76.67:1557/live/9999/9999/1025.ts
-#EXTINF:0,IT: Premium Joy HD
-http://51.255.76.67:1557/live/9999/9999/2123.ts
-#EXTINF:0,IT: Premium Joy
-http://51.255.76.67:1557/live/9999/9999/1027.ts
-#EXTINF:0,IT: Premium Joy +24
-http://51.255.76.67:1557/live/9999/9999/2067.ts
-#EXTINF:0,IT: Premium Stories
-http://51.255.76.67:1557/live/9999/9999/1650.ts
-#EXTINF:0,IT: TOP Crime Mediaset
-http://51.255.76.67:1557/live/9999/9999/3416.ts
-#EXTINF:0,IT: Premium Crime HD
-http://51.255.76.67:1557/live/9999/9999/2069.ts
-#EXTINF:0,IT: Premium Crime 24 HD
-http://51.255.76.67:1557/live/9999/9999/2127.ts
-#EXTINF:0,IT: Premium Crime 24
-http://51.255.76.67:1557/live/9999/9999/2070.ts
-#EXTINF:0,IT: Premium Crime +24
-http://51.255.76.67:1557/live/9999/9999/1024.ts
-#EXTINF:0,IT: Premium Studio Universal
-http://51.255.76.67:1557/live/9999/9999/3417.ts
-#EXTINF:0,IT: Giallo
-http://51.255.76.67:1557/live/9999/9999/3422.ts
-#EXTINF:0,IT: Aldo -  Giovanni e Giacomo: Ammutta Muddica
-http://51.255.76.67:1557/live/9999/9999/6294.ts
-#EXTINF:0,IT: HERCULES 1
-http://51.255.76.67:1557/live/9999/9999/6301.ts
-#EXTINF:0,IT: HERCULES 2
-http://51.255.76.67:1557/live/9999/9999/6302.ts
-#EXTINF:0,IT: HERCULES 3
-http://51.255.76.67:1557/live/9999/9999/6303.ts
-#EXTINF:0,IT:----- Primafila Live -----
-http://51.255.76.67:1557/live/9999/9999/6502.ts
-#EXTINF:0,IT: Vetrina Primafila
-http://51.255.76.67:1557/live/9999/9999/7119.ts
-#EXTINF:0,IT: Primafila 1
-http://51.255.76.67:1557/live/9999/9999/7118.ts
-#EXTINF:0,IT: Primafila 2
-http://51.255.76.67:1557/live/9999/9999/7117.ts
-#EXTINF:0,IT: Primafila 3
-http://51.255.76.67:1557/live/9999/9999/7116.ts
-#EXTINF:0,IT: Primafila 4
-http://51.255.76.67:1557/live/9999/9999/7115.ts
-#EXTINF:0,IT: Primafila 5
-http://51.255.76.67:1557/live/9999/9999/7114.ts
-#EXTINF:0,IT: Primafila 6
-http://51.255.76.67:1557/live/9999/9999/7113.ts
-#EXTINF:0,IT: Primafila 7
-http://51.255.76.67:1557/live/9999/9999/7112.ts
-#EXTINF:0,IT: Primafila 8
-http://51.255.76.67:1557/live/9999/9999/7111.ts
-#EXTINF:0,IT: Primafila 9
-http://51.255.76.67:1557/live/9999/9999/7110.ts
-#EXTINF:0,IT: Primafila 10
-http://51.255.76.67:1557/live/9999/9999/7109.ts
-#EXTINF:0,IT: Primafila 11
-http://51.255.76.67:1557/live/9999/9999/7108.ts
-#EXTINF:0,IT: Primafila 12
-http://51.255.76.67:1557/live/9999/9999/7107.ts
-#EXTINF:0,IT: Primafila 13
-http://51.255.76.67:1557/live/9999/9999/7106.ts
-#EXTINF:0,IT: Primafila 14
-http://51.255.76.67:1557/live/9999/9999/7105.ts
-#EXTINF:0,IT: Primafila 15
-http://51.255.76.67:1557/live/9999/9999/7104.ts
-#EXTINF:0,IT: Primafila 16
-http://51.255.76.67:1557/live/9999/9999/7103.ts
-#EXTINF:0,IT: Primafila 17
-http://51.255.76.67:1557/live/9999/9999/7102.ts
-#EXTINF:0,IT: Primafila 18
-http://51.255.76.67:1557/live/9999/9999/7101.ts
-#EXTINF:0,IT: Primafila 19
-http://51.255.76.67:1557/live/9999/9999/7100.ts
-#EXTINF:0,>>>>>PRIMAFILA<<<<<
-http://51.255.76.67:1557/live/9999/9999/4221.ts
-#EXTINF:0,VOD: PRIMAFILA 1/2 (Pets Vita Da Animali)
-http://51.255.76.67:1557/movie/9999/9999/6417.mp4
-#EXTINF:0,VOD: PRIMAFILA 3/4 (I magnifici sette)
-http://51.255.76.67:1557/movie/9999/9999/5487.mp4
-#EXTINF:0,VOD: PRIMAFILA 5/6 (Alla ricerca di Dory)
-http://51.255.76.67:1557/movie/9999/9999/5483.mkv
-#EXTINF:0,VOD: PRIMAFILA 7/8 (Kiki & i segreti del sesso)
-http://51.255.76.67:1557/movie/9999/9999/7264.mp4
-#EXTINF:0,VOD: PRIMAFILA 9/10 (CELL)
-http://51.255.76.67:1557/movie/9999/9999/7266.mp4
-#EXTINF:0,VOD: PRIMAFILA 11/12 (Bridget Jones's Baby)
-http://51.255.76.67:1557/movie/9999/9999/5486.mkv
-#EXTINF:0,VOD: PRIMAFILA 13/14 (Bianconeri Juventus Story)
-http://51.255.76.67:1557/movie/9999/9999/6567.mp4
-#EXTINF:0,VOD: PRIMAFILA 15/16 (Jason Bourne)
-http://51.255.76.67:1557/movie/9999/9999/7260.mp4
-#EXTINF:0,VOD: PRIMAFILA 17 (Bastille Day Il Colpo Del Secolo)
-http://51.255.76.67:1557/movie/9999/9999/6471.mp4
-#EXTINF:0,VOD: PRIMAFILA 18 (Blair Witch)
-http://51.255.76.67:1557/movie/9999/9999/6472.mp4
-#EXTINF:0,VOD: PRIMAFILA 19 (Io Prima Di Te)
-http://51.255.76.67:1557/movie/9999/9999/7259.mp4
-#EXTINF:0,>>>>>FILM NEI CINEMA<<<<<
-http://51.255.76.67:1557/live/9999/9999/4222.ts
-#EXTINF:0,IT: Film in Sala 1 HD
-http://51.255.76.67:1557/live/9999/9999/1030.ts
-#EXTINF:0,IT: Film in Sala 2 HD
-http://51.255.76.67:1557/live/9999/9999/1031.ts
-#EXTINF:0,IT: Film in Sala 3 HD
-http://51.255.76.67:1557/live/9999/9999/1032.ts
-#EXTINF:0,IT: Film in Sala 4 HD
-http://51.255.76.67:1557/live/9999/9999/1724.ts
-#EXTINF:0,IT: Film in Sala 5 HD
-http://51.255.76.67:1557/live/9999/9999/1725.ts
-#EXTINF:0,IT: Film in Sala 6 HD
-http://51.255.76.67:1557/live/9999/9999/1726.ts
-#EXTINF:0,IT: Film in Sala 7 HD
-http://51.255.76.67:1557/live/9999/9999/2073.ts
-#EXTINF:0,IT: Film in Sala 8 HD
-http://51.255.76.67:1557/live/9999/9999/1727.ts
-#EXTINF:0,IT: Film in Sala 9 HD
-http://51.255.76.67:1557/live/9999/9999/1728.ts
-#EXTINF:0,IT: Film in Sala 10 HD
-http://51.255.76.67:1557/live/9999/9999/2076.ts
-#EXTINF:0,IT: Film in Sala 11 HD
-http://51.255.76.67:1557/live/9999/9999/3525.ts
-#EXTINF:0,IT: Film in Sala 12 HD
-http://51.255.76.67:1557/live/9999/9999/3526.ts
-#EXTINF:0,IT: Film in Sala 13 HD
-http://51.255.76.67:1557/live/9999/9999/3527.ts
-#EXTINF:0,IT: Film in Sala 14 HD
-http://51.255.76.67:1557/live/9999/9999/3528.ts
-#EXTINF:0,IT: Film in Sala 15 HD
-http://51.255.76.67:1557/live/9999/9999/3529.ts
-#EXTINF:0,IT: Film in Sala 16 HD
-http://51.255.76.67:1557/live/9999/9999/3530.ts
-#EXTINF:0,IT: Film in Sala 17 HD
-http://51.255.76.67:1557/live/9999/9999/3531.ts
-#EXTINF:0,>>>>>SCIENZA<<<<<
-http://51.255.76.67:1557/live/9999/9999/4223.ts
-#EXTINF:0,IT: Real Time
-http://51.255.76.67:1557/live/9999/9999/2018.ts
-#EXTINF:0,IT: Real Time +1
-http://51.255.76.67:1557/live/9999/9999/3965.ts
-#EXTINF:0,IT: Premium Discovery HD
-http://51.255.76.67:1557/live/9999/9999/2126.ts
-#EXTINF:0,IT: Discovery Channel HD
-http://51.255.76.67:1557/live/9999/9999/1018.ts
-#EXTINF:0,IT: Discovery Science HD
-http://51.255.76.67:1557/live/9999/9999/2134.ts
-#EXTINF:0,IT: Discovery Travel & Living HD
-http://51.255.76.67:1557/live/9999/9999/2058.ts
-#EXTINF:0,IT: National Geographic HD
-http://51.255.76.67:1557/live/9999/9999/2061.ts
-#EXTINF:0,IT: Nat Geo People HD
-http://51.255.76.67:1557/live/9999/9999/3442.ts
-#EXTINF:0,IT: Nat Geo Wild HD
-http://51.255.76.67:1557/live/9999/9999/2060.ts
-#EXTINF:0,IT: Focus
-http://51.255.76.67:1557/live/9999/9999/2023.ts
-#EXTINF:0,IT: History Channel
-http://51.255.76.67:1557/live/9999/9999/2063.ts
-#EXTINF:0,IT: Fishing Tv italiano
-http://51.255.76.67:1557/live/9999/9999/3967.ts
-#EXTINF:0,IT: Animal Planet
-http://51.255.76.67:1557/live/9999/9999/3428.ts
-#EXTINF:0,IT: Dmax HD
-http://51.255.76.67:1557/live/9999/9999/2019.ts
-#EXTINF:0,IT: Dmax
-http://51.255.76.67:1557/live/9999/9999/3424.ts
-#EXTINF:0,IT: Dmax  1
-http://51.255.76.67:1557/live/9999/9999/3423.ts
-#EXTINF:0,IT: Gambero Rosso
-http://51.255.76.67:1557/live/9999/9999/3448.ts
-#EXTINF:0,IT: Marco polo
-http://51.255.76.67:1557/live/9999/9999/2017.ts
-#EXTINF:0,IT: Alice
-http://51.255.76.67:1557/live/9999/9999/3440.ts
-#EXTINF:0,>>>>>Notizie<<<<<
-http://51.255.76.67:1557/live/9999/9999/4226.ts
-#EXTINF:0,IT: Rai News 24
-http://51.255.76.67:1557/live/9999/9999/3969.ts
-#EXTINF:0,IT: Sky TG 24
-http://51.255.76.67:1557/live/9999/9999/3968.ts
-#EXTINF:0,IT: SkyTG24
-http://51.255.76.67:1557/live/9999/9999/4214.ts
-#EXTINF:0,IT: TG Norba 24
-http://51.255.76.67:1557/live/9999/9999/4157.ts
-#EXTINF:0,IT: TG Com 24 Premium
-http://51.255.76.67:1557/live/9999/9999/3970.ts
-#EXTINF:0,IT: Euronews Italiano
-http://51.255.76.67:1557/live/9999/9999/3971.ts
-#EXTINF:0,>>>>>Canali Regionali<<<<<
-http://51.255.76.67:1557/live/9999/9999/4225.ts
-#EXTINF:0,IT: Tele Arena Siena
-http://51.255.76.67:1557/live/9999/9999/4148.ts
-#EXTINF:0,IT: Video Calabria
-http://51.255.76.67:1557/live/9999/9999/4201.ts
-#EXTINF:0,IT: TeleBari Tv
-http://51.255.76.67:1557/live/9999/9999/3962.ts
-#EXTINF:0,IT: Sardegna Uno TV
-http://51.255.76.67:1557/live/9999/9999/3972.ts
-#EXTINF:0,IT: Sardegna Uno
-http://51.255.76.67:1557/live/9999/9999/4159.ts
-#EXTINF:0,IT: TeleNorba TV
-http://51.255.76.67:1557/live/9999/9999/3963.ts
-#EXTINF:0,IT: Video Tolento
-http://51.255.76.67:1557/live/9999/9999/4212.ts
-#EXTINF:0,IT: Video 33 TV
-http://51.255.76.67:1557/live/9999/9999/4173.ts
-#EXTINF:0,IT: Antenna 3 TV
-http://51.255.76.67:1557/live/9999/9999/3966.ts
-#EXTINF:0,IT: Vera TV
-http://51.255.76.67:1557/live/9999/9999/4211.ts
-#EXTINF:0,IT: TV Luna
-http://51.255.76.67:1557/live/9999/9999/4203.ts
-#EXTINF:0,IT: Tv Avicenza
-http://51.255.76.67:1557/live/9999/9999/4171.ts
-#EXTINF:0,IT: TRM TV
-http://51.255.76.67:1557/live/9999/9999/4213.ts
-#EXTINF:0,IT: Trentino TV
-http://51.255.76.67:1557/live/9999/9999/4174.ts
-#EXTINF:0,IT: TeleVomero
-http://51.255.76.67:1557/live/9999/9999/4208.ts
-#EXTINF:0,IT: TeleVenezia
-http://51.255.76.67:1557/live/9999/9999/4170.ts
-#EXTINF:0,IT: TeleTicino
-http://51.255.76.67:1557/live/9999/9999/4162.ts
-#EXTINF:0,IT: TeleRadioSciacca
-http://51.255.76.67:1557/live/9999/9999/4196.ts
-#EXTINF:0,IT: TeleRadioErre
-http://51.255.76.67:1557/live/9999/9999/4199.ts
-#EXTINF:0,IT: TelePace Tv
-http://51.255.76.67:1557/live/9999/9999/4169.ts
-#EXTINF:0,IT: Telediogene
-http://51.255.76.67:1557/live/9999/9999/4215.ts
-#EXTINF:0,IT: TeleDehonTV
-http://51.255.76.67:1557/live/9999/9999/4197.ts
-#EXTINF:0,IT: TeleColor
-http://51.255.76.67:1557/live/9999/9999/4181.ts
-#EXTINF:0,IT: Tele Video Agrigento
-http://51.255.76.67:1557/live/9999/9999/4194.ts
-#EXTINF:0,IT: Tele Nord
-http://51.255.76.67:1557/live/9999/9999/4151.ts
-#EXTINF:0,IT: Tele Padova Telecitt
-http://51.255.76.67:1557/live/9999/9999/4168.ts
-#EXTINF:0,IT: Tele Nuova
-http://51.255.76.67:1557/live/9999/9999/4206.ts
-#EXTINF:0,IT: Tele Nuova 2
-http://51.255.76.67:1557/live/9999/9999/4207.ts
-#EXTINF:0,IT: Tele Milano
-http://51.255.76.67:1557/live/9999/9999/4150.ts
-#EXTINF:0,IT: Tele Boario
-http://51.255.76.67:1557/live/9999/9999/4163.ts
-#EXTINF:0,IT: Tele Acras
-http://51.255.76.67:1557/live/9999/9999/4195.ts
-#EXTINF:0,IT: TcsTV
-http://51.255.76.67:1557/live/9999/9999/4192.ts
-#EXTINF:0,IT: Suedtirol TV
-http://51.255.76.67:1557/live/9999/9999/4175.ts
-#EXTINF:0,IT: RtpTV
-http://51.255.76.67:1557/live/9999/9999/4190.ts
-#EXTINF:0,IT: RmkTV
-http://51.255.76.67:1557/live/9999/9999/4191.ts
-#EXTINF:0,IT: ReteBiella TV
-http://51.255.76.67:1557/live/9999/9999/4172.ts
-#EXTINF:0,IT: Rete Versilia
-http://51.255.76.67:1557/live/9999/9999/4155.ts
-#EXTINF:0,IT: Alto Adige
-http://51.255.76.67:1557/live/9999/9999/4147.ts
-#EXTINF:0,IT: Alpa Uno TV
-http://51.255.76.67:1557/live/9999/9999/4179.ts
-#EXTINF:0,IT: ReteSole Lazio
-http://51.255.76.67:1557/live/9999/9999/4153.ts
-#EXTINF:0,IT: ReteSole Umbria
-http://51.255.76.67:1557/live/9999/9999/3961.ts
-#EXTINF:0,IT: Orler TV
-http://51.255.76.67:1557/live/9999/9999/4200.ts
-#EXTINF:0,IT: Onda TV
-http://51.255.76.67:1557/live/9999/9999/4154.ts
-#EXTINF:0,IT: La Sicilia TV
-http://51.255.76.67:1557/live/9999/9999/4180.ts
-#EXTINF:0,IT: Fano TV
-http://51.255.76.67:1557/live/9999/9999/4210.ts
-#EXTINF:0,IT: ETV Marche
-http://51.255.76.67:1557/live/9999/9999/4209.ts
-#EXTINF:0,IT: Esperia TV
-http://51.255.76.67:1557/live/9999/9999/4202.ts
-#EXTINF:0,IT: Enna TV
-http://51.255.76.67:1557/live/9999/9999/4189.ts
-#EXTINF:0,IT: Eden TV
-http://51.255.76.67:1557/live/9999/9999/4167.ts
-#EXTINF:0,IT: Primocanale TV
-http://51.255.76.67:1557/live/9999/9999/4177.ts
-#EXTINF:0,IT: Di TV 1
-http://51.255.76.67:1557/live/9999/9999/4164.ts
-#EXTINF:0,IT: Di TV 2
-http://51.255.76.67:1557/live/9999/9999/4165.ts
-#EXTINF:0,IT: Di TV 3
-http://51.255.76.67:1557/live/9999/9999/4166.ts
-#EXTINF:0,IT: CTS TV
-http://51.255.76.67:1557/live/9999/9999/4187.ts
-#EXTINF:0,IT: Canale 7 Ita
-http://51.255.76.67:1557/live/9999/9999/4160.ts
-#EXTINF:0,IT: Rete8 Sport
-http://51.255.76.67:1557/live/9999/9999/4149.ts
-#EXTINF:0,IT: Tele8
-http://51.255.76.67:1557/live/9999/9999/4193.ts
-#EXTINF:0,IT: Canale8
-http://51.255.76.67:1557/live/9999/9999/4182.ts
-#EXTINF:0,IT: CanaleDieci TV
-http://51.255.76.67:1557/live/9999/9999/4176.ts
-#EXTINF:0,IT: E20 Sicilia
-http://51.255.76.67:1557/live/9999/9999/4188.ts
-#EXTINF:0,IT: Napoli TV 21
-http://51.255.76.67:1557/live/9999/9999/4158.ts
-#EXTINF:0,IT: Napoli Canale 21 TV
-http://51.255.76.67:1557/live/9999/9999/3964.ts
-#EXTINF:0,IT: Canale 21 Lazio
-http://51.255.76.67:1557/live/9999/9999/4205.ts
-#EXTINF:0,IT: Canale 21 Campania
-http://51.255.76.67:1557/live/9999/9999/4204.ts
-#EXTINF:0,IT: Canale 33
-http://51.255.76.67:1557/live/9999/9999/4183.ts
-#EXTINF:0,IT: Canale 46
-http://51.255.76.67:1557/live/9999/9999/4178.ts
-#EXTINF:0,IT: Rete 55 Live
-http://51.255.76.67:1557/live/9999/9999/4161.ts
-#EXTINF:0,IT: Vitalia1
-http://51.255.76.67:1557/live/9999/9999/4184.ts
-#EXTINF:0,IT: Vitalia2
-http://51.255.76.67:1557/live/9999/9999/4185.ts
-#EXTINF:0,IT: Vitalia3
-http://51.255.76.67:1557/live/9999/9999/4186.ts
-#EXTINF:0,IT: Studio 100
-http://51.255.76.67:1557/live/9999/9999/4156.ts
-#EXTINF:0,IT: VisualRadio TV (musica)
-http://51.255.76.67:1557/live/9999/9999/4622.ts
-#EXTINF:0,IT: VideoStar TV
-http://51.255.76.67:1557/live/9999/9999/4646.ts
-#EXTINF:0,IT: Videolina
-http://51.255.76.67:1557/live/9999/9999/4616.ts
-#EXTINF:0,IT: Video Brescia
-http://51.255.76.67:1557/live/9999/9999/4645.ts
-#EXTINF:0,IT: TVRS
-http://51.255.76.67:1557/live/9999/9999/4621.ts
-#EXTINF:0,IT: Milanow TV
-http://51.255.76.67:1557/live/9999/9999/4649.ts
-#EXTINF:0,IT: TeleSardegna
-http://51.255.76.67:1557/live/9999/9999/4650.ts
-#EXTINF:0,IT: Venezia Ponte Rialto Dal Vivo
-http://51.255.76.67:1557/live/9999/9999/4652.ts
-#EXTINF:0,IT: Sud TV Campagnia
-http://51.255.76.67:1557/live/9999/9999/4651.ts
-#EXTINF:0,IT: Ultima TV
-http://51.255.76.67:1557/live/9999/9999/4653.ts
-#EXTINF:0,IT: Le fiabe Disney 1
-http://51.255.76.67:1557/live/9999/9999/4655.ts
-#EXTINF:0,IT: Le fiabe Disney 2
-http://51.255.76.67:1557/live/9999/9999/4656.ts
-#EXTINF:0,IT: Le fiabe Disney 3
-http://51.255.76.67:1557/live/9999/9999/4657.ts
-#EXTINF:0,IT: TV2000
-http://51.255.76.67:1557/live/9999/9999/4623.ts
-#EXTINF:0,IT: TeleSondrioNews
-http://51.255.76.67:1557/live/9999/9999/4619.ts
-#EXTINF:0,IT: TeleSondrio Livigno
-http://51.255.76.67:1557/live/9999/9999/4620.ts
-#EXTINF:0,IT: TeleOnda
-http://51.255.76.67:1557/live/9999/9999/4644.ts
-#EXTINF:0,IT: TeleMonteNeve
-http://51.255.76.67:1557/live/9999/9999/4641.ts
-#EXTINF:0,IT: TeleMIa
-http://51.255.76.67:1557/live/9999/9999/4643.ts
-#EXTINF:0,IT: Tele Studio Modena
-http://51.255.76.67:1557/live/9999/9999/4642.ts
-#EXTINF:0,IT: Radio Radicale TV
-http://51.255.76.67:1557/live/9999/9999/4626.ts
-#EXTINF:0,IT: Lucania TV
-http://51.255.76.67:1557/live/9999/9999/4618.ts
-#EXTINF:0,IT: History Lab
-http://51.255.76.67:1557/live/9999/9999/4638.ts
-#EXTINF:0,IT: CNBC Class
-http://51.255.76.67:1557/live/9999/9999/4629.ts
-#EXTINF:0,IT: Canale10
-http://51.255.76.67:1557/live/9999/9999/4637.ts
-#EXTINF:0,IT: Brescia Tv
-http://51.255.76.67:1557/live/9999/9999/4617.ts
-#EXTINF:0,IT: A3 Venetto
-http://51.255.76.67:1557/live/9999/9999/4636.ts
-#EXTINF:0,IT: Radio Radicale Senato TV
-http://51.255.76.67:1557/live/9999/9999/4628.ts
-#EXTINF:0,IT: Radio Radicale Camera TV
-http://51.255.76.67:1557/live/9999/9999/4627.ts
-#EXTINF:0,IT: m2o (musica)
-http://51.255.76.67:1557/live/9999/9999/4624.ts
-#EXTINF:0,IT: OTTO 8fm TV (music)
-http://51.255.76.67:1557/live/9999/9999/4639.ts
-#EXTINF:0,IT: RTL 102.5 TV (musica)
-http://51.255.76.67:1557/live/9999/9999/4640.ts
-#EXTINF:0,IT: RTV 105
-http://51.255.76.67:1557/live/9999/9999/4216.ts
-#EXTINF:0,IT: RadioMonteCarlo
-http://51.255.76.67:1557/live/9999/9999/4217.ts
-#EXTINF:0,IT: Radio Norba TV
-http://51.255.76.67:1557/live/9999/9999/4198.ts
-#EXTINF:0,IT: Radio Italia TV
-http://51.255.76.67:1557/live/9999/9999/3420.ts
+#EXTINF:-1,IT: SKY CALCIO 5 HD
+http://bazarhd.online:80/307234110115/307234110115/165451
+#EXTINF:-1,IT: SKY CALCIO 6 HD
+http://bazarhd.online:80/307234110115/307234110115/165450
+#EXTINF:-1,IT- RAI 1 TNT
+http://bazarhd.online:80/307234110115/307234110115/162005
+#EXTINF:-1,IT- RAI 4 TNT
+http://bazarhd.online:80/307234110115/307234110115/162004
+#EXTINF:-1,IT- Rai Gulp TNT
+http://bazarhd.online:80/307234110115/307234110115/162003
+#EXTINF:-1,IT- Rai Movie TNT
+http://bazarhd.online:80/307234110115/307234110115/162002
+#EXTINF:-1,IT- RAI Premium TNT
+http://bazarhd.online:80/307234110115/307234110115/162001
+#EXTINF:-1,IT- Rai Yoyo TNT
+http://bazarhd.online:80/307234110115/307234110115/162000
+#EXTINF:-1,IT- Rai 2 hd TNT
+http://bazarhd.online:80/307234110115/307234110115/161999
+#EXTINF:-1,IT- rai sport+ TNT
+http://bazarhd.online:80/307234110115/307234110115/161998
+#EXTINF:-1,IT- la7 TNT
+http://bazarhd.online:80/307234110115/307234110115/161997
+#EXTINF:-1,IT- la7d TNT
+http://bazarhd.online:80/307234110115/307234110115/161996
+#EXTINF:-1,IT: Rai 1
+http://bazarhd.online:80/307234110115/307234110115/161995
+#EXTINF:-1,IT: Rai 2
+http://bazarhd.online:80/307234110115/307234110115/161994
+#EXTINF:-1,IT: Rai 3
+http://bazarhd.online:80/307234110115/307234110115/161993
+#EXTINF:-1,IT: Rete4
+http://bazarhd.online:80/307234110115/307234110115/161992
+#EXTINF:-1,IT: Italia 1
+http://bazarhd.online:80/307234110115/307234110115/161991
+#EXTINF:-1,IT: RSI LA 1 HD
+http://bazarhd.online:80/307234110115/307234110115/161990
+#EXTINF:-1,IT: LA7
+http://bazarhd.online:80/307234110115/307234110115/161989
+#EXTINF:-1,IT: LA 7D
+http://bazarhd.online:80/307234110115/307234110115/161988
+#EXTINF:-1,IT: TV8
+http://bazarhd.online:80/307234110115/307234110115/161987
+#EXTINF:-1,IT: RAI 4
+http://bazarhd.online:80/307234110115/307234110115/161986
+#EXTINF:-1,IT: Rai 5
+http://bazarhd.online:80/307234110115/307234110115/161985
+#EXTINF:-1,IT: Iris
+http://bazarhd.online:80/307234110115/307234110115/161984
+#EXTINF:-1,IT: Rai movie
+http://bazarhd.online:80/307234110115/307234110115/161983
+#EXTINF:-1,IT: Mediaset Italia 2
+http://bazarhd.online:80/307234110115/307234110115/161982
+#EXTINF:-1,IT: MEDIASET EXTRA
+http://bazarhd.online:80/307234110115/307234110115/161981
+#EXTINF:-1,IT: Mediaset Extra 2
+http://bazarhd.online:80/307234110115/307234110115/161980
+#EXTINF:-1,IT: Real Time
+http://bazarhd.online:80/307234110115/307234110115/161979
+#EXTINF:-1,IT: DMAX HD
+http://bazarhd.online:80/307234110115/307234110115/161978
+#EXTINF:-1,IT: Gambero Rosso
+http://bazarhd.online:80/307234110115/307234110115/161977
+#EXTINF:-1,IT: Cielo HD
+http://bazarhd.online:80/307234110115/307234110115/161976
+#EXTINF:-1,IT: canale 5
+http://bazarhd.online:80/307234110115/307234110115/161975
+#EXTINF:-1,IT: Rai News 24
+http://bazarhd.online:80/307234110115/307234110115/161974
+#EXTINF:-1,IT: Rai Premiun
+http://bazarhd.online:80/307234110115/307234110115/161973
+#EXTINF:-1,IT: SKY CINEMA UNO HD
+http://bazarhd.online:80/307234110115/307234110115/161972
+#EXTINF:-1,IT: SKY CINEMA UNO + 24 HD
+http://bazarhd.online:80/307234110115/307234110115/161971
+#EXTINF:-1,IT: Sky Cinema Due HD
+http://bazarhd.online:80/307234110115/307234110115/161970
+#EXTINF:-1,IT: Sky Cinema Due +24 HD
+http://bazarhd.online:80/307234110115/307234110115/161969
+#EXTINF:-1,IT: SKY CINEMA COLLECTION HD
+http://bazarhd.online:80/307234110115/307234110115/161968
+#EXTINF:-1,IT: SKY CINEMA FAMILY HD
+http://bazarhd.online:80/307234110115/307234110115/161967
+#EXTINF:-1,IT: Sky Cinema Action HD
+http://bazarhd.online:80/307234110115/307234110115/161966
+#EXTINF:-1,IT: SKY CINEMA DRAMA HD
+http://bazarhd.online:80/307234110115/307234110115/161965
+#EXTINF:-1,IT: SKY CINEMA ROMANCE HD
+http://bazarhd.online:80/307234110115/307234110115/161964
+#EXTINF:-1,IT: Sky Cinema Comedy HD
+http://bazarhd.online:80/307234110115/307234110115/161963
+#EXTINF:-1,IT: SKY CINEMA Suspense HD
+http://bazarhd.online:80/307234110115/307234110115/161962
+#EXTINF:-1,IT: SKY ATLANTIC HD
+http://bazarhd.online:80/307234110115/307234110115/161961
+#EXTINF:-1,IT: Sky Uno  1 HD
+http://bazarhd.online:80/307234110115/307234110115/161960
+#EXTINF:-1,IT: Sky Fox Crime HD
+http://bazarhd.online:80/307234110115/307234110115/161959
+#EXTINF:-1,IT: Sky Fox HD
+http://bazarhd.online:80/307234110115/307234110115/161958
+#EXTINF:-1,IT: Sky Focus
+http://bazarhd.online:80/307234110115/307234110115/161957
+#EXTINF:-1,IT: Primafila 1 live
+http://bazarhd.online:80/307234110115/307234110115/161956
+#EXTINF:-1,IT: Primafila 2 live
+http://bazarhd.online:80/307234110115/307234110115/161955
+#EXTINF:-1,IT: Primafila 3 live
+http://bazarhd.online:80/307234110115/307234110115/161954
+#EXTINF:-1,IT: Primafila 4 live
+http://bazarhd.online:80/307234110115/307234110115/161953
+#EXTINF:-1,IT: Primafila 5 live
+http://bazarhd.online:80/307234110115/307234110115/161952
+#EXTINF:-1,IT: Primafila 6 live
+http://bazarhd.online:80/307234110115/307234110115/161951
+#EXTINF:-1,IT: Primafila 7 live
+http://bazarhd.online:80/307234110115/307234110115/161950
+#EXTINF:-1,IT: Primafila 8 leve
+http://bazarhd.online:80/307234110115/307234110115/161949
+#EXTINF:-1,IT: Primafila 9 live
+http://bazarhd.online:80/307234110115/307234110115/161948
+#EXTINF:-1,IT: Primafila 10 leve
+http://bazarhd.online:80/307234110115/307234110115/161947
+#EXTINF:-1,IT: Primafila 11 leve
+http://bazarhd.online:80/307234110115/307234110115/161946
+#EXTINF:-1,IT: Primafila 12 leve
+http://bazarhd.online:80/307234110115/307234110115/161945
+#EXTINF:-1,IT: Premium Stories
+http://bazarhd.online:80/307234110115/307234110115/161944
+#EXTINF:-1,IT: Premium Energy
+http://bazarhd.online:80/307234110115/307234110115/161943
+#EXTINF:-1,IT: Premium Emotion
+http://bazarhd.online:80/307234110115/307234110115/161942
+#EXTINF:-1,IT: Premium Comedy
+http://bazarhd.online:80/307234110115/307234110115/161941
+#EXTINF:-1,IT: Premium Cinema
+http://bazarhd.online:80/307234110115/307234110115/161940
+#EXTINF:-1,IT: Premium Cinema 24
+http://bazarhd.online:80/307234110115/307234110115/161939
+#EXTINF:-1,IT: Premium Action
+http://bazarhd.online:80/307234110115/307234110115/161938
+#EXTINF:-1,IT: Premium 20
+http://bazarhd.online:80/307234110115/307234110115/161937
+#EXTINF:-1,IT: SKY Calcio 1 HD
+http://bazarhd.online:80/307234110115/307234110115/161936
+#EXTINF:-1,IT: Top Calcio 24
+http://bazarhd.online:80/307234110115/307234110115/161933
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://bazarhd.online:80/307234110115/307234110115/161932
+#EXTINF:-1,IT: Sky Sport Uno
+http://bazarhd.online:80/307234110115/307234110115/161931
+#EXTINF:-1,IT: Sky Sport Serie A HD
+http://bazarhd.online:80/307234110115/307234110115/161930
+#EXTINF:-1,IT: sky sport serie a FHD
+http://bazarhd.online:80/307234110115/307234110115/161929
+#EXTINF:-1,IT: Sky Sport Seri A 1
+http://bazarhd.online:80/307234110115/307234110115/161928
+#EXTINF:-1,IT: Sky Sport Football HD
+http://bazarhd.online:80/307234110115/307234110115/161927
+#EXTINF:-1,IT: Sky Sport Arena H D
+http://bazarhd.online:80/307234110115/307234110115/161926
+#EXTINF:-1,IT: DAZN Sport 1 HD
+http://bazarhd.online:80/307234110115/307234110115/161925
+#EXTINF:-1,IT: DAZN Sport 2 HD
+http://bazarhd.online:80/307234110115/307234110115/161924
+#EXTINF:-1,IT: Premium Eurosport 1
+http://bazarhd.online:80/307234110115/307234110115/161923
+#EXTINF:-1,IT: Lazio Channel
+http://bazarhd.online:80/307234110115/307234110115/161922
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://bazarhd.online:80/307234110115/307234110115/161921
+#EXTINF:-1,IT: SKY Sport F1 HD
+http://bazarhd.online:80/307234110115/307234110115/161920
+#EXTINF:-1,IT: Sky Sport MotoGP
+http://bazarhd.online:80/307234110115/307234110115/161919
+#EXTINF:-1,IT: Rai Sport 1
+http://bazarhd.online:80/307234110115/307234110115/161918
+#EXTINF:-1,IT: Rai Sport 2
+http://bazarhd.online:80/307234110115/307234110115/161917
+#EXTINF:-1,IT: Super Tennis HD
+http://bazarhd.online:80/307234110115/307234110115/161916
+#EXTINF:-1,IT: Eurosport 1 HD
+http://bazarhd.online:80/307234110115/307234110115/161915
+#EXTINF:-1,IT: Eurosport 2 HD
+http://bazarhd.online:80/307234110115/307234110115/161914
+#EXTINF:-1,IT: RAI SPORT
+http://bazarhd.online:80/307234110115/307234110115/161913
+#EXTINF:-1,IT: Disney XD
+http://bazarhd.online:80/307234110115/307234110115/161912
+#EXTINF:-1,IT: Sky Cartoon Network
+http://bazarhd.online:80/307234110115/307234110115/161911
+#EXTINF:-1,IT: Cartoon Network
+http://bazarhd.online:80/307234110115/307234110115/161910
+#EXTINF:-1,IT: Sky  DISNEY JUNIOR
+http://bazarhd.online:80/307234110115/307234110115/161909
+#EXTINF:-1,IT: Sky DISNEY CHANNEL
+http://bazarhd.online:80/307234110115/307234110115/161908
+#EXTINF:-1,IT: Rai gulp
+http://bazarhd.online:80/307234110115/307234110115/161907
+#EXTINF:-1,IT: Rai Yoyo
+http://bazarhd.online:80/307234110115/307234110115/161906
+#EXTINF:-1,IT: DISNEY JUNIOR
+http://bazarhd.online:80/307234110115/307234110115/161905
+#EXTINF:-1,IT: CARTOONITO
+http://bazarhd.online:80/307234110115/307234110115/161904
+#EXTINF:-1,IT: Sky Discovery Science HD
+http://bazarhd.online:80/307234110115/307234110115/161903
+#EXTINF:-1,IT: Sky NatGeo Wild HD
+http://bazarhd.online:80/307234110115/307234110115/161902
+#EXTINF:-1,IT: SKY NATIONAL GEOGRAPHIC HD
+http://bazarhd.online:80/307234110115/307234110115/161901
+#EXTINF:-1,IT: History Lab
+http://bazarhd.online:80/307234110115/307234110115/161900
+#EXTINF:-1,IT: GIALLO
+http://bazarhd.online:80/307234110115/307234110115/161899
+#EXTINF:-1,IT: FOX LIFE HD
+http://bazarhd.online:80/307234110115/307234110115/161898
+#EXTINF:-1,IT: Fox HD
+http://bazarhd.online:80/307234110115/307234110115/161897
+#EXTINF:-1,IT: FOX COMEDY HD
+http://bazarhd.online:80/307234110115/307234110115/161896
+#EXTINF:-1,IT: Animal Planet
+http://bazarhd.online:80/307234110115/307234110115/161895
